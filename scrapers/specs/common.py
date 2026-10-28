@@ -17,6 +17,7 @@ and products that left the site are kept so older price rows still join.
 import csv
 import json
 import logging
+import os
 import re
 from datetime import datetime
 from pathlib import Path
@@ -28,6 +29,10 @@ from urllib3.util.retry import Retry
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 SPECS_DIR = REPO_ROOT / "data" / "specs"
+# The inflation study's daily price CSVs. Default: the study folder on the Desktop
+# next to jkjk/; set INFLATION_DATAS when it lives elsewhere.
+INFLATION_DATAS = Path(os.environ.get("INFLATION_DATAS")
+                       or REPO_ROOT.parents[1] / "InflationResearchStudy" / "InflationItems" / "Datas")
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -116,7 +121,10 @@ def load_specs(path):
 
 
 def merge_and_save(retailer, rows):
-    """Merge today's rows into data/specs/<retailer>_specs.csv; returns (added, updated, kept)."""
+    """Merge rows into data/specs/<retailer>_specs.csv; returns (path, added, updated, kept).
+
+    A row's first_seen/last_seen default to today; a scraper that reads older daily
+    files passes the files' dates instead."""
     path = specs_path(retailer)
     existing = load_specs(path)
     date = today()
@@ -127,8 +135,9 @@ def merge_and_save(retailer, rows):
             row["attributes"] = json.dumps(row["attributes"], ensure_ascii=False, sort_keys=True)
         key = str(row["retailer_product_id"])
         old = existing.get(key)
-        row["first_seen"] = old["first_seen"] if old else date
-        row["last_seen"] = date
+        first, last = row["first_seen"] or date, row["last_seen"] or date
+        row["first_seen"] = min(old["first_seen"], first) if old else first
+        row["last_seen"] = max(old["last_seen"], last) if old else last
         if old:
             updated += 1
         else:
