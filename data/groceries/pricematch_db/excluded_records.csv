@@ -1,0 +1,731 @@
+retailer,offer_id,record_key,original_product_name,price,reason
+A101,A101-000318,A101|a101_kapida_2026-10-29.csv|318,Maret Dana Baton Kavurma 1 Kg,999.00,needs_review: placeholder_price
+A101,,A101|a101_kapida_2026-10-29.csv|616,"Birşah Tam Kıvamında Yoğurt 1,5 KG",97.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|625,Birşah Tam Kıvamında Yoğurt 1500 G,66.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|1191,Hun Helva Fıstıklı 500 G,105.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|1193,Hun Helva Cevizli 500 G,99.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|1194,Hun Cevizli Helva 500 G,79.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|1213,Hun Fıstıklı Helva 500 G,150.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|1415,Hasata Köy Sofrası Pilavlık Bulgur 1000 G,39.50,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|1480,Hasata Köy Sofrası Pilavlık Bulgur 1 Kg,39.50,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|1939,Kent Boringer Karbonat 1000 G,98.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|1940,Kent Boringer Karbonat 1 Kg,65.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,A101-003963,A101|a101_kapida_2026-10-29.csv|3975,O'Fresh Meyve ve Nane Aromalı Şekerli Sakız Mix 80 G 4'lü,23.50,needs_review: case_or_single_price_unclear
+A101,A101-003966,A101|a101_kapida_2026-10-29.csv|3978,Nazar Karışık Meyve Aromalı Şekerli Mix Sakız 80 G 3'lü,15.00,needs_review: case_or_single_price_unclear
+A101,,A101|a101_kapida_2026-10-29.csv|4560,Dimes Nar Meyveli İçecek 1 L,29.50,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|4686,Dimes Meyveli İçecek Nar 1 L,45.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|5080,Cafex Beyazlatıcısı Kahve 200 G,49.50,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|5093,Cafex Kahve Beyazlatıcısı 200 G,49.50,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,A101-005145,A101|a101_kapida_2026-10-29.csv|5161,Tchibo Gold Selection Çekirdek Kahve 1 Kg,999.00,needs_review: placeholder_price
+A101,A101-005681,A101|a101_kapida_2026-10-29.csv|5697,Fairy Platinum Fresh Bulaşık Makinesi Kapsülü 50'li,999.00,needs_review: placeholder_price
+A101,,A101|a101_kapida_2026-10-29.csv|6165,Clean&Fun Mikrofiber Temizlik Bezi 3'lü 30x30 Cm,59.50,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|6170,Clean&Fun Mikrofiber Temizlik Bezi 30x30 Cm 3'lü,59.50,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|6250,İpek Normal Saçlar İçin Şampuan 480 Ml,65.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|6356,İpek Normal Saçlar İçin Şampuan 480 ml,99.50,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|6443,Palmolive Massage Duş Jeli 750 ml,399.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|6446,Palmolive Glow Duş Jeli 750 ml,399.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|6455,Palmolive Duş Jeli Glow 750 ml,399.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,,A101|a101_kapida_2026-10-29.csv|6456,Palmolive Duş Jeli Massage 750 ml,399.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+A101,A101-007069,A101|a101_kapida_2026-10-29.csv|7094,"Philips 32PHS6009/62 32"" HD Smart LED TV",9999.00,needs_review: placeholder_price
+A101,A101-007091,A101|a101_kapida_2026-10-29.csv|7116,"Dijitech 43DJF12000 43"" Full HD Google TV",9999.00,needs_review: placeholder_price
+A101,A101-007125,A101|a101_kapida_2026-10-29.csv|7150,"Onvo 43OVF5000AQ 43"" Frameless FHD Qled Google TV",9999.00,needs_review: placeholder_price
+A101,A101-007158,A101|a101_kapida_2026-10-29.csv|7183,Piranha 5446 Selfie Çubuğu,999.00,needs_review: placeholder_price
+A101,A101-007171,A101|a101_kapida_2026-10-29.csv|7196,Trax Mobile M24303 Bluetooth Hoparlör Şarj Standı,999.00,needs_review: placeholder_price
+A101,A101-007183,A101|a101_kapida_2026-10-29.csv|7208,Thull Powerbank PD10003,999.00,needs_review: placeholder_price
+A101,A101-007190,A101|a101_kapida_2026-10-29.csv|7215,English Home DGR 3001 Doğrayıcı,999.00,needs_review: placeholder_price
+A101,A101-007226,A101|a101_kapida_2026-10-29.csv|7251,Arzum Monomix Çubuk Blender AR1132,999.00,needs_review: placeholder_price
+A101,A101-007227,A101|a101_kapida_2026-10-29.csv|7252,Homend Handmaid 1935H Çubuk Blender,999.00,needs_review: placeholder_price
+A101,A101-007232,A101|a101_kapida_2026-10-29.csv|7257,Kiwi Buharlı Temizleyici KSC4211,999.00,needs_review: placeholder_price
+A101,A101-007256,A101|a101_kapida_2026-10-29.csv|7281,Sinbo SSM-2589 Belçika Waffle Makinesi,999.00,needs_review: placeholder_price
+A101,A101-007282,A101|a101_kapida_2026-10-29.csv|7307,Sinbo STM 5840 Elektrikli Çay Makinesi,999.00,needs_review: placeholder_price
+A101,A101-007294,A101|a101_kapida_2026-10-29.csv|7319,Kiwi KLB1612 Elektrikli Sefer Tası,999.00,needs_review: placeholder_price
+A101,A101-007298,A101|a101_kapida_2026-10-29.csv|7323,Onvo OVCM01 Tam Otomatik Kahve Makinesi,9999.00,needs_review: placeholder_price
+A101,A101-007310,A101|a101_kapida_2026-10-29.csv|7335,Altus Narenciye Sıkacağı,999.00,needs_review: placeholder_price
+A101,A101-007312,A101|a101_kapida_2026-10-29.csv|7337,Sinbo SK-8042 Dijital Su Isıtıcısı,999.00,needs_review: placeholder_price
+A101,A101-007338,A101|a101_kapida_2026-10-29.csv|7364,English Home Cam Kettle,999.00,needs_review: placeholder_price
+A101,A101-007348,A101|a101_kapida_2026-10-29.csv|7374,Sinbo SVC-8616 Dikey Elektrikli Süpürge,999.00,needs_review: placeholder_price
+A101,A101-007380,A101|a101_kapida_2026-10-29.csv|7406,Kiwi 2442 Waffle Makinesi,999.00,needs_review: placeholder_price
+A101,A101-007386,A101|a101_kapida_2026-10-29.csv|7412,Pierre Cardin Buharlı Kırışıklık Giderici,999.00,needs_review: placeholder_price
+A101,A101-007391,A101|a101_kapida_2026-10-29.csv|7417,Sinbo SCM 2985 Türk Kahvesi Makinesi,999.00,needs_review: placeholder_price
+A101,A101-007392,A101|a101_kapida_2026-10-29.csv|7418,Sinbo SHD-1740 BLDC Saç Kurutma Makinesi,999.00,needs_review: placeholder_price
+A101,A101-007413,A101|a101_kapida_2026-10-29.csv|7439,English Home ELB 3001 El Blenderı,999.00,needs_review: placeholder_price
+A101,A101-007432,A101|a101_kapida_2026-10-29.csv|7458,Sinbo SHB-3182 Çırpıcılı El Blender Seti,999.00,needs_review: placeholder_price
+A101,A101-007450,A101|a101_kapida_2026-10-29.csv|7476,Pierre Cardin Şarjlı Saç Kesme Makinesi,999.00,needs_review: placeholder_price
+A101,A101-007458,A101|a101_kapida_2026-10-29.csv|7484,Arzum Pery AR5038 Saç Kurutma Makinesi,999.00,needs_review: placeholder_price
+A101,A101-007476,A101|a101_kapida_2026-10-29.csv|7502,Pierre Cardin E11002 6 Başlıklı Epilasyon Seti,999.00,needs_review: placeholder_price
+A101,A101-007482,A101|a101_kapida_2026-10-29.csv|7508,Pierre Cardin PC-C21001 İkisi Bir Arada Saç Maşası ve Düzleştirici,999.00,needs_review: placeholder_price
+A101,A101-007492,A101|a101_kapida_2026-10-29.csv|7518,Pierre Cardin PC-A31002 Erkek Tıraş Makinesi,999.00,needs_review: placeholder_price
+A101,A101-007497,A101|a101_kapida_2026-10-29.csv|7523,Pierre Cardin PC-C31001 Otomatik Saç Maşası,999.00,needs_review: placeholder_price
+A101,A101-007500,A101|a101_kapida_2026-10-29.csv|7526,Onvo OVHD200 Saç Kurutma Makinesi,999.00,needs_review: placeholder_price
+A101,A101-007526,A101|a101_kapida_2026-10-29.csv|7552,Pierre Cardin İyonik Saç Kurutma Makinesi,999.00,needs_review: placeholder_price
+A101,A101-007546,A101|a101_kapida_2026-10-29.csv|7572,Onvo OVMC1300 10 in 1 Erkek Bakım Seti,999.00,needs_review: placeholder_price
+A101,A101-007554,A101|a101_kapida_2026-10-29.csv|7580,Onvo OVMC1400 Erkek Kişisel Bakım Seti,999.00,needs_review: placeholder_price
+A101,A101-007564,A101|a101_kapida_2026-10-29.csv|7590,Hilfe Ayaklı Vantilatör,999.00,needs_review: placeholder_price
+A101,A101-007578,A101|a101_kapida_2026-10-29.csv|7604,Kiwi Katlanır Ayaklı Vantilatör,999.00,needs_review: placeholder_price
+A101,A101-007579,A101|a101_kapida_2026-10-29.csv|7605,Kiwi KFAN-7681 Tavan Tipi Fan,999.00,needs_review: placeholder_price
+A101,A101-007605,A101|a101_kapida_2026-10-29.csv|7631,Fineblue Gaming Set 4 In 1,999.00,needs_review: placeholder_price
+A101,A101-007623,A101|a101_kapida_2026-10-29.csv|7649,Piranha Bebek IP Kamera,999.00,needs_review: placeholder_price
+A101,A101-007630,A101|a101_kapida_2026-10-29.csv|7656,Philips TAH2209 Kafaüstü Kulaklık,999.00,needs_review: placeholder_price
+A101,A101-007663,A101|a101_kapida_2026-10-29.csv|7689,Thull THL-BTS-AP1182 Hoparlör,999.00,needs_review: placeholder_price
+A101,A101-007678,A101|a101_kapida_2026-10-29.csv|7704,Thull ANC Kafaüstü Kulaklık THL-E11,999.00,needs_review: placeholder_price
+A101,A101-007705,A101|a101_kapida_2026-10-29.csv|7731,Philips Bluetooth Kulaklık TAH1108,999.00,needs_review: placeholder_price
+A101,A101-007738,A101|a101_kapida_2026-10-29.csv|7764,Trax M24302 Bluetooth Hoparlör Şarj Standı,999.00,needs_review: placeholder_price
+A101,A101-007989,A101|a101_kapida_2026-10-29.csv|8015,Hascevher Tencere Seti 6 Parça,999.00,needs_review: placeholder_price
+A101,A101-007991,A101|a101_kapida_2026-10-29.csv|8017,Hascevher Düdüklü Tencere 5 L,999.00,needs_review: placeholder_price
+A101,A101-008000,A101|a101_kapida_2026-10-29.csv|8026,Lava Döküm Sahan 20 cm Kırmızı,999.00,needs_review: placeholder_price
+A101,A101-008026,A101|a101_kapida_2026-10-29.csv|8052,Hascevher Çelik Derin Tencere 28 cm,999.00,needs_review: placeholder_price
+A101,A101-008111,A101|a101_kapida_2026-10-29.csv|8137,English Home Narenciye Sıkacağı,999.00,needs_review: placeholder_price
+A101,A101-008118,A101|a101_kapida_2026-10-29.csv|8144,Pierre Cardin Kahve ve Baharat Öğütücü,999.00,needs_review: placeholder_price
+A101,A101-008124,A101|a101_kapida_2026-10-29.csv|8150,Kiwi KSM-2432 Waffle Makinesi,999.00,needs_review: placeholder_price
+A101,A101-008182,A101|a101_kapida_2026-10-29.csv|8208,Kütahya Porselen Luz Serisi Pasta Tabağı Seti 6'lı 21 cm,999.00,needs_review: placeholder_price
+A101,A101-008264,A101|a101_kapida_2026-10-29.csv|8290,Çok Amaçlı Sepet 60 L,349.00,needs_review: suspicious_size
+A101,A101-008357,A101|a101_kapida_2026-10-29.csv|8383,Triathlon T-244 Dikey Şişme Boks Torbası,999.00,needs_review: placeholder_price
+A101,A101-008430,A101|a101_kapida_2026-10-29.csv|8456,Piranha Dekupaj Testere,999.00,needs_review: placeholder_price
+A101,A101-008521,A101|a101_kapida_2026-10-29.csv|8547,Piranha 5510 Kablosuz Etiket Yazıcı,999.00,needs_review: placeholder_price
+Arden,ARDEN-000022,Arden|arden_urunler_2026-10-29.csv|22,Akdeniz Toros Piliç Sosis 225 gr 5'li,76.95,needs_review: case_or_single_price_unclear
+Arden,ARDEN-000093,Arden|arden_urunler_2026-10-29.csv|93,Akdeniz Toros Sosis 250 g 5'li,296.95,needs_review: case_or_single_price_unclear
+Arden,ARDEN-001105,Arden|arden_urunler_2026-10-29.csv|1105,Sütaş Şeftali Ve Kayısı Meyveli Yoğurt 115 Gr 4'Lü,95.00,needs_review: case_or_single_price_unclear
+Arden,ARDEN-001107,Arden|arden_urunler_2026-10-29.csv|1107,Sütaş Kaymaksız Yoğurt 125 Gr 4'Lü,59.50,needs_review: case_or_single_price_unclear
+Arden,,Arden|arden_urunler_2026-10-29.csv|1462,Dardanel Ton Ekonomik (4x75 Gr) Hediyeli,399.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Arden,,Arden|arden_urunler_2026-10-29.csv|1507,Dardanel Ton Ekonomik (4X75G) Hediyeli,379.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Arden,ARDEN-001577,Arden|arden_urunler_2026-10-29.csv|1579,Pakmaya Toz Kakao 50 Gr 2'Li,129.95,needs_review: case_or_single_price_unclear
+Arden,ARDEN-001594,Arden|arden_urunler_2026-10-29.csv|1596,Kemal Kükrer Nar Ekşisi Cam 250 Ml 2'Li,339.95,needs_review: case_or_single_price_unclear
+Arden,ARDEN-001716,Arden|arden_urunler_2026-10-29.csv|1718,Falım Çilek Aromalı 7 Gr 5'Li,19.95,needs_review: case_or_single_price_unclear
+Arden,ARDEN-002179,Arden|arden_urunler_2026-10-29.csv|2181,Pınar Ketcap 600 g Mayonez 500 g Avantajlı Paket 2'li,999.00,needs_review: placeholder_price
+Arden,ARDEN-002371,Arden|arden_urunler_2026-10-29.csv|2373,Pınar Ketçap 420 g + Mayonez 350 g,999.00,needs_review: placeholder_price
+Arden,ARDEN-002382,Arden|arden_urunler_2026-10-29.csv|2384,Kenton İnstant Kuru Maya 10 g 3'lü,35.00,needs_review: case_or_single_price_unclear
+Arden,ARDEN-002426,Arden|arden_urunler_2026-10-29.csv|2428,Pınar Ketçap Çeşni Normal 420 g,999.00,needs_review: placeholder_price
+Arden,ARDEN-002611,Arden|arden_urunler_2026-10-29.csv|2613,Pakmaya Yaş Hamur Mayası 500 g,999.00,needs_review: placeholder_price
+Arden,ARDEN-003285,Arden|arden_urunler_2026-10-29.csv|3287,Massimo Kruvasan Çikolatalı 50 gr 6'lı,129.95,needs_review: case_or_single_price_unclear
+Arden,ARDEN-003924,Arden|arden_urunler_2026-10-29.csv|3926,Beypazarı Limon Aromalı Soda 200 Ml 6'Lı,94.95,needs_review: case_or_single_price_unclear
+Arden,ARDEN-004050,Arden|arden_urunler_2026-10-29.csv|4052,Beypazarı Soda 750 Ml,999.00,needs_review: placeholder_price
+Arden,ARDEN-004101,Arden|arden_urunler_2026-10-29.csv|4103,"Champion Dökme Çay Demlik Poşet 3,2 gr 48'li",269.95,needs_review: case_or_single_price_unclear
+Arden,ARDEN-004151,Arden|arden_urunler_2026-10-29.csv|4153,Tropicana Afyon Vişneli İçecek Kutu 330 Ml,999.00,needs_review: placeholder_price
+Arden,ARDEN-004201,Arden|arden_urunler_2026-10-29.csv|4203,Red Bull Enerji İçeceği Classic 250 Ml 4'Lü,277.95,needs_review: case_or_single_price_unclear
+Arden,ARDEN-004257,Arden|arden_urunler_2026-10-29.csv|4259,Nescafe İkisi Bir Arada 10 Gr 10'Lu,129.95,needs_review: case_or_single_price_unclear
+Arden,ARDEN-004318,Arden|arden_urunler_2026-10-29.csv|4320,Doğadan Bitki (Beyaz Çay) Portakal Çiçeği 20X2 Gr,999.00,needs_review: placeholder_price
+Arden,ARDEN-004466,Arden|arden_urunler_2026-10-29.csv|4468,"Güzelpınar Su 0,5 lt",999.00,needs_review: placeholder_price
+Arden,,Arden|arden_urunler_2026-10-29.csv|6203,Cire Aseptine Bronzlaştırıcı Güneş Yağı 8 SPF 200ML,259.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Arden,,Arden|arden_urunler_2026-10-29.csv|6204,Cire Aseptine Bronzlaştırıcı Güneş Yağı 8 SPF 200 Ml,259.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Arden,,Arden|arden_urunler_2026-10-29.csv|6209,Duru Duş Jeli Perfume Orkide Özleri 450 Ml + 450 Ml,319.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Arden,,Arden|arden_urunler_2026-10-29.csv|6210,Duru Duş Jeli Micellar Hydro Pure 450 Ml + 450 Ml,299.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Arden,,Arden|arden_urunler_2026-10-29.csv|6251,Duru Perfume Duş Jeli Orkide Özleri 450 ml,169.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Arden,,Arden|arden_urunler_2026-10-29.csv|6255,Duru Hydro Pure Micellar Duş Jeli 450 ml,159.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Arden,ARDEN-006594,Arden|arden_urunler_2026-10-29.csv|6602,Beaks Muhabbet Kuşları İçin Ballı Kraker 90 Gr 3 Lü,59.95,needs_review: case_or_single_price_unclear
+Arden,ARDEN-006595,Arden|arden_urunler_2026-10-29.csv|6603,Beaks Muhabbet Kuşları İçin Meyve Aromalı Kraker 90 Gr 3 Lü,59.95,needs_review: case_or_single_price_unclear
+Arden,ARDEN-006640,Arden|arden_urunler_2026-10-29.csv|6648,Felix Felix Jöle İçinde Sığır Etli Ve Tavuklu Yetişkin Kedi Konservesi 85gr 4'lü,129.95,needs_review: case_or_single_price_unclear
+Arden,ARDEN-006641,Arden|arden_urunler_2026-10-29.csv|6649,Felix Felix Jöle İçinde Somonlu Ve Ton Balıklı Yetişkin Kedi Konservesi 85gr 4'lü,129.95,needs_review: case_or_single_price_unclear
+Arden,ARDEN-006642,Arden|arden_urunler_2026-10-29.csv|6650,Felix Felix Pouch Jöle İçinde Sığır Etli Ve Tavuklu Yavru Kedi Konservesi 85gr 4'lü,129.95,needs_review: case_or_single_price_unclear
+Basdas,BASDAS-001219,Basdas|basdas_2026-10-29.csv|1219,Tat Mısır 220 Gr 3 Lü,129.95,needs_review: case_or_single_price_unclear
+Basdas,BASDAS-001583,Basdas|basdas_2026-10-29.csv|1583,Bounty Sütlü Çikolata 57 Gr 2'li,64.95,needs_review: case_or_single_price_unclear
+Basdas,BASDAS-001610,Basdas|basdas_2026-10-29.csv|1610,Falım Damla Sakızı Aromalı Şekersiz Sakız 35 G 5'Li,55.90,needs_review: case_or_single_price_unclear
+Basdas,BASDAS-001768,Basdas|basdas_2026-10-29.csv|1768,Ülker Altınbaşak Çörek Otlu Kinoa 40 Gr 5'li,73.50,needs_review: case_or_single_price_unclear
+Basdas,BASDAS-002333,Basdas|basdas_2026-10-29.csv|2333,Magnum Mini Klasik 330 Ml 6 lı,162.45,needs_review: case_or_single_price_unclear
+Basdas,BASDAS-002346,Basdas|basdas_2026-10-29.csv|2346,Magnum Mini Classic-Badem-Beyaz Dondurma 345 Ml 6'lı,162.45,needs_review: case_or_single_price_unclear
+Basdas,BASDAS-002633,Basdas|basdas_2026-10-29.csv|2633,Nescafe 2si1 Arada Sütlü Köpüklü Kahve 10 Gr 10'lu Paket,129.00,needs_review: case_or_single_price_unclear
+Basdas,BASDAS-002648,Basdas|basdas_2026-10-29.csv|2648,"Nescafe 3ü1 Arada Original Çözünebilir Kahve 17,5 Gr 10'lu Paket",129.00,needs_review: case_or_single_price_unclear
+Basdas,BASDAS-002650,Basdas|basdas_2026-10-29.csv|2650,Nescafe 2si1 Arada Çözünebilir Kahve 10 Gr 10'lu Paket,129.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000020,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|20,Knorr Çabuk Çorba Kıtırlı Domates 22 g 24'lü,19.90,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000086,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|86,Dr.Oetker Krem Şanti 75 g 24'lü,68.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000231,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|231,Besler Karabiber 90g 15'li,75.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000232,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|232,Besler Tatlı Kırmızı Toz Biber 50g 10'lu,30.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000235,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|235,Besler Susam 90g 15'li,32.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000236,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|236,Besler Tarçın 90g 15'li,43.90,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000237,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|237,Besler Hindistan Cevizi 50g 15'li,30.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000238,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|238,Besler Çörek Otu 80g 15'li,34.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000257,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|257,Besler Sumak 50g 15'li,34.90,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000266,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|266,Besler Kekik 20g 15'li,23.75,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000267,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|267,Besler Zencefil 30g 15'li,29.90,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000290,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|290,Besler Kırmızı Pul Biber 75g 15'li,45.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000311,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|311,Ülker Çikolatalı Gofret 36 g 36'lı,518.40,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000314,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|314,Beypazarı Sade Maden Suyu 200 ml 6'lı,69.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000331,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|331,Ülker Caramio Çikolata 32 g 24'lü,18.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000332,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|332,Ülker Piko Sütlü Çikolata 18 g 24'lü,192.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000334,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|334,Ülker Albeni Çikolata 40 g 24'lü,14.90,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000336,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|336,Alpella Harby Karamelli Bisküvi 25 g 24'lü,9.90,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000337,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|337,Eti Maximus Yer Fıstığı Bar 36 g 24'lü,378.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000338,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|338,Ülker Albeni Karamelli Bisküvi 72 g 24'lü,672.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000339,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|339,Eti Benimo Lokmalık Çikolata 80 g 18'li,503.10,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000340,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|340,Ülker Hobby Çikolatalı Fındıklı Bar 25 g 24'lü,192.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000341,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|341,Ülker Dido Sütlü Frambuazlı Çikolata 37 g 24'lü,528.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000342,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|342,Ülker Çikolatalı Bitter Gofret 36 g 24'lü,345.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000343,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|343,Eti Petito Ayıcık Mini Sütlü Çikolata 32 g 16'lı,632.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000344,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|344,Eti Bidolu Kakao Kremalı Gofret 36 g 24'lü,444.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000354,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|354,Ülker Çokomilk 24 g 24'lü,192.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000356,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|356,Şölen Ozmo Fun 23 g 24'lü,564.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000358,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|358,Ülker Laviva Baton Çikolata 35 g 24'lü,453.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000359,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|359,Eti Wanted Bumba Hindistan Cevizli 20 g 24'lü,312.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000368,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|368,Eti Petito Ayıcık Çikolata 8 g 48'li,384.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000369,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|369,"Ülker Metro Çikolata 50,4 g 18'li",21.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000370,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|370,Eti Karam Gurme 50 g 24'lü,660.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000371,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|371,Ülker Çikolatalı Gofret Beyaz 35g 24'lü,345.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000373,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|373,Alpella Harby Sütlü Bisküvi 25 g 24'lü,9.90,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000380,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|380,Ülker Halley Çikolatalı 30 g 24'lü,213.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000381,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|381,Ülker Çokonat Fındıklı Gofret 33 g 24'lü,468.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000382,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|382,Ülker Metro Çikolata 36 g 24'lü,300.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000384,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|384,Ülker Çikolata Baton Sütlü 30 g 12'li,336.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000386,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|386,Ülker Dido Çikolata Kaplamalı Gofret 35 g 24'lü,477.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000387,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|387,Şölen Ozmo Sütlü Çikolatalı Yumurta 20 g 24'lü,5.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000389,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|389,Şölen Ozmo Cornet Çikolatalı 25 g 24'lü,381.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000390,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|390,Sarelle Duo Çikolata Kaplı Gofret 33 g 20'li,458.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000391,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|391,Ülker Albeni Çikolata 52 g 18'li,23.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000392,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|392,Ülker Cocostar Çikolata 25 g 24'lü,288.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000396,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|396,Kahve Dünyası Gofrik Sütlü 33 g 24'lü,188.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000401,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|401,Ülker Çikolata Baton Bitter 30 g 12'li,336.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000403,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|403,Ülker Fındıklı Baton Çikolata 30 g 12'li,336.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000405,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|405,Sarelle Gold Sütlü Çikolatalı Gofret 33 g 20'li,420.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000407,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|407,Eti Wanted Karamelli Çikolata 22 g 24'lü,312.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000408,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|408,Tadelle Maxinut Çikolatalı Gofret 30 g 20'li,398.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000409,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|409,"Ülker Çikolata Fındık Rüyası 40,5 g 24'lü",672.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000410,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|410,Ülker Antep Fıstıklı Baton Çikolata 14 g 24'lü,336.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000411,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|411,Eti Petito Çubuk Çikolata 15 g 12'li,189.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000413,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|413,Kinder Joy T1 Erkeklere Özel 20 g 24'lü,20.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000414,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|414,Kinder Joy T1 Kızlara Özel 20 g 24'lü,20.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000422,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|422,Ülker Hanımeller Fındıklı Bisküvi 82 g 18'li,288.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000426,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|426,Ülker Çiziviç Peynirli Sandiviç 82 g 24'lü,432.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000428,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|428,Ülker Canpare Çikolata Kremalı Bisk 81 g 24'lü,480.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000429,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|429,Ülker Çokoprens Bisküvi 81 g 18'li,288.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000431,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|431,Eti Susamlı Çubuk Kraker 120 g 10'lu,280.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000432,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|432,Eti Topkek Meyveli 40 g 24'lü,288.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000436,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|436,Çizmeci Time Wafer Master Gofret Hindistan Cevizli 20 g 24'lü,213.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000439,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|439,Eti Burçak Sütlü Kakao Kremalı Bisküvi 100 g 12'li,276.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000441,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|441,Eti Browni Intense 50 g 16'lı,319.20,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000451,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|451,Ülker Kekstra Jölebol Portakall Kek 40 g 24'lü,12.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000452,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|452,Ülker Çubuk Kraker 64 g 20'li,224.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000453,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|453,Ülker Katkat Tat Çilekli Milföy 28 g 24'lü,214.80,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000455,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|455,Ülker Fındık Kremalı Gofret 220 g 10'lu,440.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000456,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|456,Halk Muffın Kek Kakaolu 35 g 40'lı,276.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000457,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|457,Ülker Dankek 8Kek Çikolata Çilek 55 g 24'lü,239.98,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000458,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|458,Şölen Biscolata Stix Sade 40 g 16'lı,432.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000459,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|459,Eti Crax Peynirli Çubuk Kraker 80 g 17'li,271.15,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000460,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|460,Eti Tutku Bisküvi 100 g 24'lü,573.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000461,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|461,Eti Tutku Bisküvi Poşet 210 g 18'li,35.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000463,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|463,Ülker Dore Sade Krema Dolgulu Çikolatalı Bisküvi 86 g 24'lü,576.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000469,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|469,Ülker Olala Sufle Mini Kek 162 g 12'li,672.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000471,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|471,Ülker Biskrem Extra Kakao Kremalı 184 g 12'li,499.20,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000472,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|472,Eti Balık Kraker 40 g 16'lı,192.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000473,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|473,Eti Balık Kraker 85 g 14'lü,322.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000474,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|474,Alpella Kakao Kaplı Çikolata Soslu Kek 40 g 24'lü,237.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000482,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|482,Ülker Kekstra Jölebol Çilekli Kek 40 g 24'lü,10.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000484,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|484,Ülker Dankek Pöti Meyveli 35 g 24'lü,189.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000487,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|487,Eti Crax Acılı Çubuk Kraker 50 g 20'li,280.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000488,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|488,Eti Sultani Bisküvi 123 g 18'li,414.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000489,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|489,Eti Yulaflı Bisküvi 125 g 18'li,414.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000490,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|490,Eti Burçak Bisküvi 131 g 24'lü,552.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000492,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|492,Eti Topkek Portakallı 40 g 24'lü,288.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000493,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|493,Eti Popkek Kakaolu 60 g 24'lü,334.80,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000494,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|494,Eti Popkek Limonlu 60 g 24'lü,334.80,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000495,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|495,Eti Popkek Muzlu 60 g 24'lü,334.80,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000497,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|497,Eti Cin Tekli Çilekli 25 g 36'lı,234.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000498,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|498,Ülker Dankek Pöti Hindistan Cevizli 35 g 24'lü,189.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000499,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|499,Ülker Olala Sufle Kek 70 g 12'li,384.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000500,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|500,Ülker Dankek 8Kek Duble Çikolatalı 55 g 24'lü,239.98,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000502,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|502,Ülker Haylayf Bisküvi 64 g 24'lü,240.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000504,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|504,Ülker Olala Sufle Frambuazlı Kek 70 g 12'li,384.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000508,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|508,Eti Crax Patlayan Lezzet Acı Baharatlı 50 g 18'li,399.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000509,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|509,Halk Çubuk Kraker 40 g 36'lı,201.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000515,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|515,Ülker Çokoprens Bisküvi 30 g 24'lü,153.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000517,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|517,Ülker Hanımeller Çokodamla Kurabiye 82 g 18'li,288.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000520,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|520,Ülker Rondo Çilek Aromalı Bisküvi 61 g 24'lü,261.55,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000521,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|521,Eti Crax Çubuk Kraker 40 g 34'lü,314.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000522,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|522,Eti Crax Baharatlı Çubuk Kraker 50 g 20'li,280.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000523,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|523,Eti Crax Peynirli Çubuk Kraker 50 g 20'li,280.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000524,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|524,Eti Topkek Kakaolu Fındıklı 35 g 24'lü,288.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000525,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|525,Eti Topkek Çilekli 40 g 24'lü,288.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000526,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|526,Eti Popkek Portakallı 60 g 24'lü,396.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000527,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|527,Eti Puf Kakaolu 18 g 48'li,312.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000528,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|528,Ülker Probis Sandviç Bisküvi 75 g 18'li,322.20,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000529,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|529,Ülker Çubuk Kraker 40 g 36'lı,198.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000531,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|531,Eti Crax Patlayan Lezzet Peynir&Soğan 50 g 20'li,460.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000532,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|532,Ülker 8Kek Orman Meyveli 55 g 24'lü,239.98,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000544,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|544,Ülker Kremalı Sandviç Bisküvi 61 g 24'lü,261.55,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000545,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|545,Ülker 9 Kat Fındıklı Lüks Gofret 39 g 24'lü,259.20,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000546,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|546,Ülker 9 Kat Muz Aromalı Lüks Gofret 39 g 24'lü,259.20,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000547,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|547,Ülker Rulokat Fındık Kremalı Gofret 42 g 12'li,192.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000548,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|548,Ülker Çubuk Kraker Susamlı 70 g 22'li,308.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000549,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|549,Ülker Dankek Pöti Kakaolu 35 g 24'lü,189.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000551,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|551,Ülker Dankek 8Kek Çikolata Muz 55 g 24'lü,239.98,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000552,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|552,Ülker Kekstra Konfeti Kek 38 g 24'lü,288.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000553,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|553,Ülker Rondo Muz Aromalı Bisküvi 61 g 24'lü,261.55,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000555,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|555,Eti Burçak Sütlü Kremalı Bisküvi 100 g 12'li,276.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000556,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|556,Eti Crax Baharatlı Çubuk Kraker 80 g 17'li,271.15,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000557,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|557,Eti Popkek Vişneli 60 g 24'lü,396.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000559,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|559,Ülker Saklıköy Sütlü Kremalı Biskü 100 g 24'lü,480.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000562,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|562,Ülker Saklıköy Kakaolu Yulaflı Bisküvi 87 g 24'lü,480.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000563,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|563,Ülker Biskrem Büyük Boy %50 Daha Fazla 150 g 18'li,518.40,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000564,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|564,Eti Pizza Kraker 76 g 14'lü,192.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000565,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|565,Eti Browni Çikolatalı Fındıklı Kek 40 g 20'li,330.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000566,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|566,Eti Hoşbeş Kakao Kremalı Kakaolu Gofret 142 g 20'li,115.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000568,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|568,"Ülker Dido Trio Beyaz Çikolatalı Gofret 36,5 g 24'lü",576.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000569,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|569,Eti Crax Acılı ve Misket Limonlu Çubuk Kraker 50 g 20'li,399.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000570,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|570,Alpella Kakao Kaplı Muz Soslu Kek 40 g 24'lü,237.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000571,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|571,Halk Muffin Kek Mozaik 35 g 40'lı,276.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000626,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|626,"Ülker Oneo Tutti Frutti Karışık Meyve Aromalı 22,5 g 18'li",228.42,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000634,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|634,Ülker Oneo Çilek Aromalı Slims Sakız 14 g 27'li,565.92,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000644,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|644,Kent Missbon Tereyağlı Şeker 43 g 24'lü,786.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000649,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|649,Ülker Yupo Çokojelo Portakal 20 g 18'li,221.58,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000652,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|652,Ülker Kremini Çilekli Toffe Şeker 44 g 20'li,442.40,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000653,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|653,Ülker Bonbon Nane Aromalı Şeker 36 g 18'li,398.16,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000654,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|654,First Sensations Yeşil Nane Aromalı 27 g 12'li,660.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000655,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|655,Ülker Oneo Yeşil Nane Aromalı Sakız 14 g 27'li,565.92,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000657,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|657,Ülker Yupo Çokojelo Böğürtlen 20 g 18'li,221.58,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000658,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|658,Ülker Oneo Nane Aromalı Slims Sakız 14 g 27'li,565.92,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000661,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|661,Ülker Oneo Slims Karpuz Aromalı Sakız 14 g 27'li,565.92,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000662,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|662,Kent Tofita Çilek Aromalı Şeker 47 g 20'li,398.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000735,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|735,"Cafe Crown Sütlü Köpüklü 17,5 g 24'lü",324.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000740,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|740,Karali Demliğin Beklediği Siyah Çay 5 kg,999.00,needs_review: placeholder_price
+BizimMarket,BIZIMMARKET-000749,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|749,Niğde Gazozu 250 ml 6'lı,142.51,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000751,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|751,Cola Turka Efsane Tat Cam Şişe 200 ml 24'lü,420.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000754,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|754,Coca Cola Kutu 330 ml 24'lü,44.90,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000757,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|757,Pepsi Cola Kutu 330 ml 24'lü,849.60,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000758,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|758,Burn Enerji İçeceği 250 ml 12'li,408.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000760,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|760,Maltana Armut Aromalı Malt İçecek 250 ml 12'li,372.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000773,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|773,Coca Cola Cam Şişe 200 ml 24'lü,600.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000783,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|783,Fanta Portakal Kutu 330 ml 24'lü,948.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000784,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|784,Red Bull Enerji İçeceği 250 ml 24'lü,65.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000785,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|785,Black Bruin Enerji İçeceği 250 ml 24'lü,25.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000786,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|786,Maltana Ananas Aromalı Malt İçecek 250 ml 12'li,372.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000787,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|787,Maltana Enerji İçeceği 250 ml 12'li,372.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000788,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|788,Maltana Şeftali Aromalı Malt İçecek 250 ml 12'li,372.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000795,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|795,Cappy Karışık Meyve Nektarı Kutu 330 ml 12'li,39.90,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000797,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|797,İçim Şeftali Meyveli İçecek Kutu 330 ml 12'li,300.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000798,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|798,İçim Karışık Meyveli İçecek Kutu 330 ml 12'li,300.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000799,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|799,Nescafe Xpress Original Latte 250 ml 24'lü,248.01,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000800,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|800,Fuse Tea Ice Tea Mango ve Ananas 330 ml 12'li,38.01,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000801,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|801,Fuse Tea Ice Tea Karpuz 330 ml 12'li,408.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000807,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|807,Link Çilek Aromalı İçecek 200 ml 15'li,200.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000812,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|812,Cappy Pulpy Portakal 330 ml 12'li,40.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000813,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|813,Fuse Tea Ice Tea Limon 330 ml 12'li,408.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000814,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|814,Cappy Vişneli Meyveli İçecek Kutu 330 ml 12'li,39.90,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000815,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|815,Halk Narita Karışık Meyveli İçecek 200 ml 27'li,216.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000826,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|826,İçim Vişne Meyveli İçecek Kutu 330 ml 12'li,300.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000827,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|827,İçim Kayısı Meyveli İçecek Kutu 330 ml 12'li,28.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000828,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|828,Fuse Tea Ice Tea Şeftali 330 ml 12'li,408.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000831,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|831,Halk Narita Vişne Meyveli İçecek 200 ml 27'li,243.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000832,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|832,Juss Cooler Meyve Suyu Karışık 200 ml 27'li,229.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000837,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|837,İçim Vişne Meyveli İçecek 200 ml 27'li,9.90,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000839,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|839,Tamek Meyvelim Vişneli İçecek 200 ml 27'li,337.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000849,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|849,Cappy Şeftali Meyve Nektarı Kutu 330 ml 12'li,39.90,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000855,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|855,Doğanay Şalgam Suyu Acılı 300 ml 24'lü,504.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000858,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|858,Halk Narita Şeftali Meyveli İçecek 200 ml 27'li,216.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000865,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|865,Beypazarı Limon Aromalı 200 ml 6'lı,78.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000866,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|866,Avşar Mandalina Aromalı Maden Suyu 200 ml 6'lı,82.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000867,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|867,Avşar Karadut&Frenk Üzümü Aromalı Gazlı İçecek 200 ml 6'lı,82.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000869,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|869,Kızılay Mango Ananas Aromalı Doğal Maden Suyu 200 ml 6'lı,87.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000870,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|870,Avşar Greyfurt Yaban Mersini Aromalı Maden Suyu 200 ml 6'lı,13.25,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000871,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|871,Kızılay Elma Aromalı Doğal Maden Suyu 200 ml 6'lı,87.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000872,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|872,Freşa C Plus Limon Aromalı Maden Suyu 200 ml 6'lı,87.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000873,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|873,Kızılay C Limon Aromalı Maden Suyu 200 ml 6'lı,88.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000874,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|874,Kızılay Yeşilçay Plus 200 ml 6'lı,117.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000875,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|875,Kızılay Açai & Çilek Plus 200 ml 6'lı,117.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000877,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|877,Avşar C+ Limon Aromalı Maden Suyu 200 ml 6'lı,82.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000878,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|878,Kızılay Karpuz Çilek Aromalı Maden Suyu 200 ml 6'lı,87.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000879,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|879,Avşar Mango&Ananas Aromalı Maden Suyu 200 ml 6'lı,82.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000880,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|880,Avşar Soda Karpuz Çilek 200 ml 6'lı,82.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000881,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|881,Freşa Extra Karadut Frenk Üzüm Aromalı 200 ml 6'lı,87.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000882,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|882,Kızılay Karamürver Plus 200 ml 6'lı,117.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000883,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|883,Kızılay Portakal Bisküvi Aromalı Maden Suyu 200 ml 6'lı,87.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000884,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|884,Kızılay Limon Aromalı Doğal Maden Suyu 200 ml 6'lı,87.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000885,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|885,Beypazarı Elma Aromalı 200 ml 6'lı,78.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000886,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|886,Beypazarı C Vitaminli Limonlu Maden Suyu 200 ml 6'lı,81.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000887,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|887,Avşar Sade Maden Suyu 200 ml 6'lı,63.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000888,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|888,Beypazarı Karadut Frenk Aromalı Maden Suyu 200 ml 6'lı,81.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000890,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|890,Kızılay Karadut Frenk Aromalı Doğal Maden Suyu 200 ml 6'lı,13.75,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000891,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|891,Avşar Tuzlu Erik Aromalı Gazlı İçecek 200 ml 6'lı,13.25,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000892,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|892,Avşar Yeşil Elma Aromalı Maden Suyu 200 ml 6'lı,82.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000893,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|893,Avşar Düşes Armudu Aromalı Maden Suyu 200 ml 6'lı,82.50,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000894,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|894,"Saka Doğal Kaynak Suyu 1,5 L 6'lı",77.40,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000895,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|895,"Assu Doğal Mineralli Kaynak Suyu 1,5 L 6'lı",63.30,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000897,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|897,Assu Doğal Mineralli Kaynak Suyu 500 ml 12'li,75.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000899,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|899,Saka Doğal Kaynak Suyu 500 ml 24'lü,162.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000948,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|948,Ülker Çokokrem Kakaolu Fındık Kreması 20 g 36'lı,270.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-000953,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|953,Ülker Çokokrem Kakaolu Fındık Kreması Tüp 40 g 12'li,274.80,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-001004,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1004,Halk Kakaolu Süt 200 ml 27'li,432.00,needs_review: case_or_single_price_unclear
+BizimMarket,BIZIMMARKET-001486,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1486,Arko Classic Yağlı Krem 20 ml 12'li,658.80,needs_review: case_or_single_price_unclear
+Cagri,CAGRI-000852,Cagri|cagri_products_2026-10-29.csv|852,Teksüt Labne 180 gr 3lü,194.95,needs_review: case_or_single_price_unclear
+Cagri,CAGRI-000921,Cagri|cagri_products_2026-10-29.csv|921,Bizim Paket Margarin 250 gr 6'lı,289.95,needs_review: case_or_single_price_unclear
+Cagri,CAGRI-001273,Cagri|cagri_products_2026-10-29.csv|1273,Dudomi Körili Noodle 70 gr 5'li Paket,79.95,needs_review: case_or_single_price_unclear
+Cagri,CAGRI-001285,Cagri|cagri_products_2026-10-29.csv|1285,Dudomi Tavuk Çeşnili Noodle 70 gr 5'li Paket,79.95,needs_review: case_or_single_price_unclear
+Cagri,CAGRI-001295,Cagri|cagri_products_2026-10-29.csv|1295,Bizim Oyakata Körili Noodle 75gr 5'li MP,76.95,needs_review: case_or_single_price_unclear
+Cagri,CAGRI-001296,Cagri|cagri_products_2026-10-29.csv|1296,Bizim Oyakata Tavuk Aromalı Noodle 75gr 5'li MP,76.95,needs_review: case_or_single_price_unclear
+Cagri,CAGRI-001577,Cagri|cagri_products_2026-10-29.csv|1577,Indomie Körili Noodle 75 gr 5'li Paket,85.50,needs_review: case_or_single_price_unclear
+Cagri,CAGRI-001591,Cagri|cagri_products_2026-10-29.csv|1591,Indomie Sebzeli Noodle 75 gr 5'li Paket,85.50,needs_review: case_or_single_price_unclear
+Cagri,CAGRI-001595,Cagri|cagri_products_2026-10-29.csv|1595,Indomie Tavuk Çeşnili Noodle 70 gr 5'li Paket,85.50,needs_review: case_or_single_price_unclear
+Cagri,CAGRI-001649,Cagri|cagri_products_2026-10-29.csv|1649,Indomie Spesiyal Noodle 75 gr 5'li Paket,85.50,needs_review: case_or_single_price_unclear
+Cagri,CAGRI-002221,Cagri|cagri_products_2026-10-29.csv|2221,Superfresh Simit 400 gr 4 lü,164.95,needs_review: case_or_single_price_unclear
+Cagri,CAGRI-002478,Cagri|cagri_products_2026-10-29.csv|2478,"Erikli Su 0,5 lt 12'li",159.95,needs_review: case_or_single_price_unclear
+Cagri,CAGRI-002865,Cagri|cagri_products_2026-10-29.csv|2865,"Nescafe 3'ü 1 Arada 17,4 gr 15'li Paket Original",184.95,needs_review: case_or_single_price_unclear
+Cagri,CAGRI-002960,Cagri|cagri_products_2026-10-29.csv|2960,Sütaş Ayran 175 ml 10'lu,115.95,needs_review: case_or_single_price_unclear
+Cagri,CAGRI-003152,Cagri|cagri_products_2026-10-29.csv|3152,Nescafe 2'si 1 Arada 10 gr 15'li Paket Original,184.95,needs_review: case_or_single_price_unclear
+CarrefourSA,,CarrefourSA|carrefourSA_2026-10-29.csv|52,Böğürtlen 125 g,139.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+CarrefourSA,,CarrefourSA|carrefourSA_2026-10-29.csv|75,Kuru Sarımsak kg,89.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+CarrefourSA,,CarrefourSA|carrefourSA_2026-10-29.csv|141,Kuru Sarımsak Kg,199.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+CarrefourSA,,CarrefourSA|carrefourSA_2026-10-29.csv|162,Böğürtlen 125 g,109.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+CarrefourSA,,CarrefourSA|carrefourSA_2026-10-29.csv|462,Bütün Türk Somonu kg,299.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+CarrefourSA,,CarrefourSA|carrefourSA_2026-10-29.csv|512,Bütün Türk Somonu kg,349.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+CarrefourSA,CARREFOURSA-001037,CarrefourSA|carrefourSA_2026-10-29.csv|1045,Sütaş Kaymaklı Yoğurt 1750 kg,186.95,needs_review: suspicious_size
+CarrefourSA,,CarrefourSA|carrefourSA_2026-10-29.csv|1335,Fora Gemlik Yağlı Doğal Salamura Açık Siyah Zeytin kg,589.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+CarrefourSA,,CarrefourSA|carrefourSA_2026-10-29.csv|1336,Fora Gemlik Doğal Yağlı Salamura Açık Siyah Zeytin kg,499.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+CarrefourSA,,CarrefourSA|carrefourSA_2026-10-29.csv|3083,Çiğ Badem kg,699.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+CarrefourSA,,CarrefourSA|carrefourSA_2026-10-29.csv|3153,Çiğ Badem kg,1039.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+CarrefourSA,CARREFOURSA-003405,CarrefourSA|carrefourSA_2026-10-29.csv|3419,Pınar Ekonomik Pizza 800 g 4'lü,403.00,needs_review: case_or_single_price_unclear
+CarrefourSA,CARREFOURSA-003925,CarrefourSA|carrefourSA_2026-10-29.csv|3939,Sinbo SCM-2957 Elektrikli Cezve,999.00,needs_review: placeholder_price
+CarrefourSA,CARREFOURSA-003938,CarrefourSA|carrefourSA_2026-10-29.csv|3952,Sinbo SCM-2980 Kahve Öğütücü,999.00,needs_review: placeholder_price
+CarrefourSA,CARREFOURSA-003971,CarrefourSA|carrefourSA_2026-10-29.csv|3985,Electrolux Explore 6 E6EC1-6ST Espresso Makinesi,9999.00,needs_review: placeholder_price
+CarrefourSA,,CarrefourSA|carrefourSA_2026-10-29.csv|4069,Coca-Cola Zero Sugar 250 ml,54.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+CarrefourSA,,CarrefourSA|carrefourSA_2026-10-29.csv|4070,Coca-Cola Zero Sugar 250 ml,60.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+CarrefourSA,,CarrefourSA|carrefourSA_2026-10-29.csv|4073,Coca-Cola 250 ml,60.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+CarrefourSA,,CarrefourSA|carrefourSA_2026-10-29.csv|4078,Coca-Cola 250 ml,54.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+CarrefourSA,CARREFOURSA-004476,CarrefourSA|carrefourSA_2026-10-29.csv|4494,Erikli Su Özel Ambalaj 5 L 2'li Paket,165.95,needs_review: case_or_single_price_unclear
+Gurmar,,Gurmar|gurmar_prices_2026-10-29.csv|259,Gürsüt Yayık Tereyağ - 500 Gr.,399.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Gurmar,,Gurmar|gurmar_prices_2026-10-29.csv|260,Gürsüt Yayık Tereyağ 500 Gr,399.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Gurmar,,Gurmar|gurmar_prices_2026-10-29.csv|296,Gürsüt Köy Taze Beyaz Peynir 500 Gr,229.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Gurmar,,Gurmar|gurmar_prices_2026-10-29.csv|434,Gürsüt Köy Taze Beyaz Peynir - 500 Gr.,214.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Gurmar,GURMAR-002389,Gurmar|gurmar_prices_2026-10-29.csv|2395,"Magnum Mini Classic, Badem, Beyaz 345 Ml 6'lı",229.00,needs_review: case_or_single_price_unclear
+Gurmar,GURMAR-002762,Gurmar|gurmar_prices_2026-10-29.csv|2768,Erikli Su 0.5 Lt 12'Li,129.95,needs_review: case_or_single_price_unclear
+Gurmar,GURMAR-003030,Gurmar|gurmar_prices_2026-10-29.csv|3036,Jacobs Lungo 8 Intenso Kapsül Kahve 52 Gr 10'lu,299.95,needs_review: case_or_single_price_unclear
+Gurmar,GURMAR-003089,Gurmar|gurmar_prices_2026-10-29.csv|3095,Jacobs Espresso 7 Classico Kapsül Kahve 52 Gr 10'lu,299.95,needs_review: case_or_single_price_unclear
+Gurmar,GURMAR-003125,Gurmar|gurmar_prices_2026-10-29.csv|3131,Kahve Dünyası Kolombiya Kapsül 5 Gr 10'Lu,299.00,needs_review: case_or_single_price_unclear
+Gurmar,GURMAR-003171,Gurmar|gurmar_prices_2026-10-29.csv|3177,Kahve Dünyası Espresso Kapsül 5 Gr 10'Lu,299.00,needs_review: case_or_single_price_unclear
+Gurmar,,Gurmar|gurmar_prices_2026-10-29.csv|3326,Nescafe 3'ü 1 Arada Gold Yoğun İçim,16.50,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Gurmar,,Gurmar|gurmar_prices_2026-10-29.csv|3331,Nescafe 3'ü 1 Arada Gold Yoğun İçim,99.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Hakmar,HAKMAR-000279,Hakmar|hakmar_2026-10-27.csv|279,Tazepan Sandviç 65 gr 6'lı,64.50,needs_review: case_or_single_price_unclear
+Hakmar,HAKMAR-000542,Hakmar|hakmar_2026-10-27.csv|542,Torku Bisküvi Ruşeymli Çikolatalı 84 Gr 3'lü,99.00,needs_review: case_or_single_price_unclear
+Hakmar,HAKMAR-000576,Hakmar|hakmar_2026-10-27.csv|576,Ülker Pötibör Bisküvi 800 Gr 4'lü,112.00,needs_review: case_or_single_price_unclear
+Hakmar,HAKMAR-000950,Hakmar|hakmar_2026-10-27.csv|950,Çaykur Altınbaş Demlik Poşet Çay 200 Gr 40'lı Paket,169.00,needs_review: case_or_single_price_unclear
+Hakmar,HAKMAR-000965,Hakmar|hakmar_2026-10-27.csv|965,Herdem Siyah Çay Bardak Poşet 2 Gr 25 li,43.00,needs_review: case_or_single_price_unclear
+Hapeloglu,HAPELOGLU-000684,Hapeloglu|hapeloglu_2026-10-29.csv|684,Ülker Oneo Slims Sakız Karpuz 14 Gr 7 Li,20.00,needs_review: case_or_single_price_unclear
+Hapeloglu,HAPELOGLU-000692,Hapeloglu|hapeloglu_2026-10-29.csv|692,Ülker Probis 280Gr 10lu,69.90,needs_review: case_or_single_price_unclear
+Hapeloglu,HAPELOGLU-001335,Hapeloglu|hapeloglu_2026-10-29.csv|1335,Miss Sıvı Çamaşır Deterjanı Arap Sabunu+ Soda Plus Etkili 1500 lt,169.00,needs_review: suspicious_size
+Hapeloglu,HAPELOGLU-001436,Hapeloglu|hapeloglu_2026-10-29.csv|1436,Pronto Ahşap 750 Ml 2 Li Set,239.90,needs_review: case_or_single_price_unclear
+Hapeloglu,HAPELOGLU-001677,Hapeloglu|hapeloglu_2026-10-29.csv|1677,Berrak Bayan Likralı Geniş Askı Ten 2127 L,180.00,needs_review: suspicious_size
+Hapeloglu,,Hapeloglu|hapeloglu_2026-10-29.csv|2203,Dalin Islak Havlu Mendil 56 lı,39.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Hapeloglu,,Hapeloglu|hapeloglu_2026-10-29.csv|2204,Dalin Islak Havlu Mendil 56'Lı,39.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Hapeloglu,HAPELOGLU-003455,Hapeloglu|hapeloglu_2026-10-29.csv|3458,Gürsoy Fındık Ezmesi %75 Kg,495.00,needs_review: suspicious_size
+Hapeloglu,HAPELOGLU-004619,Hapeloglu|hapeloglu_2026-10-29.csv|4622,Yayla Basmati Pirinç 1000 kg,149.50,needs_review: suspicious_size
+Hapeloglu,HAPELOGLU-004853,Hapeloglu|hapeloglu_2026-10-29.csv|4856,Mehmet Efendi Kahve Tek Fincanlık 6 gr 12 li,125.00,needs_review: case_or_single_price_unclear
+HappyCenter,HAPPYCENTER-000716,HappyCenter|happycenter_2026-10-27.csv|716,Pakmaya Kakao 25 gr 2li,66.50,needs_review: case_or_single_price_unclear
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|1411,Çaykur Didi Soğuk Çay Şeftali 330 ml,33.20,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|1450,Çaykur Didi Soğuk Çay Şeftali 330 ml,27.65,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,HAPPYCENTER-001722,HappyCenter|happycenter_2026-10-27.csv|1725,Dardanel Ton Balığı Zeytinyağlı 2X140 gr50 gr,510.50,needs_review: corrupted_size_text
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|2004,Fersan Üzüm Sirkesi 500 ml,122.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|2034,fersan üzüm sirkesi 500 ml,143.10,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,HAPPYCENTER-002152,HappyCenter|happycenter_2026-10-27.csv|2157,Untad Çavdarlı Siyez Buğday Lavaş 6 Lı 390 Gr45,143.15,needs_review: corrupted_size_text
+HappyCenter,HAPPYCENTER-002153,HappyCenter|happycenter_2026-10-27.csv|2158,Untad Zeytinli Çeşnili Lavaş 6 Lı 390 Gr40,143.15,needs_review: corrupted_size_text
+HappyCenter,HAPPYCENTER-002154,HappyCenter|happycenter_2026-10-27.csv|2159,Untad Lavaş 10 Lu 300 Gr24,116.55,needs_review: corrupted_size_text
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|2176,Domates,111.85,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|2182,Karpuz Kg,12.45,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|2185,Salatalık,74.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,HAPPYCENTER-003238,HappyCenter|happycenter_2026-10-27.csv|3248,Patos Critos Peynir Süper 115 Gr125 gr,77.70,needs_review: corrupted_size_text
+HappyCenter,HAPPYCENTER-003354,HappyCenter|happycenter_2026-10-27.csv|3364,Topz Corn Zeytin Yağlı Popcorn 110 Gr37,83.25,needs_review: corrupted_size_text
+HappyCenter,HAPPYCENTER-003355,HappyCenter|happycenter_2026-10-27.csv|3365,Topz Corn Deniz Tuzlu Popcorn 105 Gr36,49.95,needs_review: corrupted_size_text
+HappyCenter,HAPPYCENTER-003356,HappyCenter|happycenter_2026-10-27.csv|3366,Topz Corn Kettle Popcorn Tatlı ve Tarçınlı 160 Gr49,72.15,needs_review: corrupted_size_text
+HappyCenter,HAPPYCENTER-003357,HappyCenter|happycenter_2026-10-27.csv|3367,Topz Corn Kettle Popcorn Tatlı Tuzlu 160 Gr43,72.15,needs_review: corrupted_size_text
+HappyCenter,HAPPYCENTER-003648,HappyCenter|happycenter_2026-10-27.csv|3658,Nescafe Gold Paket 2 Gr 14 Lü,137.05,needs_review: case_or_single_price_unclear
+HappyCenter,HAPPYCENTER-003750,HappyCenter|happycenter_2026-10-27.csv|3760,Falım Damla Sakızı Aromalı Şekersiz Sakız 7 gr 5li,13.85,needs_review: case_or_single_price_unclear
+HappyCenter,HAPPYCENTER-003751,HappyCenter|happycenter_2026-10-27.csv|3761,Falım Damla Sakızı Aromalı Şekersiz Sakız 35 gr 5li,86.50,needs_review: case_or_single_price_unclear
+HappyCenter,HAPPYCENTER-003753,HappyCenter|happycenter_2026-10-27.csv|3763,Falım Işıl Şekersiz Sakız 8gr 5li,19.40,needs_review: case_or_single_price_unclear
+HappyCenter,HAPPYCENTER-003754,HappyCenter|happycenter_2026-10-27.csv|3764,Falım Çilek Aromalı Şekersiz Sakız 7 gr 5li,13.85,needs_review: case_or_single_price_unclear
+HappyCenter,HAPPYCENTER-003757,HappyCenter|happycenter_2026-10-27.csv|3767,Falım Karışık Meyve Aromalı Şekersiz Sakız 7 gr 5li,13.85,needs_review: case_or_single_price_unclear
+HappyCenter,HAPPYCENTER-003761,HappyCenter|happycenter_2026-10-27.csv|3771,Falım Işıl Nane Aromalı Şekersiz Sakız 40 gr 5li,86.50,needs_review: case_or_single_price_unclear
+HappyCenter,HAPPYCENTER-003763,HappyCenter|happycenter_2026-10-27.csv|3773,Falım Nane Aromalı Şekersiz Sakız 7 gr 5li,13.85,needs_review: case_or_single_price_unclear
+HappyCenter,HAPPYCENTER-003778,HappyCenter|happycenter_2026-10-27.csv|3788,Falım Orman Meyveleri Aromalı Şekersiz Sakız 35 gr 5li,86.50,needs_review: case_or_single_price_unclear
+HappyCenter,HAPPYCENTER-003795,HappyCenter|happycenter_2026-10-27.csv|3805,Falım Orman Meyveleri Aromalı Şekersiz Sakız 7 gr 5li,13.85,needs_review: case_or_single_price_unclear
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5217,Mandalına Kg,49.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5225,Erık Kg,62.45,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5226,Karpuz Kg,24.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5234,Mandalına Kg,62.45,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5237,Erık Kg,93.75,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5280,Sarımsak Yeni Kg,323.85,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5301,Sarımsak Yeni Kg,230.65,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5303,Salatalık,103.15,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5306,Portakal Sıkma,68.75,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5307,Portakal Sıkma,74.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5319,Mandalına Kg,46.85,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5320,Mandalına Kg,93.75,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5329,Erık Kg,74.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5338,Erık Kg,43.75,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5339,Erık Kg,40.65,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5347,Domates Dallı,62.45,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5349,Domates,118.15,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5371,Domates Dallı,186.85,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+HappyCenter,HAPPYCENTER-005403,HappyCenter|happycenter_2026-10-27.csv|5434,Bal parmak Apitera Zen 49 Gr 7 Li,188.60,needs_review: case_or_single_price_unclear
+HappyCenter,HAPPYCENTER-005420,HappyCenter|happycenter_2026-10-27.csv|5451,Balparmak Çiçek Balı Süzme 850 + Çam Balı 90 Gr940,665.90,needs_review: corrupted_size_text
+Ideal,IDEAL-000326,Ideal|ideal_prices_2026-10-29.csv|326,Sek Süt Uht 200ml Tamyağlı X27,23.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-000570,Ideal|ideal_prices_2026-10-29.csv|570,Parex Sünger 2li Oluklu Klasik Yeşil X24,39.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-000575,Ideal|ideal_prices_2026-10-29.csv|575,Parex Sünger 5li Düz Klasik Yeşil X24,89.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-000731,Ideal|ideal_prices_2026-10-29.csv|731,Pfanner 2lt C+d+a Karışık Meyve Suyu X6,299.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-000955,Ideal|ideal_prices_2026-10-29.csv|955,Doğuş Bardak 100lü Blacklabel Poşet Çay X8,309.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-001075,Ideal|ideal_prices_2026-10-29.csv|1075,Maylo Peçete 100lü X24,59.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-001109,Ideal|ideal_prices_2026-10-29.csv|1109,Parex Eldiven Standart Orta Boy X24,119.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-001416,Ideal|ideal_prices_2026-10-29.csv|1416,Şölen Biscolata Veni 110gr Fındıklı X24,55.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-001417,Ideal|ideal_prices_2026-10-29.csv|1417,Şölen Biscolata Veni 110gr Çikolata X24,55.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-001455,Ideal|ideal_prices_2026-10-29.csv|1455,Eti Petito Çubuk Çikolata 15gr. X144,18.80,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-001456,Ideal|ideal_prices_2026-10-29.csv|1456,Eti Petito Ayıcık 32gr 9808 X16,46.50,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002120,Ideal|ideal_prices_2026-10-29.csv|2120,Uno Sandviç 325 Gr 5 Li Yatay,80.00,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002196,Ideal|ideal_prices_2026-10-29.csv|2196,Ihe.sandviç Ekmeği 350gr 5li,80.00,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002197,Ideal|ideal_prices_2026-10-29.csv|2197,Ihe.hamburger Ekmeği 350gr 6lı,80.00,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002312,Ideal|ideal_prices_2026-10-29.csv|2312,Reis 1kg Sarı İç Mercimek X20,209.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002413,Ideal|ideal_prices_2026-10-29.csv|2413,Dr.oetker Instat Maya 30gr 3 Lü,32.00,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002481,Ideal|ideal_prices_2026-10-29.csv|2481,"Reis 2,5kg Bulgur Pilavlık X6",219.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002485,Ideal|ideal_prices_2026-10-29.csv|2485,Reis 1kg Bulgur Çiğ Köftelik X20,93.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002486,Ideal|ideal_prices_2026-10-29.csv|2486,Reis 1kg Bulgur İnce Köftelik X20,93.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002487,Ideal|ideal_prices_2026-10-29.csv|2487,Reis 1kg Bulgur Pilavlık X20,93.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002488,Ideal|ideal_prices_2026-10-29.csv|2488,Reis 1kg Kırmızı Mercimek Futboltane X20,214.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002584,Ideal|ideal_prices_2026-10-29.csv|2584,Ernet Klozet Blok Okaliptus 50gr X24,69.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002652,Ideal|ideal_prices_2026-10-29.csv|2652,Vi-vet Sir Ağda Bandı Azulen X24,139.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002653,Ideal|ideal_prices_2026-10-29.csv|2653,Vi-vet Sir Ağda Bandı Portakal X24,139.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002654,Ideal|ideal_prices_2026-10-29.csv|2654,Vi-vet Sir Ağda Bandı Yüz 24 Lü Azulen X24,99.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002679,Ideal|ideal_prices_2026-10-29.csv|2679,Vi-vet Ağda Bezi 2 M X50,24.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002680,Ideal|ideal_prices_2026-10-29.csv|2680,Vi-vet Kartuş Ağda 100 Ml Pudralı X24,109.90,needs_review: case_or_single_price_unclear
+Ideal,IDEAL-002681,Ideal|ideal_prices_2026-10-29.csv|2681,Vi-vet Tüy Dökücü Krem 100 Ml X24,124.90,needs_review: case_or_single_price_unclear
+Kale,KALE-000299,Kale|kalemarketleri_prices_2026-10-29.csv|299,Marmarabirlik Kuru Sele Siyah Zeytin XS 800 kg,299.00,needs_review: suspicious_size
+Kale,KALE-000389,Kale|kalemarketleri_prices_2026-10-29.csv|389,Sütaş Minimix Çilek Aromalı Yoğurt 90gr 2 li,50.00,needs_review: case_or_single_price_unclear
+Kale,KALE-000735,Kale|kalemarketleri_prices_2026-10-29.csv|735,Danone Mix Çilekli Yoğurt 90 Gr 2 li,62.00,needs_review: case_or_single_price_unclear
+Kale,KALE-000912,Kale|kalemarketleri_prices_2026-10-29.csv|912,Pınar Ekonomik Burger 545 gr 10 lu,650.00,needs_review: case_or_single_price_unclear
+Kale,KALE-001834,Kale|kalemarketleri_prices_2026-10-29.csv|1834,"Dimes Obsesso Caramel Macchiato 0,25 ml",62.00,needs_review: suspicious_size
+Kale,KALE-002169,Kale|kalemarketleri_prices_2026-10-29.csv|2169,PAKMAYA KREM ŞANTİ 75 GR 2 Lİ,80.00,needs_review: case_or_single_price_unclear
+Kim,KIM-000422,Kim|kim_2026-10-29.csv|422,ULKER COKOPRENS 300 GR 10 LU,65.00,needs_review: case_or_single_price_unclear
+Kim,KIM-001043,Kim|kim_2026-10-29.csv|1043,PORCOZ 200GR 4'LU LAVABO ACICI GRANUL,144.99,needs_review: case_or_single_price_unclear
+Kim,KIM-001162,Kim|kim_2026-10-29.csv|1162,ECE PLASTIK BARDAK 180 CC 10 LU OTOMAT,34.99,needs_review: case_or_single_price_unclear
+Kim,KIM-001163,Kim|kim_2026-10-29.csv|1163,ECE PLASTIK BARDAK 180 CC 10LU EKO OTOMAT,19.99,needs_review: case_or_single_price_unclear
+Kim,KIM-001165,Kim|kim_2026-10-29.csv|1165,ECE PLASTIK BARDAK 250 CC 10 LU,49.99,needs_review: case_or_single_price_unclear
+Kim,KIM-001221,Kim|kim_2026-10-29.csv|1221,P.BAHÇE 42461 G4U MISIS 6LI ÇAY BARDAĞI,199.99,needs_review: corrupted_size_text
+Kim,KIM-001435,Kim|kim_2026-10-29.csv|1435,DEL.COLGATE D.MACUNU 150 ML 2 LI UCLU ETKI,130.00,needs_review: case_or_single_price_unclear
+Kim,KIM-001728,Kim|kim_2026-10-29.csv|1728,DANONE 180 ML 6 LI AROMALI SUT KAKAOLU,149.99,needs_review: case_or_single_price_unclear
+Kim,KIM-002102,Kim|kim_2026-10-29.csv|2102,ONUR YUFKA 700 GR 5 LI,109.99,needs_review: case_or_single_price_unclear
+Macrocenter,MACROCENTER-001021,Macrocenter|macrocenter_prices_2026-10-29.csv|1021,"Büyüyo Probiyotik Yoğurt Mayası 3X0,5 G",129.00,needs_review: suspicious_size
+Macrocenter,,Macrocenter|macrocenter_prices_2026-10-29.csv|1168,Tahsildaroğlu Ezine Peyniri 500 G (%45 Koyun %40 Keçi %15 İnek),559.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Macrocenter,,Macrocenter|macrocenter_prices_2026-10-29.csv|1368,"Tahsildaroğlu Ezine Peyniri 500 G (%45 Keçi, %40 Koyun, %15 İnek)",559.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Macrocenter,MACROCENTER-001545,Macrocenter|macrocenter_prices_2026-10-29.csv|1547,Odorgo Koku Yok Edici Jel 250 G,999.00,needs_review: placeholder_price
+Macrocenter,MACROCENTER-002169,Macrocenter|macrocenter_prices_2026-10-29.csv|2171,"Nescafé Ice Original Çözünebilir Kahve 10,5 G 10'lu Paket",129.50,needs_review: case_or_single_price_unclear
+Macrocenter,MACROCENTER-002255,Macrocenter|macrocenter_prices_2026-10-29.csv|2257,M Life Sante Karışık Bitki Çayı 40 G 20'li,64.95,needs_review: case_or_single_price_unclear
+Macrocenter,MACROCENTER-002268,Macrocenter|macrocenter_prices_2026-10-29.csv|2270,M Life Form Rooibos Acaılı Bıtkı Çayı 40 G 20'Lı,64.95,needs_review: case_or_single_price_unclear
+Macrocenter,MACROCENTER-002466,Macrocenter|macrocenter_prices_2026-10-29.csv|2468,"Nescafé 3ü1 Arada 17,5 G 10'lu Paket",132.50,needs_review: case_or_single_price_unclear
+Macrocenter,,Macrocenter|macrocenter_prices_2026-10-29.csv|4059,Asiltane Soğuk Sıkım Natürel Sızma Zeytinyağı 500 Ml,407.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Macrocenter,,Macrocenter|macrocenter_prices_2026-10-29.csv|4890,Asiltane Soğuk Sıkım Natürel Sızma Zeytinyağı 500 ml,799.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Macrocenter,MACROCENTER-005143,Macrocenter|macrocenter_prices_2026-10-29.csv|5147,Nude Mirage Şampanya Kadehi 238Cc 2'li,1899.95,needs_review: case_or_single_price_unclear
+Macrocenter,MACROCENTER-005145,Macrocenter|macrocenter_prices_2026-10-29.csv|5149,Lav Brotto Bira Bardağı 565 Cc 2'li,299.95,needs_review: case_or_single_price_unclear
+Macrocenter,MACROCENTER-005153,Macrocenter|macrocenter_prices_2026-10-29.csv|5157,Nude Mirage Şarap Kadehi 207Cc 2'li,1999.95,needs_review: case_or_single_price_unclear
+Macrocenter,MACROCENTER-005179,Macrocenter|macrocenter_prices_2026-10-29.csv|5183,Paşabahçe Nude Logolu Bardak Vinifera 450 Cc 2'li,1699.95,needs_review: case_or_single_price_unclear
+Macrocenter,MACROCENTER-005209,Macrocenter|macrocenter_prices_2026-10-29.csv|5213,Paşabahçe Linka Meşrubat Bardağı 500Cc 3'lü,399.95,needs_review: case_or_single_price_unclear
+Macrocenter,MACROCENTER-005234,Macrocenter|macrocenter_prices_2026-10-29.csv|5238,Paşabahçe Nude Logolu Bardak Vinifera 360 Cc 2'li,2099.95,needs_review: case_or_single_price_unclear
+Macrocenter,MACROCENTER-005346,Macrocenter|macrocenter_prices_2026-10-29.csv|5350,Gillette Fusion Yedek Tıraş Bıçağı 4 Adet,999.00,needs_review: placeholder_price
+Macrocenter,MACROCENTER-005918,Macrocenter|macrocenter_prices_2026-10-29.csv|5922,Thalia Timeless Chaos Edp Men 100 Ml,999.00,needs_review: placeholder_price
+Marketzade,MARKETZADE-000811,Marketzade|marketzade_2026-10-29.csv|811,Oreo Bisküvi 220Gr 12Lı,167.00,needs_review: case_or_single_price_unclear
+Marketzade,MARKETZADE-001387,Marketzade|marketzade_2026-10-29.csv|1387,Kurukahveci Mehmet Efendi Tek Fincanlık Türk Kahvesi 6 Gr 6 Lı,77.50,needs_review: case_or_single_price_unclear
+Marketzade,MARKETZADE-001611,Marketzade|marketzade_2026-10-29.csv|1611,Meysu Meyve Suyu Vişne 200 Ml 6 Lı Paket,128.50,needs_review: case_or_single_price_unclear
+Marketzade,MARKETZADE-001612,Marketzade|marketzade_2026-10-29.csv|1612,Meysu Meyve Suyu Şeftali 200 Ml 6 Lı Paket,128.50,needs_review: case_or_single_price_unclear
+Marketzade,MARKETZADE-001613,Marketzade|marketzade_2026-10-29.csv|1613,Meysu Meyve Suyu Kayısı 200 Ml 6 Lı Paket,128.50,needs_review: case_or_single_price_unclear
+Migros,MIGROS-000577,Migros|migros_2026-10-25.csv|577,Milupa Çocuk Devam Sütü İçime Hazır 200 Ml 6'lı Paket 1 Yaş+,188.95,needs_review: case_or_single_price_unclear
+Migros,MIGROS-000943,Migros|migros_2026-10-25.csv|943,"Büyüyo Probiyotik Yoğurt Mayası 3 x 0,5 G",129.00,needs_review: suspicious_size
+Migros,,Migros|migros_2026-10-25.csv|1141,Tahsildaroğlu Ezine Peyniri 500 G (%45 Keçi %40 Koyun %15 İnek),549.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Migros,,Migros|migros_2026-10-25.csv|1153,Taciroğlu 3 Dilimli Keçi - Koyun - İnek Peyniri 450 G,554.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Migros,,Migros|migros_2026-10-25.csv|1163,Migros Keçi Koyun İnek Peyniri 600 G,429.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Migros,,Migros|migros_2026-10-25.csv|1174,Tahsildaroğlu Ezine Peyniri 500 G (%45 Koyun %40 Keçi %15 İnek),549.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Migros,,Migros|migros_2026-10-25.csv|1190,Migros Koyun Keçi İnek Peyniri 600 G,429.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Migros,,Migros|migros_2026-10-25.csv|1288,Tahsildaroğlu Peynir Kg (%45 Keçi %40 Koyun %15 İnek),829.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Migros,,Migros|migros_2026-10-25.csv|1289,Taciroğlu Koyun-Keçi-İnek Peyniri 3 Dilimli 450 G,554.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Migros,,Migros|migros_2026-10-25.csv|1291,Tahsildaroğlu Peynir Kg (%45 Koyun %40 Keçi %15 İnek),829.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Mopas,,Mopas|mopas_prices_2026-10-29.csv|2156,Sinangil Un Glutensiz 500 gr 1 Adet,103.45,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Mopas,,Mopas|mopas_prices_2026-10-29.csv|2157,Sinangil Glutensiz Un 500 gr 1 Adet,120.70,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Mopas,,Mopas|mopas_prices_2026-10-29.csv|4726,Pantene Onarıcı Ve Koruyucu Şampuan 625 ml 1 Adet,139.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Mopas,,Mopas|mopas_prices_2026-10-29.csv|4759,Pantene Şampuan Onarıcı Ve Koruyucu 625 ml 1 Adet,139.95,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Onur,ONUR-000033,Onur|onur_2026-10-29.csv|33,Kinder Joy Süpriz Yumurta Erkekler İçin 20 gr X 24,999.00,needs_review: placeholder_price
+Onur,ONUR-000063,Onur|onur_2026-10-29.csv|63,Tadıbu Kakaolu Fındık Ezme 330 G *3 Ad,999.00,needs_review: placeholder_price
+Onur,,Onur|onur_2026-10-29.csv|69,"Raid Elekro Likit Cihaz Ve 1 Yedek, 45 Gece",459.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Onur,ONUR-000153,Onur|onur_2026-10-29.csv|154,Sleepy Yüzey Temizlik Havlusu Çamaşır Suyu (Mavi) 100 Yaprak x10 Adet,999.00,needs_review: placeholder_price
+Onur,ONUR-000221,Onur|onur_2026-10-29.csv|222,Raid Elektrolikit Yedek 45 Gece 27 ML X3,799.00,needs_review: case_or_single_price_unclear
+Onur,ONUR-000222,Onur|onur_2026-10-29.csv|223,Raid Elektrolikit Yedek 45 Gece 27 ML X2,569.00,needs_review: case_or_single_price_unclear
+Onur,,Onur|onur_2026-10-29.csv|224,"Raid Elekro Likit Cihaz Ve 1 Yedek, 45 Gece + Yedek",699.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Onur,ONUR-000232,Onur|onur_2026-10-29.csv|234,Tchibo Gold Selection Çözünebilir Kahve Ekonomik Paket 150 Gr X4,809.00,needs_review: case_or_single_price_unclear
+Onur,ONUR-000322,Onur|onur_2026-10-29.csv|324,Jacobs Monarch Gold Çözülebilir Kahve 2 Gr 30lu,312.65,needs_review: case_or_single_price_unclear
+Onur,ONUR-000323,Onur|onur_2026-10-29.csv|325,Jacobs Monarch Gold Çözülebilir Kahve 30lu 2gr X2,520.26,needs_review: case_or_single_price_unclear
+Onur,ONUR-000324,Onur|onur_2026-10-29.csv|326,Jacobs Monarch Gold Çözülebilir Kahve 2 gr 30lu Kutu X5,1161.95,needs_review: case_or_single_price_unclear
+Onur,ONUR-000327,Onur|onur_2026-10-29.csv|329,Jacobs 3ü 1 Arada Gold Yoğun Lezzet Karışım Kahve 40lı Kutu X4,1358.34,needs_review: case_or_single_price_unclear
+Onur,ONUR-000329,Onur|onur_2026-10-29.csv|331,Jacobs 2si 1 Arada Karışım Kahve 40lı Kutu X2,497.82,needs_review: case_or_single_price_unclear
+Onur,ONUR-000330,Onur|onur_2026-10-29.csv|332,Jacobs 2si 1 Arada Karışım Kahve 40lı Kutu X4,713.06,needs_review: case_or_single_price_unclear
+Onur,ONUR-000331,Onur|onur_2026-10-29.csv|333,Jacobs 2si 1 Arada Karışım Kahve 40lı Kutu X8,1739.44,needs_review: case_or_single_price_unclear
+Onur,ONUR-000333,Onur|onur_2026-10-29.csv|335,Jacobs 3ü 1 Arada Karışım Kahve 40lı Kutu X8,1739.44,needs_review: case_or_single_price_unclear
+Onur,ONUR-000334,Onur|onur_2026-10-29.csv|336,Jacobs 3ü1 Arada Karışım Kahve 40lı Kutu X6,1339.93,needs_review: case_or_single_price_unclear
+Onur,ONUR-000335,Onur|onur_2026-10-29.csv|337,Jacobs 3ü 1 Arada Karışım Kahve 40lı Kutu X2,497.82,needs_review: case_or_single_price_unclear
+Onur,ONUR-000336,Onur|onur_2026-10-29.csv|338,Jacobs 3ü 1 Arada Karışım Kahve 40lı Kutu X4,909.45,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-000607,Sariyer|sariyermarket_2026-10-29.csv|607,Pınar Beyaz 20gr 8'Lı,114.90,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-000646,Sariyer|sariyermarket_2026-10-29.csv|646,Pınar Tereyağ 1 Kg,999.00,needs_review: placeholder_price
+Sariyer,SARIYER-001388,Sariyer|sariyermarket_2026-10-29.csv|1388,Lipton Bardak Poşet Çay Doğu Karadeniz 50 Gr 25'li,114.90,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-001454,Sariyer|sariyermarket_2026-10-29.csv|1454,Nescafe 3ü 1 Arada 17.5 G 10 lu Paket,132.50,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-001456,Sariyer|sariyermarket_2026-10-29.csv|1456,Nescafe 3ü 1 Arada Extra 16.5gr 10'lu Paket,132.50,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-001519,Sariyer|sariyermarket_2026-10-29.csv|1519,Özkaynak Maden Suyu Sade 200 Ml 6 LI,72.90,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-001740,Sariyer|sariyermarket_2026-10-29.csv|1740,"Magnum Mini Classic, Badem, Beyaz 345 Ml 6'lı",325.00,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-002331,Sariyer|sariyermarket_2026-10-29.csv|2331,Eti Form Kepekli Bisküvi 225 Gr 5li,77.50,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-002511,Sariyer|sariyermarket_2026-10-29.csv|2511,Greta Zeytin Ve Kekikli Kraker 30gr 4lü,65.00,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-002790,Sariyer|sariyermarket_2026-10-29.csv|2790,Massimo Cake Coconut 270Gr 6'lı,149.90,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-002791,Sariyer|sariyermarket_2026-10-29.csv|2791,Massimo Donut Cocoa 270 Gr 6Lı,149.90,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-002792,Sariyer|sariyermarket_2026-10-29.csv|2792,Massimo Donut Strawberry 270 Gr 6Lı,149.90,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-002793,Sariyer|sariyermarket_2026-10-29.csv|2793,Massimo Kuruvasan Red Fruits 270 Gr 6 Lı,149.90,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-002951,Sariyer|sariyermarket_2026-10-29.csv|2951,Pakmaya Yaş Hamur Mayası 42g 2li Paket,29.90,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-003000,Sariyer|sariyermarket_2026-10-29.csv|3000,Pidemiss Kıymalı Pide 125gr 3lü,194.90,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-003001,Sariyer|sariyermarket_2026-10-29.csv|3001,Pidemiss Kuşbaşılı Kaşarlı Pide 125gr 3lu,229.90,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-003165,Sariyer|sariyermarket_2026-10-29.csv|3165,Şölen Luppo Sandviç Kek Kakaolu 184gr 8'Li,59.90,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-003496,Sariyer|sariyermarket_2026-10-29.csv|3496,Ülker Pötibör Bisküvi 200Gr 4'lü,112.00,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-003845,Sariyer|sariyermarket_2026-10-29.csv|3845,Uno Hamburger Susamlı Büyük Ekmek 340gr 4'lü,97.50,needs_review: case_or_single_price_unclear
+Sariyer,,Sariyer|sariyermarket_2026-10-29.csv|4419,Robocar Poli Büyük Transforming Robot,1689.99,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Sariyer,,Sariyer|sariyermarket_2026-10-29.csv|4420,Robocar Poli Büyük Transforming Robot Poli,1689.99,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Sariyer,,Sariyer|sariyermarket_2026-10-29.csv|5134,Orkid Ultra Extra Hijyenik Ped Gece Extra Tekli Paket 6 Ped,74.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Sariyer,,Sariyer|sariyermarket_2026-10-29.csv|5135,Orkid Ultra Extra Hijyenik Ped Gece Tekli Paket 6 Ped,74.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Sariyer,SARIYER-005578,Sariyer|sariyermarket_2026-10-29.csv|5582,Perwoll Sıvı Çamaşır Deterjanı 2970L Açık Renkler,429.90,needs_review: suspicious_size
+Sariyer,SARIYER-005579,Sariyer|sariyermarket_2026-10-29.csv|5583,Perwoll Sıvı Çamaşır Deterjanı 2970L Renkli Yenileme,429.90,needs_review: suspicious_size
+Sariyer,SARIYER-005580,Sariyer|sariyermarket_2026-10-29.csv|5584,Perwoll Sıvı Çamaşır Deterjanı 2970L Siyah,429.90,needs_review: suspicious_size
+Sariyer,SARIYER-005808,Sariyer|sariyermarket_2026-10-29.csv|5812,Kbr Minel Ekolojik 250 Cc 10 Lu Bardak,179.95,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-005839,Sariyer|sariyermarket_2026-10-29.csv|5843,Roll-Up Kristal Bardak 200 Cc 10'Lu,104.90,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-005863,Sariyer|sariyermarket_2026-10-29.csv|5867,Kbr Minel Ekolojik 400 Cc 5 Li Kapaklı Kase,169.95,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-005864,Sariyer|sariyermarket_2026-10-29.csv|5868,Kbr Minel Ekolojik bardak 200 Cc 10 Lu Bardak,155.95,needs_review: case_or_single_price_unclear
+Sariyer,SARIYER-006013,Sariyer|sariyermarket_2026-10-29.csv|6017,Tss-332 Semsiye Bidonu 70lt.,1690.00,needs_review: suspicious_size
+sehzade,,sehzade|sehzade_products_2026-10-29.csv|44,Colgate Zig Zag Orta 1 + 1 Diş Fırçası,219.80,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+sehzade,,sehzade|sehzade_products_2026-10-29.csv|187,Colgate Diş Fırçası Zig Zag 1 + 1 Orta,98.40,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+sehzade,SEHZADE-000224,sehzade|sehzade_products_2026-10-29.csv|226,Nesquik Kakaolu Süt 180 ml 6'Lı,131.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-000238,sehzade|sehzade_products_2026-10-29.csv|240,Sütaş Süt 180 ml 6'lı (Çilek Aromalı),98.40,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-000815,sehzade|sehzade_products_2026-10-29.csv|817,Ülker Çokonat 99 g 3'lü 315 6,68.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-000817,sehzade|sehzade_products_2026-10-29.csv|819,Ülker Coco Star 100 g 4'lü 272 5,49.50,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-000838,sehzade|sehzade_products_2026-10-29.csv|840,Ülker Çokomel 12 Gr3'lu Sade 1312 00,18.40,needs_review: corrupted_size_text
+sehzade,SEHZADE-000902,sehzade|sehzade_products_2026-10-29.csv|904,Eti Browni İntense 50 g 16'lı,409.20,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-001170,sehzade|sehzade_products_2026-10-29.csv|1172,Ülker Haylayf 252 g 3'lü Krema Bisküvi,51.10,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-001350,sehzade|sehzade_products_2026-10-29.csv|1352,Torku Ritmo 240 g 8'li,65.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-001721,sehzade|sehzade_products_2026-10-29.csv|1723,Superfresh Ton Klasik 140 g 2'li,261.20,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-001722,sehzade|sehzade_products_2026-10-29.csv|1724,Dardanel Ton 75 g 3'lü Ekonomik Paket,219.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-001723,sehzade|sehzade_products_2026-10-29.csv|1725,Pınar Ton 150 Gr2'li + 75 g Eko Paket,219.70,needs_review: corrupted_size_text
+sehzade,SEHZADE-001725,sehzade|sehzade_products_2026-10-29.csv|1727,Dardanel Ton 140 g 3'lü Eko,258.50,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-001728,sehzade|sehzade_products_2026-10-29.csv|1730,Dardanel Ton 140 g 2'li Eko,186.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002021,sehzade|sehzade_products_2026-10-29.csv|2023,Aptamil 4 Devam Sütü 800 + 250 g,999.00,needs_review: placeholder_price
+sehzade,SEHZADE-002035,sehzade|sehzade_products_2026-10-29.csv|2037,Aptamil 800 g 3 No + 250 g 3 No,999.00,needs_review: placeholder_price
+sehzade,SEHZADE-002084,sehzade|sehzade_products_2026-10-29.csv|2086,Aptamil 2 Devam Sütü 800 + 250 g,999.00,needs_review: placeholder_price
+sehzade,SEHZADE-002151,sehzade|sehzade_products_2026-10-29.csv|2153,Hipp Organic Combiotic Devam Sütü No: 3 800 g 2'li Kutu,2490.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002153,sehzade|sehzade_products_2026-10-29.csv|2155,Paklar Toz Sabun 800 g 2'li,137.50,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002154,sehzade|sehzade_products_2026-10-29.csv|2156,Paklar Toz Sabun 800 g 4'li,275.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002377,sehzade|sehzade_products_2026-10-29.csv|2379,Aptamil 4 Devam Sütü 800 + 250 gr 3'lü,2907.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002378,sehzade|sehzade_products_2026-10-29.csv|2380,Aptamil 2 Devam Sütü 800 + 250 gr 3'lü,2907.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002380,sehzade|sehzade_products_2026-10-29.csv|2382,Sma Probiyotik 3 Numara Bebek Sütü 800 gr 6'lı,6687.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002381,sehzade|sehzade_products_2026-10-29.csv|2383,Bebivita Biberon 2 Numara 400 gr 4'lü,1064.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002382,sehzade|sehzade_products_2026-10-29.csv|2384,Sma Probiyotik 2 Numara Bebek Sütü 800 Gr 6'lı,7040.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002383,sehzade|sehzade_products_2026-10-29.csv|2385,Bebivita Bebek Sütü 3 Numara 400 Gr 4'lü,1097.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002384,sehzade|sehzade_products_2026-10-29.csv|2386,Sma Probiyotik 1 Numara Bebek Sütü 800 gr 6'lı,7040.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002385,sehzade|sehzade_products_2026-10-29.csv|2387,Hünnap Keçi Sütlü Bebe Bisküvisi 400 Gr 12'li,1587.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002421,sehzade|sehzade_products_2026-10-29.csv|2423,Bebivita 1 Bebek Sütü 400 gr 5'li,1331.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002424,sehzade|sehzade_products_2026-10-29.csv|2426,Bebelac 1 Bebek Sütü 800 gr 4'lü,3094.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002425,sehzade|sehzade_products_2026-10-29.csv|2427,Bebelac 2 Devam Sütü 800 gr 4'lü,3094.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002426,sehzade|sehzade_products_2026-10-29.csv|2428,Bebelac 3 Devam Sütü 800 gr 4'lü,3094.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002427,sehzade|sehzade_products_2026-10-29.csv|2429,Bebelac 4 Çocuk Devam Sütü 800 gr 4'lü,3094.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002439,sehzade|sehzade_products_2026-10-29.csv|2441,Sma Optipro 3 Probiyotik Devam Sütü 400 g 12'li,6332.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002440,sehzade|sehzade_products_2026-10-29.csv|2442,Sma Comfort 3 Devam Sütü 400 g 12'li,9880.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002568,sehzade|sehzade_products_2026-10-29.csv|2570,Pril Limon 4 kg 4'Lü Sıvı Bulaşık Deterjanı,988.90,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002616,sehzade|sehzade_products_2026-10-29.csv|2618,Knorr Bulyon 240 g 24'lü Et,91.80,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002617,sehzade|sehzade_products_2026-10-29.csv|2619,Knorr Bulyon 240 g 24'lü Tavuk,91.80,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002618,sehzade|sehzade_products_2026-10-29.csv|2620,Kent Boringer Bulyon 240 g 24'lü Tavuk,65.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002619,sehzade|sehzade_products_2026-10-29.csv|2621,Kent Boringer Bulyon 240 g 24'lü Et,65.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002874,sehzade|sehzade_products_2026-10-29.csv|2876,Çaykur Tiryaki 1 kg 10'lü Koli,3850.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002878,sehzade|sehzade_products_2026-10-29.csv|2880,Balküpü Çay 1 kg 12'li,3686.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-002940,sehzade|sehzade_products_2026-10-29.csv|2942,Aoc Kakaolu Fındık Kreması 700 g 9'lu Koli,1769.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-003154,sehzade|sehzade_products_2026-10-29.csv|3156,Duru Sabun 90 g 4'lü Diamonds Green,103.90,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-004153,sehzade|sehzade_products_2026-10-29.csv|4155,Fanta 250 ml 4'lü,235.40,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-004154,sehzade|sehzade_products_2026-10-29.csv|4156,Sprite 250 ml 4'lü,235.40,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-004163,sehzade|sehzade_products_2026-10-29.csv|4165,Sarıyer Cola 330 ml 24'lü,627.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-004165,sehzade|sehzade_products_2026-10-29.csv|4167,Meysu Portakal 330 ml 24'lü,679.80,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-004166,sehzade|sehzade_products_2026-10-29.csv|4168,Skyfall Enerji İçeceği (250 ml 24'lü),514.80,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-004174,sehzade|sehzade_products_2026-10-29.csv|4176,You Can Enerji İçeçegi 250 ml 24'lü Koli,514.80,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-004182,sehzade|sehzade_products_2026-10-29.csv|4184,Meysu Cola 330 ml 6'lı,151.80,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-004313,sehzade|sehzade_products_2026-10-29.csv|4315,Cappy Meyve Suyu 200 ml 6'lı Şeftali,98.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-004314,sehzade|sehzade_products_2026-10-29.csv|4316,Cappy Meyve Suyu 200 ml 6'lı Karışık,98.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-004380,sehzade|sehzade_products_2026-10-29.csv|4382,Greendas Leke Çözücü 1000 ml 3'lü,189.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-004448,sehzade|sehzade_products_2026-10-29.csv|4450,Stop Forte Leke Çıkarıcı 750 ml 2'li,196.90,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-004449,sehzade|sehzade_products_2026-10-29.csv|4451,Stop Forte Derz Temizleyici 750 ml 2'li,196.90,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-004479,sehzade|sehzade_products_2026-10-29.csv|4481,Stop Forte Wc ve Banyo Temizleyici 750 ml 3'lü,306.90,needs_review: case_or_single_price_unclear
+sehzade,,sehzade|sehzade_products_2026-10-29.csv|4603,Burcu Tatlı Ketçap 650 g,32.70,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+sehzade,SEHZADE-005050,sehzade|sehzade_products_2026-10-29.csv|5053,Dudomi Noodle 70 g 5´Lı Köri,79.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-005051,sehzade|sehzade_products_2026-10-29.csv|5054,Dudomi Tavuk Noodle 70 g 5'li,79.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-005132,sehzade|sehzade_products_2026-10-29.csv|5135,Polo 33 g 3'lü Paket,65.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-005134,sehzade|sehzade_products_2026-10-29.csv|5137,Tamek Mısır 210 g 3'lü,129.50,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-005153,sehzade|sehzade_products_2026-10-29.csv|5156,Kent Boringer Karbonat 40 g 3'lü,30.20,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-005187,sehzade|sehzade_products_2026-10-29.csv|5190,Tukaş Domates Salça Teneke 4350 g 6'lı,1914.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-005221,sehzade|sehzade_products_2026-10-29.csv|5224,W BIZIM MRG PAKET 250G 6LI 6152-4*2LI***,394.90,needs_review: case_or_single_price_unclear
+sehzade,,sehzade|sehzade_products_2026-10-29.csv|5262,Burcu Ketçap 650 g Tatlı,54.40,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+sehzade,SEHZADE-006198,sehzade|sehzade_products_2026-10-29.csv|6202,Philips Ampül 8 W 720 L Beyaz,50.00,needs_review: suspicious_size
+sehzade,SEHZADE-006346,sehzade|sehzade_products_2026-10-29.csv|6350,Stop Forte Yağ ve Kır Çözücü 750 ml 3'lü,317.90,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007025,sehzade|sehzade_products_2026-10-29.csv|7029,Mottopls 4'lü 55 L Katlanır Dolap Beyaz,3025.00,needs_review: suspicious_size
+sehzade,SEHZADE-007071,sehzade|sehzade_products_2026-10-29.csv|7075,Ege 210 Cc 4'lü Yumurta Baharatlık 300005,110.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007073,sehzade|sehzade_products_2026-10-29.csv|7077,Ege 244 Cc 4'lü Uzun Baharatlık 300006,110.00,needs_review: case_or_single_price_unclear
+sehzade,,sehzade|sehzade_products_2026-10-29.csv|7445,Molped Süpernight Süper Eko Gece,98.70,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+sehzade,,sehzade|sehzade_products_2026-10-29.csv|7447,Molped Süpernight Süper Eko Gece Süper,98.70,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+sehzade,SEHZADE-007561,sehzade|sehzade_products_2026-10-29.csv|7567,Nescafe 3 Ü 1 Arada Orginal 17 g 10'lü,109.40,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007566,sehzade|sehzade_products_2026-10-29.csv|7572,Nescafe 2 Si 1 Arada Şekersiz 10 g 10'lü,109.40,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007608,sehzade|sehzade_products_2026-10-29.csv|7614,Kızılay Maden Suyu 200 ml 6'lı,66.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007613,sehzade|sehzade_products_2026-10-29.csv|7619,Ülker Cafe Crown Salep 15 g 10'lu 973 4,104.50,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007647,sehzade|sehzade_products_2026-10-29.csv|7653,Beypazarı Meyveli 200 ml 24'lü Nar,323.40,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007652,sehzade|sehzade_products_2026-10-29.csv|7658,Dr. Oetker Salep 14 g 4'lü,43.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007655,sehzade|sehzade_products_2026-10-29.csv|7661,Hakkı Efendi Kahve 3 İn1 10 g 10'lu,52.60,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007661,sehzade|sehzade_products_2026-10-29.csv|7667,Nescafe 3 İn1 Fındıklı 17 g 10'lu,109.40,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007663,sehzade|sehzade_products_2026-10-29.csv|7669,Freşa İnişdibi Doğal Maden Suyu 200 ml 6'lı,99.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007664,sehzade|sehzade_products_2026-10-29.csv|7670,Freşa İnişdibi Doğal Maden Suyu 200 ml 24'Lü,385.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007668,sehzade|sehzade_products_2026-10-29.csv|7674,Mehmet Efendi Türk Kahvesı 100 g 25'li,2591.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007694,sehzade|sehzade_products_2026-10-29.csv|7700,Beypazarı Maden Suyu 200 ml 24'lü,306.90,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007695,sehzade|sehzade_products_2026-10-29.csv|7701,Beypazarı Maden Suyu 200 ml 6'lı,68.20,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007698,sehzade|sehzade_products_2026-10-29.csv|7704,Uludağ Frutti Cmax 200 ml 6'lı Cvitaminli,115.50,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007717,sehzade|sehzade_products_2026-10-29.csv|7723,"Nescafe Ice 10,5 g 10'lu Çikolatalı",120.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007718,sehzade|sehzade_products_2026-10-29.csv|7724,"Nescafe Ice 10,5 g 10'lu Fındıklı",120.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007740,sehzade|sehzade_products_2026-10-29.csv|7746,Nescafe 3 İn1 Original 17 g 15'li,153.70,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007752,sehzade|sehzade_products_2026-10-29.csv|7758,Mahbuba 2 İn1 18 g 8'li,43.40,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007754,sehzade|sehzade_products_2026-10-29.csv|7760,Mahbuba 3 İn1 Sütlü Köpüklü 18 g 8'li,50.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007756,sehzade|sehzade_products_2026-10-29.csv|7762,Mahbuba 3 İn1 Original 18 g 8'li,52.20,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007771,sehzade|sehzade_products_2026-10-29.csv|7777,"Nescafe 3 İn1 Gold 17,5 g 10'lu Yumuşak",120.40,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007772,sehzade|sehzade_products_2026-10-29.csv|7778,"Nescafe 3 İn1 Gold 17,6 g 10'lu Yoğun",120.40,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007792,sehzade|sehzade_products_2026-10-29.csv|7798,Jacobs Kahve Kapsül 52 g 10'li İntense,268.90,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007795,sehzade|sehzade_products_2026-10-29.csv|7801,Jacobs Kahve Kapsül 52 g 7'li Classic,268.90,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007798,sehzade|sehzade_products_2026-10-29.csv|7804,Jacobs 3 İn1 16 g 40'li Paket,438.90,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-007799,sehzade|sehzade_products_2026-10-29.csv|7805,Mehmet Efendi Türk Kahvesi 100 Gr 10'lu,1008.00,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-008481,sehzade|sehzade_products_2026-10-29.csv|8487,Nivea Body Q10 Vücut Sütü Sikilatirici 250 ml 2'li,438.90,needs_review: case_or_single_price_unclear
+sehzade,SEHZADE-008955,sehzade|sehzade_products_2026-10-29.csv|8961,Pınar Labne 20 Gr8'li,102.50,needs_review: corrupted_size_text
+sok_market,SOK-000588,sok_market|sok_2026-10-27.csv|588,Nescafe 3'ü 1 Arada 17.5 g 10'lu,109.00,needs_review: case_or_single_price_unclear
+sok_market,SOK-000706,sok_market|sok_2026-10-27.csv|706,Cheetos Fırından 60 g 3'lü Paket,45.00,needs_review: case_or_single_price_unclear
+sok_market,SOK-001192,sok_market|sok_2026-10-27.csv|1192,Kardelen Su 12'li 12*0.33 ml,66.75,needs_review: suspicious_size
+SozSanal,,SozSanal|soz_2026-03-31.csv|646,SENSODYNE DIS MAC. FERAH NEFES 100ML,179.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+SozSanal,,SozSanal|soz_2026-03-31.csv|650,SENSODYNE DIS MAC.TAM KORUMA & BEYAZLATICI 50ML,80.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+SozSanal,,SozSanal|soz_2026-03-31.csv|872,SUTAS YOGURT SUZME YK 900 GR,222.50,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+SozSanal,,SozSanal|soz_2026-03-31.csv|1407,COLGATE DIS MAC. OPTIK PARILDAYAN BEYAZLIK 50ML,59.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+SozSanal,,SozSanal|soz_2026-03-31.csv|1408,COLGATE DIS MAC. OPTIK PARILDAYAN BEYAZLIK 50ML + 50ML,130.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+SozSanal,,SozSanal|soz_2026-03-31.csv|1432,SENSODYNE DIS MAC. FERAH NEFES 100 ML,179.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+SozSanal,,SozSanal|soz_2026-03-31.csv|1439,SENSODYNE DIS MAC.TAM KORUMA BEYAZLATICI 50ML+50ML,125.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+SozSanal,,SozSanal|soz_2026-03-31.csv|1532,JOHNSON BEBEK SABUNU 90GR BEDTIME,49.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+SozSanal,,SozSanal|soz_2026-03-31.csv|1533,JOHNSON BEBEK SABUNU BEDTIME 90 GR,49.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+SozSanal,SOZSANAL-002304,SozSanal|soz_2026-03-31.csv|2335,DARDANEL TON KLASIK 75 GR 4LU,249.90,needs_review: case_or_single_price_unclear
+SozSanal,SOZSANAL-002386,SozSanal|soz_2026-03-31.csv|2417,KEMAL KUKRER NAR EKSISI CAM 250ML 2LI FIRSAT PKT,435.00,needs_review: case_or_single_price_unclear
+SozSanal,SOZSANAL-002458,SozSanal|soz_2026-03-31.csv|2489,NAMET HINDI SALAM 7/24 60 GR 18 LI,26.50,needs_review: case_or_single_price_unclear
+SozSanal,SOZSANAL-002483,SozSanal|soz_2026-03-31.csv|2514,ONCU BIBER ACI BIBER SALCASI 1650 KG,279.90,needs_review: suspicious_size
+SozSanal,SOZSANAL-002484,SozSanal|soz_2026-03-31.csv|2515,ONCU BIBER TATLI SALCA 1650KG,279.90,needs_review: suspicious_size
+SozSanal,SOZSANAL-002585,SozSanal|soz_2026-03-31.csv|2617,TUKAS MISIR KONSERVESI EKO PAKET 220 GR 3 LU,80.00,needs_review: case_or_single_price_unclear
+SozSanal,,SozSanal|soz_2026-03-31.csv|3933,SUTAS YOGURT SUZME YK 900 GR,137.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+SozSanal,SOZSANAL-004606,SozSanal|soz_2026-03-31.csv|4653,PAKMAYA TOZ KAKAO 50GR 2 LI,109.00,needs_review: case_or_single_price_unclear
+Tarım Kredi Kooperatif,TARIMKREDI-000275,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|275,BOLCA SUPREME PİZZA 820 G 4 LÜ,139.90,needs_review: case_or_single_price_unclear
+Tarım Kredi Kooperatif,,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|383,DALAN SIVI SABUN ZEYTIN MUCIZE...,49.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Tarım Kredi Kooperatif,,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|384,DALAN SIVI SABUN ZEYTİN MUCİZE...,139.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Tarım Kredi Kooperatif,TARIMKREDI-000387,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|389,DANA JULYEN,999.00,needs_review: placeholder_price
+Tarım Kredi Kooperatif,TARIMKREDI-000392,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|394,DANA KUŞBAŞI KG,999.00,needs_review: placeholder_price
+Tarım Kredi Kooperatif,,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|490,DOMESTOS CAMASIR SUYU ÇAM FERA...,185.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Tarım Kredi Kooperatif,,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|496,DOMESTOS ÇAMASIR SUYU ÇAM FERA...,99.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Tarım Kredi Kooperatif,TARIMKREDI-000521,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|525,DR.OETKER KAK. PUD.147G2'Lİ +A...,75.00,needs_review: corrupted_size_text
+Tarım Kredi Kooperatif,,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|557,EDDİNG 244 FOSFORLU KALEM 2'Lİ...,69.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Tarım Kredi Kooperatif,,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|558,EDDİNG 244 FOSFORLU KALEM 2Lİ...,69.90,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Tarım Kredi Kooperatif,TARIMKREDI-001123,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|1129,KINIK İNCİR&BAL 200 ML 6 LI,72.50,needs_review: case_or_single_price_unclear
+Tarım Kredi Kooperatif,TARIMKREDI-001151,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|1157,KİNG BLENDERO BLENDER,999.00,needs_review: placeholder_price
+Tarım Kredi Kooperatif,TARIMKREDI-001214,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|1220,LAV VİRA KASE 310 CC 6'LI,132.90,needs_review: case_or_single_price_unclear
+Tarım Kredi Kooperatif,,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|1412,NESCAFE 3 Ü 1 ARADA SÜTLÜ KÖPÜ...,15.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Tarım Kredi Kooperatif,,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|1413,NESCAFE 3'Ü 1 ARADA SÜTLÜ KÖPÜ...,99.50,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Tarım Kredi Kooperatif,,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|1553,PAKMAYA KAKAOLU PUDİNG,46.25,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Tarım Kredi Kooperatif,,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|1562,PAKMAYA MUZLU PUDİNG,33.75,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Tarım Kredi Kooperatif,,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|1565,PAKMAYA PUDİNG KAKAOLU,745.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Tarım Kredi Kooperatif,,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|1566,PAKMAYA PUDİNG MUZLU,500.00,no offer_id: same name with two prices in one store; needs_review: same_name_different_price_no_offer_id
+Tarım Kredi Kooperatif,TARIMKREDI-001569,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|1581,PAPIA HOME ASMALI HAVLU 250 L...,169.90,needs_review: suspicious_size
+Tarım Kredi Kooperatif,TARIMKREDI-001848,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|1860,SLEEPY EXTRA 2LI JMB MAXI 52 L...,179.90,needs_review: suspicious_size
+Tarım Kredi Kooperatif,TARIMKREDI-001849,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|1861,SLEEPY EXTRA 2LI JMB MIDI 56 L...,179.90,needs_review: suspicious_size
+Tarım Kredi Kooperatif,TARIMKREDI-002106,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|2118,TK DANA GERDAN,999.00,needs_review: placeholder_price
+Tarım Kredi Kooperatif,TARIMKREDI-002116,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|2128,TK DANA KOL- KÜREK,999.00,needs_review: placeholder_price
+Tarım Kredi Kooperatif,TARIMKREDI-002119,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|2131,TK DANA KUŞBAŞILIK ET,999.00,needs_review: placeholder_price
+Tarım Kredi Kooperatif,TARIMKREDI-002220,Tarım Kredi Kooperatif|tkkoop_2026-10-29.csv|2232,TK KUZU İNCİK,999.00,needs_review: placeholder_price

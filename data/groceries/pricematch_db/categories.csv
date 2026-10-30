@@ -1,0 +1,420 @@
+category_id,parent_category_id,name
+1,,Gıda ve alkolsüz içecekler
+2,,"Alkollü içecekler, tütün ve tütün ürünleri"
+3,,Giyim ve ayakkabı
+4,,"Konut, su, elektrik, gaz ve diğer yakıtlar"
+5,,"Mobilya, mefruşat ve evde kullanılan ekipmanlar ile rutin ev bakım ve onarımı"
+6,,Ulaştırma
+7,,Bilgi ve iletişim
+8,,"Eğlence, dinlence, spor ve kültür"
+9,,"Kişisel bakım, sosyal koruma ve çeşitli mal ve hizmetler"
+10,1,Gıda
+11,1,Alkolsüz içecekler
+12,2,Alkollü içecekler
+13,2,Tütün ve tütün ürünleri
+14,3,Giyim
+15,3,Ayakkabılar
+16,4,"Konutun bakımı, onarımı ve güvenliği"
+17,4,"Elektrik, gaz ve diğer yakıtlar"
+18,5,"Mobilya, mefruşat ve halılar"
+19,5,Ev tekstilleri
+20,5,Ev aletleri
+21,5,"Züccaciye, yemek takımı ve ev gereçleri"
+22,5,Ev ve bahçe alet ve ekipmanları
+23,5,Rutin ev bakımı için mal ve hizmetler
+24,6,Araç satın alımı
+25,6,Kişisel ulaşım araçlarının kullanımı
+26,7,Bilgi ve iletişim ekipmanları
+27,8,Diğer eğlence malları
+28,8,Bahçe ürünleri ve ev hayvanları
+29,8,"Gazete, kitap ve kırtasiye malzemeleri"
+30,9,Kişisel bakım
+31,9,Diğer kişisel eşyalar
+32,10,Tahıllar ve tahıl ürünleri
+33,10,"Canlı hayvanlar, kesilen kara hayvanlarının etleri ve diğer kısımları"
+34,10,Balıklar ve diğer su ürünleri
+35,10,"Süt, diğer süt ürünleri ve yumurtalar"
+36,10,Sıvı ve katı yağlar
+37,10,Meyveler ve sert kabuklu meyveler
+38,10,"Sebzeler, yumrulu sebzeler, plantainler, yemeklik muzlar ve bakliyat"
+39,10,"Şeker, şekerlemeler ve tatlılar"
+40,10,Yemeye hazır gıdalar ve başka yerde sınıflandırılmamış diğer gıda ürünleri
+41,11,Meyve ve sebze suları
+42,11,Kahve ve kahve ikameleri
+43,11,"Çay, mate çayı ve demlenerek hazırlanan diğer bitkisel ürünler"
+44,11,Maden suları ve kaynak suları
+45,11,Meşrubatlar
+46,12,Şaraplar
+47,13,Tütün ve tütün ürünleri
+48,14,Giysiler
+49,14,Diğer giyim eşyaları ve giyim aksesuarları
+50,15,Ayakkabılar
+51,16,Konutun bakım ve onarımı için malzemeler ve güvenlik ekipmanları
+52,17,Gaz
+53,17,Katı yakıtlar
+54,18,"Mobilya, mefruşat ve halılar"
+55,19,Ev tekstilleri
+56,20,Elektrikli veya elektriksiz büyük ev aletleri
+57,20,Küçük ev aletleri
+58,21,"Züccaciye, yemek takımı ve ev gereçleri"
+59,22,Motorlu olmayan ev ve bahçe aletleri ve çeşitli aksesuarlar
+60,23,Dayanıklı olmayan ev eşyaları
+61,24,Bisikletler
+62,25,Kişisel ulaşım araçlarının parça ve aksesuarları
+63,25,Kişisel ulaşım araçları için yakıtlar ve yağlar
+64,26,Bilgi işleme ekipmanları
+65,26,"Ses ve görüntü alma, kaydetme ve çoğaltma ekipmanları"
+66,26,Diğer bilgi ve iletişim ekipmanları ve aksesuarları
+67,27,"Oyunlar, oyuncaklar ve hobiler"
+68,27,"Spor, kamp ve açık hava eğlence ekipmanları"
+69,28,Ev hayvanları ve ev hayvanları için ürünler
+70,29,Kırtasiye ve çizim malzemeleri
+71,30,Kişisel bakıma yönelik elektrikli aletler
+72,30,"Kişisel bakıma yönelik diğer aletler, malzemeler ve ürünler"
+73,31,Mücevherat ve kol saatleri
+74,31,Başka yerde sınıflandırılmamış diğer kişisel eşyalar
+75,32,Tahıllar
+76,32,Tahıl unları
+77,32,Ekmek ve unlu mamuller
+78,32,Kahvaltılık tahıl ürünleri
+79,32,"Makarna, erişte, kuskus ve benzeri makarna ürünleri"
+80,33,"Et, taze, soğutulmuş veya dondurulmuş"
+81,33,"Et, kurutulmuş, tuzlanmış, salamura edilmiş veya tütsülenmiş"
+82,33,"Kesilmiş hayvanların sakatat ve diğer parçaları (taze, soğutulmuş veya dondurulmuş, kurutulmuş, tuzlanmış, salamura edilmiş veya tütsülenmiş)"
+83,33,"Kesilmiş hayvanların et, sakatat ve diğer parçalarından yemeye hazır hale getirilmiş ürünler"
+84,34,"Balıklar, canlı, taze, soğutulmuş veya dondurulmuş"
+85,34,Konserve edilmiş veya işlenmiş balık ürünleri
+86,35,Çiğ ve tam yağlı süt
+87,35,Yağı alınmış süt
+88,35,Diğer sütler ve krema
+89,35,Peynir
+90,35,Yoğurt ve benzeri ürünler
+91,35,Süt bazlı tatlı ve içecekler
+92,35,Yumurtalar
+93,36,Bitkisel sıvı yağlar
+94,36,Tereyağı ve sütten elde edilen diğer yağlar
+95,36,Margarin
+96,37,"Hurma, incir ve tropikal meyveler, taze"
+97,37,"Turunçgiller, taze"
+98,37,"Sert çekirdekli ve yumuşak çekirdekli meyveler, taze"
+99,37,"Üzümsü meyveler, taze"
+100,37,"Diğer meyveler, taze"
+101,37,Kurutulmuş ve dehidre meyveler
+102,37,"Sert kabuklu meyveler, kabuklu veya kabuksuz"
+103,38,"Yeşil yapraklı veya saplı sebzeler, taze veya soğutulmuş"
+104,38,"Meyvesi yenen sebzeler, taze veya soğutulmuş (domates, biber, salatalık, kabak vb.)"
+105,38,"Yeşil baklagil sebzeleri, taze veya soğutulmuş"
+106,38,"Diğer sebzeler, taze veya soğutulmuş (soğan, sarımsak, havuç, mantar, zeytin vb.)"
+107,38,Yumrulu sebzeler
+108,38,Kuru baklagiller
+109,38,"Konserve edilmiş veya işlenmiş sebze içerikli ürünler (salça, turşu, zeytin vb.)"
+110,39,Şeker
+111,39,"Reçel, meyve jöleleri, marmelat, meyve püreleri ve ezmeleri, bal"
+112,39,"Sert kabuklu meyve püresi, meyve ezmesi ve macunu"
+113,39,"Çikolata, kakao, kakao bazlı gıda ürünleri"
+114,39,"Buz, dondurma ve buzlu şerbet (sorbe)"
+115,39,Başka yerde sınıflandırılmamış tatlılar ve diğer şekerlemeler
+116,40,"Yemeye hazır gıdalar (hazır pizza, börek, çorba vb.)"
+117,40,Bebek mamaları
+118,40,"Tuz, çeşniler ve soslar"
+119,40,"Baharatlar, yemeklerde kullanılan otlar ve tohumlar"
+120,40,Başka yerde sınıflandırılmamış diğer gıda ürünleri
+121,41,Meyve ve sebze suları
+122,42,Kahve
+123,43,Çay ve demlenerek hazırlanan diğer bitkisel ürünler
+124,44,Maden suları ve kaynak suları
+125,45,Meşrubatlar
+126,46,"Şarap, üzümden"
+127,47,Sigaralar
+128,48,Erkek ve erkek çocuk giysileri
+129,48,Kadın ve kız çocuk giysileri
+130,48,Bebek giysileri (0-2 yaş)
+131,49,Diğer giyim eşyaları
+132,50,Erkek ayakkabıları
+133,50,Kadın ayakkabıları
+134,51,Konutun bakım ve onarımı için malzemeler
+135,52,Tüpgaz (ev tüpü)
+136,53,"Kömür, kömür briketi ve turba"
+137,53,"Yakacak odun, peletler ve briketler dahil"
+138,54,Ev mobilyaları
+139,54,"Mefruşat, halılar ve kilimler"
+140,55,Döşemelik kumaşlar ve perdeler
+141,55,Yatak takımları ve yatak olarak kullanılan eşyalar
+142,55,Masa ve banyo tekstili
+143,55,Diğer ev tekstilleri
+144,56,Elektrikli büyük mutfak eşyaları
+145,56,Çamaşır makineleri ve kurutma makineleri
+146,56,"Isıtıcılar, klimalar"
+147,56,Temizlik ekipmanları (elektrik süpürgesi vb.)
+148,57,Yiyecek pişirme ve işlemede kullanılan küçük aletler
+149,57,İçecek hazırlamada kullanılan küçük aletler
+150,57,Diğer küçük ev aletleri
+151,58,"Cam, kristal, seramik, porselen ve çin porseleni eşyalar"
+152,58,Çatal bıçak takımları ve gümüş çatal bıçak takımları
+153,58,Mutfak gereçleri ve eşyaları
+154,59,"Çeşitli hırdavat malzemeleri ve aksesuarlar (pil, ampul vb.)"
+155,60,Ev temizlik ve bakım ürünleri
+156,60,Diğer dayanıklı olmayan ev eşyaları
+157,61,Bisikletler
+158,62,Kişisel ulaşım araçlarının parçaları
+159,62,Kişisel ulaşım araçlarının aksesuarları
+160,63,Yağlar
+161,64,Bilgisayar çevre birimleri ve sarf malzemeleri
+162,65,"Ses ve görüntü alma, kaydetme ve çoğaltma ekipmanları"
+163,66,Diğer bilgi ve iletişim ekipmanları
+164,66,Diğer bilgi ve iletişim aksesuarları
+165,67,"Video oyunu bilgisayarları, oyun konsolları, oyun uygulamaları ve yazılımları"
+166,67,"Diğer oyunlar, oyuncaklar ve hobiler"
+167,68,Spor ekipmanları
+168,69,Ev hayvanları ve diğer evcil hayvanlar için ürünler
+169,70,Kırtasiye ve çizim malzemeleri
+170,71,Kişisel bakıma yönelik elektrikli aletler
+171,72,"Kişisel bakıma yönelik diğer aletler, malzemeler ve ürünler"
+172,73,Mücevherat ve kol saatleri
+173,74,"Başka yerde sınıflandırılmamış seyahat eşyaları, bebekler için malzemeler ve diğer kişisel eşyalar"
+174,75,Pirinç
+175,75,Bulgur
+176,76,Buğday unu
+177,77,Ekmek
+178,77,Diğer pastane ürünleri
+179,77,Bisküvi
+180,77,Kraker
+181,77,Gofret
+182,77,Baklava
+183,77,"Simit, poğaça vb. (fırın, market vb. yerlerde satılan)"
+184,78,Kahvaltılık tahıl gevreği
+185,79,Makarna
+186,79,Şehriye
+187,80,Dana eti
+188,80,Kuzu eti
+189,80,Tavuk eti
+190,81,"Sucuk (kangal, dana etinden)"
+191,81,Dana salam
+192,81,Beyaz et salam
+193,82,Sakatat
+194,83,Sosis
+195,83,Hazır tavuk yemekleri
+196,83,Hazır et yemekleri
+197,84,Somon balığı (ithal)
+198,84,Palamut balığı (yerli)
+199,84,Diğer balıklar
+200,85,Konserve balık
+201,86,Tam yağlı süt (günlük ve uzun ömürlü)
+202,87,Yarım yağlı süt (uzun ömürlü)
+203,88,"Krema, kaymak ve benzeri süt ürünleri"
+204,89,Beyaz peynir
+205,89,Kaşar peyniri
+206,89,Tulum peyniri
+207,89,Sürülebilir peynirler
+208,89,Yöresel peynirler
+209,90,Yoğurt
+210,90,Ayran
+211,91,Hazır sütlü tatlılar
+212,91,Aromalı sütler
+213,92,Yumurta
+214,93,Ayçiçek yağı
+215,93,Zeytinyağı
+216,94,Tereyağı
+217,95,Margarin
+218,96,Muz
+219,97,Limon
+220,97,Portakal
+221,97,Mandalina
+222,98,Elma
+223,98,"Armut, ayva"
+224,98,Şeftali
+225,99,Çilek
+226,100,Üzüm
+227,100,Kivi
+228,100,Kavun
+229,100,Karpuz
+230,100,Nar
+231,101,Kuru üzüm
+232,101,Kuru hurma
+233,101,Kuru kayısı
+234,102,Badem içi
+235,102,Fındık içi
+236,102,Antep fıstığı
+237,102,Ceviz içi
+238,102,Yer fıstığı
+239,102,Kabak çekirdeği
+240,102,Leblebi
+241,102,Ay çekirdeği
+242,103,Lahana
+243,103,Karnabahar
+244,103,Marul çeşitleri
+245,103,Ispanak
+246,104,Çarliston biber
+247,104,Diğer taze biber çeşitleri
+248,104,Salatalık
+249,104,Patlıcan
+250,104,Domates
+251,104,Kabak
+252,105,Taze fasulye
+253,106,Havuç
+254,106,Turp
+255,106,Kuru sarımsak
+256,106,Kuru soğan
+257,106,Pırasa
+258,106,Kültür mantarı
+259,106,Zeytin (sofralık)
+260,107,Patates
+261,108,Kuru fasulye
+262,108,Nohut
+263,108,Mercimek
+264,109,Sebze konserveleri
+265,109,Turşu
+266,109,Salça
+267,109,Cipsler
+268,110,Toz şeker
+269,110,Kesme şeker
+270,111,Bal
+271,111,Reçel
+272,111,Pekmez
+273,112,Fındık ezmesi
+274,112,Tahin
+275,113,Çikolata
+276,113,Sürülebilir krem çikolata
+277,114,Dondurma
+278,115,Tahin helvası
+279,115,Lokum
+280,115,Sakız
+281,115,Ambalajlı şeker
+282,116,Hazır pizzalar
+283,116,Hazır çorbalar
+284,116,Hazır börekler
+285,116,Diğer hazır yemekler
+286,117,Bebek sütü (toz karışım)
+287,118,Tuz
+288,118,Sirke
+289,118,Ketçap
+290,118,Mayonez
+291,119,Taze aromatik otlar
+292,119,Baharatlar
+293,120,Kabartma maddeleri
+294,120,Hazır toz tatlı karışımları
+295,121,Meyve suyu
+296,122,Kahve
+297,122,Hazır kahve
+298,123,Çay
+299,123,Soğuk çay
+300,124,Su
+301,124,Maden suyu ve sodası
+302,125,Gazoz
+303,125,Kola
+304,126,Şarap
+305,127,Sigaralar
+306,128,Erkek mont
+307,128,Erkek pantolon
+308,128,Erkek pijama takımı
+309,128,Erkek çorap
+310,128,Erkek çocuk pijama takımı
+311,129,Kadın tişört
+312,129,Kadın pijama takımı
+313,129,Kadın çorap
+314,130,Bebek tulumu
+315,131,Erkek kemer
+316,131,Kadın eşarp
+317,132,Erkek ayakkabı
+318,132,Erkek bot
+319,133,Kadın terlik
+320,134,Badana ve boya malzemeleri
+321,134,Yer ve duvar döşeme malzemeleri
+322,134,Pvc kapı ve pencere malzemeleri
+323,134,Sıhhi tesisat malzemeleri
+324,134,Konutun bakım ve onarımına yönelik diğer malzemeler
+325,135,Tüpgaz (ev tüpü)
+326,136,Kömür
+327,137,Odun
+328,138,Mutfak masası
+329,138,Mutfak sandalyesi
+330,138,Yatak
+331,138,Yatak bazası
+332,138,Genç odası takımı
+333,138,Oturma odası takımı
+334,139,Halı
+335,140,Perde
+336,140,Stor perde
+337,140,Tül perde
+338,141,Yatak örtüsü
+339,141,Yorgan
+340,141,Battaniye
+341,141,Pike takımı
+342,141,Nevresim takımı
+343,141,Yastık
+344,142,Havlu
+345,143,Banyo paspası
+346,143,Diğer ev tekstili
+347,144,Buzdolabı
+348,144,Fırın ve ocaklar
+349,145,Çamaşır kurutma makinesi
+350,146,Klima
+351,146,Soba
+352,146,Kombi
+353,147,Elektrikli süpürgeler
+354,148,Elektrikli kesici aletler (blender)
+355,148,Elektrikli küçük ev aletleri
+356,149,Elektrikli çay makinesi
+357,150,Ütü
+358,151,Cam ev eşyası
+359,151,Porselen ev eşyası
+360,152,"Kaşık, çatal, bıçak takımı (çelik)"
+361,153,Çelik mutfak eşyaları
+362,153,Yapışmaz malzemeden mutfak eşyaları
+363,153,Termos
+364,154,Pil
+365,154,Ampul
+366,155,Çamaşır için temizlik ve bakım ürünleri
+367,155,Bulaşık için temizlik ve bakım ürünleri
+368,155,Hijyenik zeminler için temizlik ve bakım ürünleri
+369,155,Temizlik bezleri
+370,155,Yüzey temizlik havlusu
+371,156,"Saklama ve muhafaza malzemeleri (streç film, alüminyum folyo vb.)"
+372,156,"Kağıt sofra malzemeleri (kağıt havlu, kağıt peçete vb.)"
+373,156,Diğer dayanıklı olmayan ev eşyaları
+374,157,Bisiklet
+375,158,Otomobil yedek parça ve ekipmanları
+376,159,Otomobil aksesuarları
+377,160,Motor yağları
+378,161,Bilgisayar ekipmanları
+379,162,Ses ve görüntü ekipmanları
+380,162,Televizyon
+381,163,Diğer iletişim ekipmanları
+382,164,Diğer bilgi ve iletişim aksesuarları
+383,165,Elektronik oyunlar (oyun konsolları vb.)
+384,166,Diğer oyuncaklar
+385,166,Tekerlekli sürülebilir oyuncaklar
+386,167,Evde kullanılan spor aletleri
+387,167,Spor ekipmanları
+388,168,Evcil hayvan mamaları
+389,168,Evcil hayvanlara yönelik diğer ürünler
+390,169,Okul defterleri
+391,169,Kalemler
+392,169,Resim boyaları
+393,169,Yazım ve çizim kağıtları
+394,169,Diğer kırtasiye malzemeleri
+395,170,Elektrikli tıraş makinesi
+396,170,Elektrikli saç bakım aletleri
+397,170,Diğer elektrikli kişisel bakım aletleri
+398,171,Tıraş bıçağı
+399,171,Diş fırçası
+400,171,Diş macunu
+401,171,El sabunu (katı ve sıvı)
+402,171,Banyo sabunu
+403,171,Parfüm
+404,171,Deodorant
+405,171,Kolonya
+406,171,Diğer kişisel bakım ürünleri
+407,171,Makyaj malzemeleri
+408,171,Güneş kremi
+409,171,Saç bakım ürünleri
+410,171,Tuvalet kağıdı
+411,171,Diğer kağıt ürünleri
+412,171,Hijyenik kadın bağı
+413,172,Kol saati
+414,173,Seyahat eşyaları
+415,173,Kadın çantası
+416,173,Okul çantası
+417,173,Bebek arabası
+418,173,Bebek bezi
+419,,Sınıflandırılmamış
