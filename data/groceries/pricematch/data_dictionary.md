@@ -4,7 +4,9 @@ Source: the daily price files of the inflation study (`InflationResearchStudy/In
 
 ## pricematch_cleaned_all_markets.csv and stores/<Store>.csv
 
-`pricematch_cleaned_all_markets.csv` holds all 24 stores in one file (99,375 rows), store by store. `stores/<Store>.csv` holds the same rows split by store. Both have the same 26 columns, listed below. Files are UTF-8 without BOM (in Python, `encoding="utf-8"` works; in Excel use Data → From Text/CSV).
+`pricematch_cleaned_all_markets.csv` is the **product catalog** of all 24 stores in one file (99,375 rows, 19 columns). Product facts (name, brand, size, IDs) are collected once; prices are scraped daily and joined to this catalog on `offer_id`; cross-store matching is another team's task. So this file has the columns below **except** `price`, `scrape_date`, `source_file`, `source_row`, `product_id`, `canonical_product_name` and `match_status`. For rows without an `offer_id` (same name with two prices in one store), `record_key` is the key.
+
+`stores/<Store>.csv` holds the same rows split by store with all 26 columns, including that day's price and the matching proposal. Files are UTF-8 without BOM (in Python, `encoding="utf-8"` works; in Excel use Data → From Text/CSV).
 
 | Column | Type | Meaning | Empty when |
 |---|---|---|---|

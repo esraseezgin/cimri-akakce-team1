@@ -29,7 +29,7 @@ Prepared by Esra (Team 1, Data Cleaning & Preprocessing).
 
 ## Files
 
-`stores/` (24 CSV), `products_master.csv`, `product_matches.csv`, `unmatched_products.csv`, `rejected_records.csv`, `data_quality_stats.csv`, `data_dictionary.md`, `data_quality_report.md`, `validation_results.md`, `FINAL_REPORT.md`, and `pricematch_cleaned_all_markets.csv` (all 24 stores in one file, same columns). All UTF-8 without BOM, comma-separated.
+`stores/` (24 CSV), `products_master.csv`, `product_matches.csv`, `unmatched_products.csv`, `rejected_records.csv`, `data_quality_stats.csv`, `data_dictionary.md`, `data_quality_report.md`, `validation_results.md`, `FINAL_REPORT.md`, and `pricematch_cleaned_all_markets.csv` (product catalog of all 24 stores in one file: no price, no matching columns; prices are scraped daily and joined on `offer_id`). All UTF-8 without BOM, comma-separated.
 
 ## GitHub delivery (team repo `esraseezgin/cimri-akakce-team1`)
 

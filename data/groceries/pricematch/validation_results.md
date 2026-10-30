@@ -12,7 +12,7 @@
 | original names and prices kept exactly | PASS | 0 differences |
 | no word, number, promotion or model code lost in standard names | PASS | 0 rows |
 | all 24 store files have the same columns | PASS | 26 columns |
-| pricematch_cleaned_all_markets.csv holds exactly the 24 store files' rows | PASS | 99,375 rows |
+| pricematch_cleaned_all_markets.csv is the product catalog: every store row once, no price or matching columns | PASS | 99,375 rows, 19 columns |
 | no clothing size in `model` and no stray signs in `color` | PASS | 0 values |
 | records under one product_id agree on brand, size, unit, pack, variant, model, capacity and colour, one record per store | PASS | 53,749 product_ids |
 | no product_id joins prices more than 3x apart (false-merge guard) | PASS | 0 groups |
