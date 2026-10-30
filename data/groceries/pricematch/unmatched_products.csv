@@ -34,6 +34,7 @@ A101,A101-000033,A101|a101_kapida_2026-10-29.csv|33,Kırmızı Lahana Kg,Kırmı
 A101,A101-000034,A101|a101_kapida_2026-10-29.csv|34,Dereotu Adet,Dereotu – adet,25.90,clean,not_matchable,no reliable brand
 A101,A101-000035,A101|a101_kapida_2026-10-29.csv|35,Taze Soğan Adet,Taze Soğan – adet,49.50,clean,not_matchable,no reliable brand
 A101,A101-000036,A101|a101_kapida_2026-10-29.csv|36,Nane Adet,Nane – adet,22.90,clean,not_matchable,no reliable brand
+A101,A101-000037,A101|a101_kapida_2026-10-29.csv|37,Roka Adet,Roka – adet,24.90,clean,not_matchable,no reliable brand
 A101,A101-000318,A101|a101_kapida_2026-10-29.csv|318,Maret Dana Baton Kavurma 1 Kg,Maret – Dana Baton Kavurma – 1 kg,999.00,needs_review,not_matchable,needs_review: placeholder_price
 A101,A101-000329,A101|a101_kapida_2026-10-29.csv|329,Dardanel Somon Füme 80 G,Dardanel – Somon Füme – 80 g,69.50,clean,ambiguous,same key but prices differ more than 3x
 A101,A101-000414,A101|a101_kapida_2026-10-29.csv|414,Melek Dana Çemensiz Pastırma 80 G,Melek Dana Çemensiz Pastırma – 80 g,119.00,clean,not_matchable,no reliable brand
@@ -1995,7 +1996,7 @@ Arden,ARDEN-000234,Arden|arden_urunler_2026-10-29.csv|234,Soğan Taze Demet,Soğ
 Arden,ARDEN-000235,Arden|arden_urunler_2026-10-29.csv|235,Göbek Salata Adet,Göbek Salata – adet,59.99,clean,not_matchable,no reliable brand
 Arden,ARDEN-000236,Arden|arden_urunler_2026-10-29.csv|236,Semizotu Demet,Semizotu Demet,49.95,clean,not_matchable,no reliable brand
 Arden,ARDEN-000237,Arden|arden_urunler_2026-10-29.csv|237,Sarımsak Kg,Sarımsak – kg,299.99,clean,not_matchable,no reliable brand
-Arden,ARDEN-000238,Arden|arden_urunler_2026-10-29.csv|238,Roka Demet,Roka – Demet,39.95,clean,not_matchable,no quantity in name
+Arden,ARDEN-000238,Arden|arden_urunler_2026-10-29.csv|238,Roka Demet,Roka Demet,39.95,clean,not_matchable,no reliable brand
 Arden,ARDEN-000239,Arden|arden_urunler_2026-10-29.csv|239,Nane Demet,Nane Demet,24.95,clean,not_matchable,no reliable brand
 Arden,ARDEN-000240,Arden|arden_urunler_2026-10-29.csv|240,Karnabahar Kg,Karnabahar – kg,59.99,clean,not_matchable,no reliable brand
 Arden,ARDEN-000241,Arden|arden_urunler_2026-10-29.csv|241,Domates Linda (Salkım) Kg,Domates Linda (salkım) – kg,199.99,clean,not_matchable,no reliable brand
@@ -4610,6 +4611,7 @@ Cagri,CAGRI-000063,Cagri|cagri_products_2026-10-29.csv|63,VAKMAK MINI KOÇANDA T
 Cagri,CAGRI-000064,Cagri|cagri_products_2026-10-29.csv|64,Nihas Dolmalık Kabak,Nihas Dolmalık Kabak,179.95,clean,not_matchable,no reliable brand
 Cagri,CAGRI-000065,Cagri|cagri_products_2026-10-29.csv|65,Nihas Dolmalık Mix Çeşit 20 adet,Nihas Dolmalık Mix Çeşit – 20 adet,179.95,clean,not_matchable,no reliable brand
 Cagri,CAGRI-000066,Cagri|cagri_products_2026-10-29.csv|66,Nihas Acı Süs Biberi,Nihas Acı Süs Biberi,89.95,clean,not_matchable,no reliable brand
+Cagri,CAGRI-000067,Cagri|cagri_products_2026-10-29.csv|67,Roka adet,Roka – adet,29.95,clean,not_matchable,no reliable brand
 Cagri,CAGRI-000068,Cagri|cagri_products_2026-10-29.csv|68,Lahana Kırmızı kg,Lahana Kırmızı – kg,39.99,clean,not_matchable,no reliable brand
 Cagri,CAGRI-000069,Cagri|cagri_products_2026-10-29.csv|69,Domates Kurusu kg,Domates Kurusu – kg,649.95,clean,not_matchable,no reliable brand
 Cagri,CAGRI-000070,Cagri|cagri_products_2026-10-29.csv|70,Sarımsak file Kg,Sarımsak File – kg,189.99,clean,not_matchable,no reliable brand
@@ -6101,6 +6103,7 @@ CarrefourSA,CARREFOURSA-000080,CarrefourSA|carrefourSA_2026-10-29.csv|82,File So
 CarrefourSA,CARREFOURSA-000081,CarrefourSA|carrefourSA_2026-10-29.csv|83,Taze Patates Paket,Taze Patates Paket,69.90,clean,not_matchable,no reliable brand
 CarrefourSA,CARREFOURSA-000082,CarrefourSA|carrefourSA_2026-10-29.csv|84,Pırasa Kg,Pırasa – kg,79.90,clean,not_matchable,no reliable brand
 CarrefourSA,CARREFOURSA-000083,CarrefourSA|carrefourSA_2026-10-29.csv|85,Dereotu Adet,Dereotu – adet,38.90,clean,not_matchable,no reliable brand
+CarrefourSA,CARREFOURSA-000084,CarrefourSA|carrefourSA_2026-10-29.csv|86,Roka Adet,Roka – adet,36.90,clean,not_matchable,no reliable brand
 CarrefourSA,CARREFOURSA-000085,CarrefourSA|carrefourSA_2026-10-29.csv|87,Maydanoz Adet,Maydanoz – adet,36.90,clean,not_matchable,no reliable brand
 CarrefourSA,CARREFOURSA-000086,CarrefourSA|carrefourSA_2026-10-29.csv|88,Nane Adet,Nane – adet,35.90,clean,not_matchable,no reliable brand
 CarrefourSA,CARREFOURSA-000087,CarrefourSA|carrefourSA_2026-10-29.csv|89,Süs Kabağı Mix Adet,Süs Kabağı Mix – adet,69.90,clean,not_matchable,no reliable brand
@@ -7522,7 +7525,7 @@ Gurmar,GURMAR-000001,Gurmar|gurmar_prices_2026-10-29.csv|1,Patates - 500 Gr.,Pat
 Gurmar,GURMAR-000002,Gurmar|gurmar_prices_2026-10-29.csv|2,Domates - 500 Gr.,Domates – 500 g,59.95,clean,not_matchable,no reliable brand
 Gurmar,GURMAR-000003,Gurmar|gurmar_prices_2026-10-29.csv|3,Maydanoz Demet,Maydanoz Demet,11.90,clean,not_matchable,no reliable brand
 Gurmar,GURMAR-000004,Gurmar|gurmar_prices_2026-10-29.csv|4,Soğan Kuru - 500 Gr.,Soğan Kuru – 500 g,22.45,clean,not_matchable,no reliable brand
-Gurmar,GURMAR-000005,Gurmar|gurmar_prices_2026-10-29.csv|5,Roka Demet,Roka – Demet,11.90,clean,not_matchable,no quantity in name
+Gurmar,GURMAR-000005,Gurmar|gurmar_prices_2026-10-29.csv|5,Roka Demet,Roka Demet,11.90,clean,not_matchable,no reliable brand
 Gurmar,GURMAR-000006,Gurmar|gurmar_prices_2026-10-29.csv|6,Salatalık Silör - 500 Gr.,Salatalık Silör – 500 g,39.95,clean,not_matchable,no reliable brand
 Gurmar,GURMAR-000007,Gurmar|gurmar_prices_2026-10-29.csv|7,Havuç - 500 Gr.,Havuç – 500 g,19.95,clean,not_matchable,no reliable brand
 Gurmar,GURMAR-000008,Gurmar|gurmar_prices_2026-10-29.csv|8,Limon - 500 Gr.,Limon – 500 g,29.95,clean,not_matchable,no reliable brand
@@ -8313,7 +8316,7 @@ Hakmar,HAKMAR-000016,Hakmar|hakmar_2026-10-27.csv|16,Mor Soğan 500 Gr,Mor Soğa
 Hakmar,HAKMAR-000017,Hakmar|hakmar_2026-10-27.csv|17,Patates 500 Gr,Patates – 500 g,17.48,clean,not_matchable,no reliable brand
 Hakmar,HAKMAR-000018,Hakmar|hakmar_2026-10-27.csv|18,Patlıcan 500 Gr,Patlıcan – 500 g,29.98,clean,not_matchable,no reliable brand
 Hakmar,HAKMAR-000019,Hakmar|hakmar_2026-10-27.csv|19,Pırasa 1 Kg,Pırasa – 1 kg,79.95,clean,not_matchable,no reliable brand
-Hakmar,HAKMAR-000020,Hakmar|hakmar_2026-10-27.csv|20,Roka Demet,Roka – Demet,19.95,clean,not_matchable,no quantity in name
+Hakmar,HAKMAR-000020,Hakmar|hakmar_2026-10-27.csv|20,Roka Demet,Roka Demet,19.95,clean,not_matchable,no reliable brand
 Hakmar,HAKMAR-000021,Hakmar|hakmar_2026-10-27.csv|21,Safkar Mantar Paket 400 Gr,Safkar Mantar Paket – 400 g,89.95,clean,not_matchable,no reliable brand
 Hakmar,HAKMAR-000022,Hakmar|hakmar_2026-10-27.csv|22,Salatalık 500 Gr,Salatalık – 500 g,29.98,clean,not_matchable,no reliable brand
 Hakmar,HAKMAR-000023,Hakmar|hakmar_2026-10-27.csv|23,Semiz Otu Demet,Semiz – Otu Demet,39.95,clean,not_matchable,no quantity in name
@@ -9569,6 +9572,7 @@ Hapeloglu,HAPELOGLU-003261,Hapeloglu|hapeloglu_2026-10-29.csv|3264,Patates Kg.,P
 Hapeloglu,HAPELOGLU-003262,Hapeloglu|hapeloglu_2026-10-29.csv|3265,Patlıcan Kg,Patlıcan – kg,24.90,clean,not_matchable,no reliable brand
 Hapeloglu,HAPELOGLU-003263,Hapeloglu|hapeloglu_2026-10-29.csv|3266,Portakal Finike Kg,Portakal Finike – kg,67.50,clean,not_matchable,no reliable brand
 Hapeloglu,HAPELOGLU-003264,Hapeloglu|hapeloglu_2026-10-29.csv|3267,Pırasa Kg,Pırasa – kg,34.90,clean,not_matchable,no reliable brand
+Hapeloglu,HAPELOGLU-003265,Hapeloglu|hapeloglu_2026-10-29.csv|3268,Roka Adet,Roka – adet,25.00,clean,not_matchable,no reliable brand
 Hapeloglu,HAPELOGLU-003266,Hapeloglu|hapeloglu_2026-10-29.csv|3269,Salatalık Kg,Salatalık – kg,64.90,clean,not_matchable,no reliable brand
 Hapeloglu,HAPELOGLU-003267,Hapeloglu|hapeloglu_2026-10-29.csv|3270,Sarımsak,Sarımsak,185.00,clean,not_matchable,no reliable brand
 Hapeloglu,HAPELOGLU-003268,Hapeloglu|hapeloglu_2026-10-29.csv|3271,Soğan Kg,Soğan – kg,32.50,clean,not_matchable,no reliable brand
@@ -10972,7 +10976,7 @@ HappyCenter,HAPPYCENTER-005282,HappyCenter|happycenter_2026-10-27.csv|5300,Tek L
 HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5301,Sarımsak Yeni Kg,Sarımsak Yeni – kg,230.65,needs_review,not_matchable,needs_review: same_name_different_price_no_offer_id
 HappyCenter,HAPPYCENTER-005283,HappyCenter|happycenter_2026-10-27.csv|5302,Sap Kereviz,Sap Kereviz,194.95,clean,not_matchable,no reliable brand
 HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5303,Salatalık,Salatalık,103.15,needs_review,not_matchable,needs_review: same_name_different_price_no_offer_id
-HappyCenter,HAPPYCENTER-005284,HappyCenter|happycenter_2026-10-27.csv|5304,Roka Demet,Roka – Demet,28.15,clean,not_matchable,no quantity in name
+HappyCenter,HAPPYCENTER-005284,HappyCenter|happycenter_2026-10-27.csv|5304,Roka Demet,Roka Demet,28.15,clean,not_matchable,no reliable brand
 HappyCenter,HAPPYCENTER-005285,HappyCenter|happycenter_2026-10-27.csv|5305,Reyhan Demet,Reyhan Demet,31.25,clean,not_matchable,no reliable brand
 HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5306,Portakal Sıkma,Portakal Sıkma,68.75,needs_review,not_matchable,needs_review: same_name_different_price_no_offer_id
 HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5307,Portakal Sıkma,Portakal Sıkma,74.95,needs_review,not_matchable,needs_review: same_name_different_price_no_offer_id
@@ -11352,7 +11356,7 @@ Ideal,IDEAL-000586,Ideal|ideal_prices_2026-10-29.csv|586,Reyhan Demet,Reyhan Dem
 Ideal,IDEAL-000587,Ideal|ideal_prices_2026-10-29.csv|587,Turp Kg,Turp – kg,49.90,clean,not_matchable,no reliable brand
 Ideal,IDEAL-000588,Ideal|ideal_prices_2026-10-29.csv|588,Tere Demet,Tere Demet,29.90,clean,not_matchable,no reliable brand
 Ideal,IDEAL-000589,Ideal|ideal_prices_2026-10-29.csv|589,Yeşil Soğan Kg,Yeşil Soğan – kg,99.90,clean,not_matchable,no reliable brand
-Ideal,IDEAL-000590,Ideal|ideal_prices_2026-10-29.csv|590,Roka Demet,Roka – Demet,29.90,clean,not_matchable,no quantity in name
+Ideal,IDEAL-000590,Ideal|ideal_prices_2026-10-29.csv|590,Roka Demet,Roka Demet,29.90,clean,not_matchable,no reliable brand
 Ideal,IDEAL-000591,Ideal|ideal_prices_2026-10-29.csv|591,Pırasa,Pırasa,79.90,clean,not_matchable,no reliable brand
 Ideal,IDEAL-000592,Ideal|ideal_prices_2026-10-29.csv|592,Pazı Demet,Pazı Demet,49.90,clean,not_matchable,no reliable brand
 Ideal,IDEAL-000593,Ideal|ideal_prices_2026-10-29.csv|593,Kıvırcık Adet,Kıvırcık – adet,49.90,clean,not_matchable,no reliable brand
@@ -11853,6 +11857,7 @@ Kale,KALE-000046,Kale|kalemarketleri_prices_2026-10-29.csv|46,Nar Kg,Nar – kg,
 Kale,KALE-000047,Kale|kalemarketleri_prices_2026-10-29.csv|47,Marul Adet,Marul – adet,50.00,clean,not_matchable,no reliable brand
 Kale,KALE-000048,Kale|kalemarketleri_prices_2026-10-29.csv|48,Soğan Taze Demet,Soğan Taze Demet,42.50,clean,not_matchable,no reliable brand
 Kale,KALE-000049,Kale|kalemarketleri_prices_2026-10-29.csv|49,Ispanak Kg,Ispanak – kg,79.90,clean,not_matchable,no reliable brand
+Kale,KALE-000050,Kale|kalemarketleri_prices_2026-10-29.csv|50,Roka Adet,Roka – adet,32.00,clean,not_matchable,no reliable brand
 Kale,KALE-000051,Kale|kalemarketleri_prices_2026-10-29.csv|51,Nane Adet,Nane – adet,30.00,clean,not_matchable,no reliable brand
 Kale,KALE-000052,Kale|kalemarketleri_prices_2026-10-29.csv|52,Patates Çuval (10 Kg),Patates Çuval – 10 kg,379.90,clean,not_matchable,no reliable brand
 Kale,KALE-000053,Kale|kalemarketleri_prices_2026-10-29.csv|53,Soğan Çuval (9 Kg),Soğan Çuval – 9 kg,339.90,clean,not_matchable,no reliable brand
@@ -12438,7 +12443,7 @@ Kim,KIM-000527,Kim|kim_2026-10-29.csv|527,PATATES TAZE,Patates Taze,40.00,clean,
 Kim,KIM-000528,Kim|kim_2026-10-29.csv|528,PATLICAN,Patlıcan,99.00,clean,not_matchable,no reliable brand
 Kim,KIM-000529,Kim|kim_2026-10-29.csv|529,PIRASA,Pırasa,80.00,clean,not_matchable,no reliable brand
 Kim,KIM-000530,Kim|kim_2026-10-29.csv|530,PORTAKAL SIKMA,Portakal Sıkma,50.00,clean,not_matchable,no reliable brand
-Kim,KIM-000531,Kim|kim_2026-10-29.csv|531,ROKA,Roka,25.00,clean,not_matchable,no quantity in name
+Kim,KIM-000531,Kim|kim_2026-10-29.csv|531,ROKA,Roka,25.00,clean,not_matchable,no reliable brand
 Kim,KIM-000532,Kim|kim_2026-10-29.csv|532,SALAMURA YAPRAK PET 1 KG,Salamura Yaprak PET – 1 kg,330.00,clean,not_matchable,no reliable brand
 Kim,KIM-000533,Kim|kim_2026-10-29.csv|533,SALAMURA YAPRAK PET 750 GR,Salamura Yaprak PET – 750 g,240.00,clean,not_matchable,no reliable brand
 Kim,KIM-000534,Kim|kim_2026-10-29.csv|534,SALATALIK,Salatalık,60.00,clean,not_matchable,no reliable brand
@@ -12928,7 +12933,7 @@ Kim,KIM-002142,Kim|kim_2026-10-29.csv|2142,UNTAD YORESEL TAM BUDAYLı LAVAS 25 C
 Macrocenter,MACROCENTER-000001,Macrocenter|macrocenter_prices_2026-10-29.csv|1,Muz İthal Kg,Muz İthal – kg,159.95,clean,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000002,Macrocenter|macrocenter_prices_2026-10-29.csv|2,Hıyar Badem Kg,Hıyar Badem – kg,125.95,clean,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000003,Macrocenter|macrocenter_prices_2026-10-29.csv|3,Avokado Adet,Avokado – adet,69.95,clean,not_matchable,no reliable brand
-Macrocenter,MACROCENTER-000004,Macrocenter|macrocenter_prices_2026-10-29.csv|4,Roka Demet,Roka – Demet,39.95,clean,not_matchable,no quantity in name
+Macrocenter,MACROCENTER-000004,Macrocenter|macrocenter_prices_2026-10-29.csv|4,Roka Demet,Roka Demet,39.95,clean,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000005,Macrocenter|macrocenter_prices_2026-10-29.csv|5,Maydanoz Adet,Maydanoz – adet,41.95,clean,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000006,Macrocenter|macrocenter_prices_2026-10-29.csv|6,Havuç Kg,Havuç – kg,81.95,clean,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000007,Macrocenter|macrocenter_prices_2026-10-29.csv|7,Biber Kırmızı Kg,Biber Kırmızı – kg,178.50,clean,not_matchable,no reliable brand
@@ -13009,6 +13014,7 @@ Macrocenter,MACROCENTER-000130,Macrocenter|macrocenter_prices_2026-10-29.csv|130
 Macrocenter,MACROCENTER-000131,Macrocenter|macrocenter_prices_2026-10-29.csv|131,Rozmarin 25 G,Rozmarin – 25 g,188.95,clean,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000133,Macrocenter|macrocenter_prices_2026-10-29.csv|133,Medel Frenk Soğanı 25 g Paket,Medel Frenk Soğanı Paket – 25 g,157.50,clean,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000138,Macrocenter|macrocenter_prices_2026-10-29.csv|138,Mini Biber 50 Gr,Mini Biber – 50 g,121.95,clean,not_matchable,no reliable brand
+Macrocenter,MACROCENTER-000139,Macrocenter|macrocenter_prices_2026-10-29.csv|139,Roka Mini 125 G Erüst,Roka Mini Erüst – 125 g,262.50,clean,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000142,Macrocenter|macrocenter_prices_2026-10-29.csv|142,Alaşehir Asma Yaprağı (Ci) 455 G,Alaşehir Asma Yaprağı (ci) – 455 g,314.95,clean,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000143,Macrocenter|macrocenter_prices_2026-10-29.csv|143,Organik Aronya 100G,Organik Aronya – 100 g,59.95,clean,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000146,Macrocenter|macrocenter_prices_2026-10-29.csv|146,Dünya Hayat Kurutulmuş Patlıcan,Dünya Hayat – Kurutulmuş Patlıcan,314.95,clean,not_matchable,no quantity in name
@@ -13445,6 +13451,7 @@ Macrocenter,MACROCENTER-002974,Macrocenter|macrocenter_prices_2026-10-29.csv|297
 Macrocenter,MACROCENTER-002987,Macrocenter|macrocenter_prices_2026-10-29.csv|2989,Gigi's Badem Yaban Mersini Atıştırmalık 50 G,Gigi's Badem Yaban Mersini Atıştırmalık – 50 g,210.00,clean,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-002991,Macrocenter|macrocenter_prices_2026-10-29.csv|2993,Crax Patlayan Lezzet Peynirli&soğanlı Çubuk 80 G,Crax Patlayan Lezzet Peynirli&soğanlı Çubuk – 80 g,25.00,clean,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-002996,Macrocenter|macrocenter_prices_2026-10-29.csv|2998,Gigi's Ceviz İçi Elma Kurusu Karışık Kuruyemiş 115 G,Gigi's Ceviz İçi Elma Kurusu Karışık Kuruyemiş – 115 g,419.00,clean,not_matchable,no reliable brand
+Macrocenter,MACROCENTER-002998,Macrocenter|macrocenter_prices_2026-10-29.csv|3000,Roka Deniz Tuzlu ve Karabiberli Kraker 90 G,Roka Deniz Tuzlu ve Karabiberli Kraker – 90 g,226.50,clean,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-003008,Macrocenter|macrocenter_prices_2026-10-29.csv|3010,Orbit Karpuz Aromalı ŞekersizTatlandırıcılı Draje Sakız 14 G,Orbit Karpuz Aromalı Şekersiztatlandırıcılı Draje Sakız – 14 g,29.95,clean,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-003009,Macrocenter|macrocenter_prices_2026-10-29.csv|3011,Çıtır Leblebi (9Mm) Kg,Çıtır Leblebi (9Mm) – kg,359.90,clean,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-003010,Macrocenter|macrocenter_prices_2026-10-29.csv|3012,Hindistan Cevizi Kurusu Kg,Hindistan Cevizi Kurusu – kg,999.90,clean,not_matchable,no reliable brand
@@ -16037,7 +16044,7 @@ Migros,MIGROS-000071,Migros|migros_2026-10-25.csv|71,Domates Kg,Domates – kg,7
 Migros,MIGROS-000072,Migros|migros_2026-10-25.csv|72,Maydanoz Demet,Maydanoz Demet,36.95,clean,not_matchable,no reliable brand
 Migros,MIGROS-000073,Migros|migros_2026-10-25.csv|73,Havuç Beypazarı Paket Kg,Havuç Beypazarı Paket – kg,62.95,clean,not_matchable,no reliable brand
 Migros,MIGROS-000074,Migros|migros_2026-10-25.csv|74,Hıyar Badem Paket Kg,Hıyar Badem Paket – kg,79.95,clean,not_matchable,no reliable brand
-Migros,MIGROS-000075,Migros|migros_2026-10-25.csv|75,Roka Demet,Roka – Demet,36.95,clean,not_matchable,no quantity in name
+Migros,MIGROS-000075,Migros|migros_2026-10-25.csv|75,Roka Demet,Roka Demet,36.95,clean,not_matchable,no reliable brand
 Migros,MIGROS-000076,Migros|migros_2026-10-25.csv|76,Kereviz Kg,Kereviz – kg,104.95,clean,not_matchable,no reliable brand
 Migros,MIGROS-000077,Migros|migros_2026-10-25.csv|77,Biber Kırmızı Kg,Biber Kırmızı – kg,146.95,clean,not_matchable,no reliable brand
 Migros,MIGROS-000078,Migros|migros_2026-10-25.csv|78,Patlıcan Kemer Kg,Patlıcan Kemer – kg,73.50,clean,not_matchable,no reliable brand
@@ -16543,6 +16550,7 @@ Mopas,MOPAS-000058,Mopas|mopas_prices_2026-10-29.csv|58,Fasulye Cino 500 gr,Fasu
 Mopas,MOPAS-000059,Mopas|mopas_prices_2026-10-29.csv|59,Maydanoz 1 Adet,Maydanoz – 1 adet,28.70,clean,not_matchable,no reliable brand
 Mopas,MOPAS-000060,Mopas|mopas_prices_2026-10-29.csv|60,Dereotu 1 Adet,Dereotu – 1 adet,28.70,clean,not_matchable,no reliable brand
 Mopas,MOPAS-000061,Mopas|mopas_prices_2026-10-29.csv|61,Nane 1 Adet,Nane – 1 adet,28.70,clean,not_matchable,no reliable brand
+Mopas,MOPAS-000062,Mopas|mopas_prices_2026-10-29.csv|62,Roka 1 Adet,Roka – 1 adet,28.70,clean,not_matchable,no reliable brand
 Mopas,MOPAS-000063,Mopas|mopas_prices_2026-10-29.csv|63,Havuç 500 gr,Havuç – 500 g,28.73,clean,not_matchable,no reliable brand
 Mopas,MOPAS-000064,Mopas|mopas_prices_2026-10-29.csv|64,Göbek Salata 1 Adet,Göbek Salata – 1 adet,57.45,clean,not_matchable,no reliable brand
 Mopas,MOPAS-000065,Mopas|mopas_prices_2026-10-29.csv|65,ıspanak 500 gr,Ispanak – 500 g,57.47,clean,not_matchable,no reliable brand
@@ -17314,6 +17322,7 @@ Sariyer,SARIYER-000024,Sariyer|sariyermarket_2026-10-29.csv|24,Kivi Yerli Kg,Kiv
 Sariyer,SARIYER-000025,Sariyer|sariyermarket_2026-10-29.csv|25,Kıvırcık Adet,Kıvırcık – adet,55.00,clean,not_matchable,no reliable brand
 Sariyer,SARIYER-000026,Sariyer|sariyermarket_2026-10-29.csv|26,Patates Taze Kg,Patates Taze – kg,79.90,clean,not_matchable,no reliable brand
 Sariyer,SARIYER-000027,Sariyer|sariyermarket_2026-10-29.csv|27,Pırasa Kg,Pırasa – kg,75.90,clean,not_matchable,no reliable brand
+Sariyer,SARIYER-000028,Sariyer|sariyermarket_2026-10-29.csv|28,Roka Adet,Roka – adet,21.95,clean,not_matchable,no reliable brand
 Sariyer,SARIYER-000029,Sariyer|sariyermarket_2026-10-29.csv|29,Badem Çengelköy Kg,Badem Çengelköy – kg,115.00,clean,not_matchable,no reliable brand
 Sariyer,SARIYER-000030,Sariyer|sariyermarket_2026-10-29.csv|30,Hurma Trabzon Kg,Hurma Trabzon – kg,115.00,clean,not_matchable,no reliable brand
 Sariyer,SARIYER-000031,Sariyer|sariyermarket_2026-10-29.csv|31,Biber Çarliston Kg,Biber Çarliston – kg,135.00,clean,not_matchable,no reliable brand

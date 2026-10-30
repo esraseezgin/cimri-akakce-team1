@@ -17,8 +17,8 @@ Prepared by Esra (Team 1, Data Cleaning & Preprocessing).
 
 - Records: 99,375 from 24 stores; `clean` 98,645, `needs_review` 730.
 - Rejected rows: 37; exact duplicates removed: 19.
-- product_ids: 53,753; 8,626 are sold by 2+ stores. Records matched across stores: 26,095; single-store: 45,127; without product_id: 28,153 (ambiguous 264, not matchable 27,889).
-- Validation: 18 of 18 checks passed. Details: `validation_results.md`.
+- product_ids: 53,749; 8,625 are sold by 2+ stores. Records matched across stores: 26,089; single-store: 45,124; without product_id: 28,162 (ambiguous 264, not matchable 27,898).
+- Validation: 20 of 20 checks passed. Details: `validation_results.md`.
 
 ## Limitations
 
@@ -29,7 +29,7 @@ Prepared by Esra (Team 1, Data Cleaning & Preprocessing).
 
 ## Files
 
-`stores/` (24 CSV), `products_master.csv`, `product_matches.csv`, `unmatched_products.csv`, `rejected_records.csv`, `data_quality_stats.csv`, `data_dictionary.md`, `data_quality_report.md`, `validation_results.md`, `FINAL_REPORT.md`. All UTF-8, comma-separated.
+`stores/` (24 CSV), `products_master.csv`, `product_matches.csv`, `unmatched_products.csv`, `rejected_records.csv`, `data_quality_stats.csv`, `data_dictionary.md`, `data_quality_report.md`, `validation_results.md`, `FINAL_REPORT.md`, and `pricematch_cleaned_all_markets.csv` (all 24 stores in one file, same columns). All UTF-8 without BOM, comma-separated.
 
 ## GitHub delivery (team repo `esraseezgin/cimri-akakce-team1`)
 
@@ -49,4 +49,4 @@ git commit -m "Add cleaned, standardized grocery data for 24 stores with product
 git push origin main
 ```
 
-Before `git commit`, the list from `git diff --cached --name-only` must contain only paths under `data/groceries/pricematch/` (33 files). Never use `git add .` or `--force`. If the push is rejected, run `git pull --rebase origin main` again and push.
+Before `git commit`, the list from `git diff --cached --name-only` must contain only paths under `data/groceries/pricematch/` (34 files). Never use `git add .` or `--force`. If the push is rejected, run `git pull --rebase origin main` again and push.

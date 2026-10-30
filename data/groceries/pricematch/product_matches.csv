@@ -35,7 +35,7 @@ A101,A101-000033,A101|a101_kapida_2026-10-29.csv|33,,Kırmızı Lahana – kg,no
 A101,A101-000034,A101|a101_kapida_2026-10-29.csv|34,,Dereotu – adet,not_matchable,no reliable brand
 A101,A101-000035,A101|a101_kapida_2026-10-29.csv|35,,Taze Soğan – adet,not_matchable,no reliable brand
 A101,A101-000036,A101|a101_kapida_2026-10-29.csv|36,,Nane – adet,not_matchable,no reliable brand
-A101,A101-000037,A101|a101_kapida_2026-10-29.csv|37,PRD-039488,Roka – adet,matched,name rule: brand + all name words + quantity equal in 6 store(s)
+A101,A101-000037,A101|a101_kapida_2026-10-29.csv|37,,Roka – adet,not_matchable,no reliable brand
 A101,A101-000038,A101|a101_kapida_2026-10-29.csv|38,PRD-025283,"Keskinoğlu – Bütün Tavuk – 1,64 kg",single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-000039,A101|a101_kapida_2026-10-29.csv|39,PRD-015191,"Erpiliç – Tavuk Bonfile Dondurulmuş – 1,1 kg",single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-000040,A101|a101_kapida_2026-10-29.csv|40,PRD-005016,"Besler – Poşetli Bütün Tavuk – 1,65 kg",single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
@@ -1003,9 +1003,9 @@ A101,A101-000999,A101|a101_kapida_2026-10-29.csv|1001,PRD-043771,Sütaş – Kre
 A101,A101-001000,A101|a101_kapida_2026-10-29.csv|1002,,Bizim Bitkisel Yağlı Krema – 200 ml,not_matchable,no reliable brand
 A101,A101-001001,A101|a101_kapida_2026-10-29.csv|1003,PRD-047085,Tukaş – Siyah Zeytin S-XS – 900 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001002,A101|a101_kapida_2026-10-29.csv|1004,PRD-047043,Tukaş – Kırma Yeşil Zeytin XL-L – 900 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
-A101,A101-001003,A101|a101_kapida_2026-10-29.csv|1005,PRD-000050,Tukaş – Kırma Yeşil Zeytin 9XL-8XL – 900 g,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
+A101,A101-001003,A101|a101_kapida_2026-10-29.csv|1005,PRD-000050,Tukaş – Kırma Yeşil Zeytin 9XL-8XL – 900 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001004,A101|a101_kapida_2026-10-29.csv|1006,PRD-046978,Tukaş – Çizik Yeşil Zeytin S-XS – 900 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
-A101,A101-001005,A101|a101_kapida_2026-10-29.csv|1007,PRD-000051,Tukaş – Siyah Zeytin XS-2XS – 800 g,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
+A101,A101-001005,A101|a101_kapida_2026-10-29.csv|1007,PRD-000051,Tukaş – Siyah Zeytin XS-2XS – 800 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001006,A101|a101_kapida_2026-10-29.csv|1008,PRD-046882,Tukaş – Kalamata Usulü Kırma Yeşil Zeytin 4 XL – 1 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001007,A101|a101_kapida_2026-10-29.csv|1009,PRD-046910,Tukaş – Ayvalık Taş Kırma Yeşil Zeytin S-XS – 1 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001008,A101|a101_kapida_2026-10-29.csv|1010,PRD-047041,Tukaş – Yeşil Kırma Zeytin S-XS – 900 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
@@ -1018,9 +1018,9 @@ A101,A101-001014,A101|a101_kapida_2026-10-29.csv|1016,PRD-029126,Marmarabirlik �
 A101,A101-001015,A101|a101_kapida_2026-10-29.csv|1017,PRD-053456,ZEO – Siyah Zeytin S-XS – 1 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001016,A101|a101_kapida_2026-10-29.csv|1018,PRD-029152,Marmarabirlik – Vakumlu Siyah Zeytin 3XS – 500 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001017,A101|a101_kapida_2026-10-29.csv|1019,PRD-053457,ZEO – Siyah Zeytin XL-L – 900 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
-A101,A101-001018,A101|a101_kapida_2026-10-29.csv|1020,PRD-000054,ZEO – Siyah Zeytin XS-2XS – 250 g,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
-A101,A101-001019,A101|a101_kapida_2026-10-29.csv|1021,PRD-000056,ZEO – Siyah Zeytin XS-2XS – 500 g,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
-A101,A101-001020,A101|a101_kapida_2026-10-29.csv|1022,PRD-000052,ZEO – Siyah Zeytin 2XS-3XS – 2 kg,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
+A101,A101-001018,A101|a101_kapida_2026-10-29.csv|1020,PRD-000054,ZEO – Siyah Zeytin XS-2XS – 250 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
+A101,A101-001019,A101|a101_kapida_2026-10-29.csv|1021,PRD-000056,ZEO – Siyah Zeytin XS-2XS – 500 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
+A101,A101-001020,A101|a101_kapida_2026-10-29.csv|1022,PRD-000052,ZEO – Siyah Zeytin 2XS-3XS – 2 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001021,A101|a101_kapida_2026-10-29.csv|1023,PRD-029187,Marmarabirlik – Yeşil Çizik Zeytin Xs-s – 400 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001022,A101|a101_kapida_2026-10-29.csv|1024,PRD-034407,Öncü – Salamura Siyah Zeytin M-S – 1 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001023,A101|a101_kapida_2026-10-29.csv|1025,PRD-023979,Kaanlar – Yağlı Siyah Zeytin – 1 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
@@ -1031,25 +1031,25 @@ A101,A101-001027,A101|a101_kapida_2026-10-29.csv|1029,PRD-023963,Kaanlar – Gem
 A101,A101-001028,A101|a101_kapida_2026-10-29.csv|1030,PRD-034409,Öncü – Salamura Siyah Zeytin XS – 1 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001029,A101|a101_kapida_2026-10-29.csv|1031,PRD-053454,ZEO – Siyah Zeytin L-M – 500 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001030,A101|a101_kapida_2026-10-29.csv|1032,PRD-053452,ZEO – Kırma Yeşil Zeytin 4XL – 400 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
-A101,A101-001031,A101|a101_kapida_2026-10-29.csv|1033,PRD-000055,ZEO – Baharatlı Yeşil Zeytin XS-2XS – 400 g,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
+A101,A101-001031,A101|a101_kapida_2026-10-29.csv|1033,PRD-000055,ZEO – Baharatlı Yeşil Zeytin XS-2XS – 400 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001032,A101|a101_kapida_2026-10-29.csv|1034,PRD-029158,Marmarabirlik – Az Tuzlu Doğal Salamura Siyah Zeytin – 800 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001033,A101|a101_kapida_2026-10-29.csv|1035,PRD-029151,Marmarabirlik – Kuru Sele Siyah Zeytin 3XS – 800 g,matched,name rule: brand + all name words + quantity equal in 3 store(s)
-A101,A101-001034,A101|a101_kapida_2026-10-29.csv|1036,PRD-000053,ZEO – Biber Dolgulu Yeşil Zeytin 3XL-2XL – 400 g,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
+A101,A101-001034,A101|a101_kapida_2026-10-29.csv|1036,PRD-000053,ZEO – Biber Dolgulu Yeşil Zeytin 3XL-2XL – 400 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001035,A101|a101_kapida_2026-10-29.csv|1037,,Ece Izgara Yeşil Zeytin – 240 g,not_matchable,no reliable brand
 A101,A101-001036,A101|a101_kapida_2026-10-29.csv|1038,PRD-029192,Marmarabirlik – Doğal Yağlı Salamura Siyah Zeytin – 1 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001037,A101|a101_kapida_2026-10-29.csv|1039,PRD-029185,Marmarabirlik – Doğal Yağlı Salamura Çizik Yeşil Zeytin – 800 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001038,A101|a101_kapida_2026-10-29.csv|1040,PRD-008231,Cem – Biber Dolgulu Yeşil Zeytin 4XL – 400 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
-A101,A101-001039,A101|a101_kapida_2026-10-29.csv|1041,PRD-000008,Cem – Siyah Zeytin XS-2XS – 800 g,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
+A101,A101-001039,A101|a101_kapida_2026-10-29.csv|1041,PRD-000008,Cem – Siyah Zeytin XS-2XS – 800 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001040,A101|a101_kapida_2026-10-29.csv|1042,PRD-008232,Cem – Biber Dolgulu Yeşil Zeytin 4XL – 900 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001041,A101|a101_kapida_2026-10-29.csv|1043,PRD-008240,Cem – Yeşil Çizik Zeytin – 400 g,matched,name rule: brand + all name words + quantity equal in 2 store(s)
 A101,A101-001042,A101|a101_kapida_2026-10-29.csv|1044,PRD-029218,Marmarabirlik – Kokteyl Yeşil Zeytin M-S – 800 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001043,A101|a101_kapida_2026-10-29.csv|1045,PRD-034337,Öncü – Doğal Salamura Zeytin 3XS – 1 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
-A101,A101-001044,A101|a101_kapida_2026-10-29.csv|1046,PRD-000035,Marmarabirlik – Siyah Zeytin 3XS-4XS – 900 g,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
-A101,A101-001045,A101|a101_kapida_2026-10-29.csv|1047,PRD-000020,Kaanlar – Akhisar Uslu Siyah Zeytin XS-2XS – 900 g,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
+A101,A101-001044,A101|a101_kapida_2026-10-29.csv|1046,PRD-000035,Marmarabirlik – Siyah Zeytin 3XS-4XS – 900 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
+A101,A101-001045,A101|a101_kapida_2026-10-29.csv|1047,PRD-000020,Kaanlar – Akhisar Uslu Siyah Zeytin XS-2XS – 900 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001046,A101|a101_kapida_2026-10-29.csv|1048,PRD-029186,Marmarabirlik – Çizik Yeşil Zeytin S-XS – 800 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
-A101,A101-001047,A101|a101_kapida_2026-10-29.csv|1049,PRD-000049,Tukaş – Kalamata Kırma Yeşil Zeytin 5XL-6XL – 1 kg,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
-A101,A101-001048,A101|a101_kapida_2026-10-29.csv|1050,PRD-000034,Marmarabirlik – Doğal Yağlı Salamura Siyah Zeytin 3XS-4XS – 800 g,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
-A101,A101-001049,A101|a101_kapida_2026-10-29.csv|1051,PRD-000033,Marmarabirlik – Doğal Yağlı Salamura Siyah Zeytin 3XS-4XS – 700 g,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
+A101,A101-001047,A101|a101_kapida_2026-10-29.csv|1049,PRD-000049,Tukaş – Kalamata Kırma Yeşil Zeytin 5XL-6XL – 1 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
+A101,A101-001048,A101|a101_kapida_2026-10-29.csv|1050,PRD-000034,Marmarabirlik – Doğal Yağlı Salamura Siyah Zeytin 3XS-4XS – 800 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
+A101,A101-001049,A101|a101_kapida_2026-10-29.csv|1051,PRD-000033,Marmarabirlik – Doğal Yağlı Salamura Siyah Zeytin 3XS-4XS – 700 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001050,A101|a101_kapida_2026-10-29.csv|1052,PRD-029155,Marmarabirlik – Kuru Sele Siyah Zeytin 4XS – 750 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001051,A101|a101_kapida_2026-10-29.csv|1053,PRD-019100,Fora – Izgara Yeşil Zeytin – 230 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 A101,A101-001052,A101|a101_kapida_2026-10-29.csv|1054,PRD-008234,Cem – Ayvalık Taş Kırma Yeşil Zeytin S-XS – 400 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
@@ -8801,7 +8801,7 @@ Arden,ARDEN-000234,Arden|arden_urunler_2026-10-29.csv|234,,Soğan Taze Demet,not
 Arden,ARDEN-000235,Arden|arden_urunler_2026-10-29.csv|235,,Göbek Salata – adet,not_matchable,no reliable brand
 Arden,ARDEN-000236,Arden|arden_urunler_2026-10-29.csv|236,,Semizotu Demet,not_matchable,no reliable brand
 Arden,ARDEN-000237,Arden|arden_urunler_2026-10-29.csv|237,,Sarımsak – kg,not_matchable,no reliable brand
-Arden,ARDEN-000238,Arden|arden_urunler_2026-10-29.csv|238,,Roka – Demet,not_matchable,no quantity in name
+Arden,ARDEN-000238,Arden|arden_urunler_2026-10-29.csv|238,,Roka Demet,not_matchable,no reliable brand
 Arden,ARDEN-000239,Arden|arden_urunler_2026-10-29.csv|239,,Nane Demet,not_matchable,no reliable brand
 Arden,ARDEN-000240,Arden|arden_urunler_2026-10-29.csv|240,,Karnabahar – kg,not_matchable,no reliable brand
 Arden,ARDEN-000241,Arden|arden_urunler_2026-10-29.csv|241,,Domates Linda (salkım) – kg,not_matchable,no reliable brand
@@ -19194,12 +19194,12 @@ BizimMarket,BIZIMMARKET-001034,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|10
 BizimMarket,BIZIMMARKET-001035,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1035,PRD-003168,Aytaç – Siyah Zeytin Az Tuzlu S (291-320) – 800 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 BizimMarket,BIZIMMARKET-001036,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1036,PRD-029277,Marmara – Birlik Salamura Siyah Zeytin Vakumlu (3XS) 381-410 – 800 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 BizimMarket,BIZIMMARKET-001037,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1037,PRD-029276,Marmara – Birlik Kuru Sele Siyah Zeytin (3XS) 381-410 – 800 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
-BizimMarket,BIZIMMARKET-001038,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1038,PRD-000005,Aytaç – Yağlı Siyah Zeytin C 3XS-4XS (381-460) – 2 kg,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
+BizimMarket,BIZIMMARKET-001038,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1038,PRD-000005,Aytaç – Yağlı Siyah Zeytin C 3XS-4XS (381-460) – 2 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 BizimMarket,BIZIMMARKET-001039,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1039,PRD-003165,Aytaç – Biber Dolgulu Zeytin C 2XL (181-200) – 400 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
-BizimMarket,BIZIMMARKET-001040,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1040,PRD-000004,Aytaç – Kuru Zeytin C 2XS-3XS (351-410) – 500 g,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
+BizimMarket,BIZIMMARKET-001040,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1040,PRD-000004,Aytaç – Kuru Zeytin C 2XS-3XS (351-410) – 500 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 BizimMarket,BIZIMMARKET-001041,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1041,PRD-029257,Marmara – Birlik Salamura Siyah Zeytin Vakumlu (M) 261-290 – 800 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 BizimMarket,BIZIMMARKET-001042,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1042,PRD-029284,Marmara – Birlik Sepet Siyah Zeytin (XS) 381-410 – 400 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
-BizimMarket,BIZIMMARKET-001043,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1043,PRD-000003,Aytaç – Yağlı Siyah Zeytin C 2XS-3XS (351-410) – 1 kg,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
+BizimMarket,BIZIMMARKET-001043,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1043,PRD-000003,Aytaç – Yağlı Siyah Zeytin C 2XS-3XS (351-410) – 1 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 BizimMarket,BIZIMMARKET-001044,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1044,PRD-003167,Aytaç – Yağlı Siyah Zeytin C M (261-290) – 1 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 BizimMarket,BIZIMMARKET-001045,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1045,PRD-003166,Aytaç – Yağlı Siyah Zeytin C XL-L (201-260) – 500 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 BizimMarket,BIZIMMARKET-001046,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1046,PRD-003169,Aytaç – Çizik Yeşil Zeytin C S (291-320) – 400 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
@@ -19209,7 +19209,7 @@ BizimMarket,BIZIMMARKET-001049,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|10
 BizimMarket,BIZIMMARKET-001050,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1050,PRD-003170,Aytaç – Yağ Siyah Zeytin C S-XS (291-350) – 1 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 BizimMarket,BIZIMMARKET-001051,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1051,PRD-029263,Marmara – Birlik Az Tuzlu Siyah Zeytin Teneke (S) 291-320 – 800 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 BizimMarket,BIZIMMARKET-001052,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1052,PRD-029266,Marmara – Birlik Yağlı Siyah Zeytin (S) 291-320 – 2 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
-BizimMarket,BIZIMMARKET-001053,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1053,PRD-000006,Aytaç – Yağlı Siyah Zeytin C XS-2XS (321-380) – 500 g,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
+BizimMarket,BIZIMMARKET-001053,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1053,PRD-000006,Aytaç – Yağlı Siyah Zeytin C XS-2XS (321-380) – 500 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 BizimMarket,BIZIMMARKET-001054,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1054,PRD-003164,Aytaç – Kırma Yeşil Zeytin C 4XL (141-160) – 400 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 BizimMarket,BIZIMMARKET-001055,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1055,PRD-027915,Lezita – Dilimli Piliç Sucuk – 400 g,matched,name rule: brand + all name words + quantity equal in 2 store(s)
 BizimMarket,BIZIMMARKET-001056,BizimMarket|bizimtoptan_urunler_2026-10-29.csv|1056,PRD-012719,Dönerşah – Dondurulmuş Piliç Döner – 2 kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
@@ -19801,7 +19801,7 @@ Cagri,CAGRI-000063,Cagri|cagri_products_2026-10-29.csv|63,,Vakmak Mini Koçanda 
 Cagri,CAGRI-000064,Cagri|cagri_products_2026-10-29.csv|64,,Nihas Dolmalık Kabak,not_matchable,no reliable brand
 Cagri,CAGRI-000065,Cagri|cagri_products_2026-10-29.csv|65,,Nihas Dolmalık Mix Çeşit – 20 adet,not_matchable,no reliable brand
 Cagri,CAGRI-000066,Cagri|cagri_products_2026-10-29.csv|66,,Nihas Acı Süs Biberi,not_matchable,no reliable brand
-Cagri,CAGRI-000067,Cagri|cagri_products_2026-10-29.csv|67,PRD-039488,Roka – adet,matched,name rule: brand + all name words + quantity equal in 6 store(s)
+Cagri,CAGRI-000067,Cagri|cagri_products_2026-10-29.csv|67,,Roka – adet,not_matchable,no reliable brand
 Cagri,CAGRI-000068,Cagri|cagri_products_2026-10-29.csv|68,,Lahana Kırmızı – kg,not_matchable,no reliable brand
 Cagri,CAGRI-000069,Cagri|cagri_products_2026-10-29.csv|69,,Domates Kurusu – kg,not_matchable,no reliable brand
 Cagri,CAGRI-000070,Cagri|cagri_products_2026-10-29.csv|70,,Sarımsak File – kg,not_matchable,no reliable brand
@@ -26908,7 +26908,7 @@ CarrefourSA,CARREFOURSA-000080,CarrefourSA|carrefourSA_2026-10-29.csv|82,,File S
 CarrefourSA,CARREFOURSA-000081,CarrefourSA|carrefourSA_2026-10-29.csv|83,,Taze Patates Paket,not_matchable,no reliable brand
 CarrefourSA,CARREFOURSA-000082,CarrefourSA|carrefourSA_2026-10-29.csv|84,,Pırasa – kg,not_matchable,no reliable brand
 CarrefourSA,CARREFOURSA-000083,CarrefourSA|carrefourSA_2026-10-29.csv|85,,Dereotu – adet,not_matchable,no reliable brand
-CarrefourSA,CARREFOURSA-000084,CarrefourSA|carrefourSA_2026-10-29.csv|86,PRD-039488,Roka – adet,matched,name rule: brand + all name words + quantity equal in 6 store(s)
+CarrefourSA,CARREFOURSA-000084,CarrefourSA|carrefourSA_2026-10-29.csv|86,,Roka – adet,not_matchable,no reliable brand
 CarrefourSA,CARREFOURSA-000085,CarrefourSA|carrefourSA_2026-10-29.csv|87,,Maydanoz – adet,not_matchable,no reliable brand
 CarrefourSA,CARREFOURSA-000086,CarrefourSA|carrefourSA_2026-10-29.csv|88,,Nane – adet,not_matchable,no reliable brand
 CarrefourSA,CARREFOURSA-000087,CarrefourSA|carrefourSA_2026-10-29.csv|89,,Süs Kabağı Mix – adet,not_matchable,no reliable brand
@@ -31813,7 +31813,7 @@ Gurmar,GURMAR-000001,Gurmar|gurmar_prices_2026-10-29.csv|1,,Patates – 500 g,no
 Gurmar,GURMAR-000002,Gurmar|gurmar_prices_2026-10-29.csv|2,,Domates – 500 g,not_matchable,no reliable brand
 Gurmar,GURMAR-000003,Gurmar|gurmar_prices_2026-10-29.csv|3,,Maydanoz Demet,not_matchable,no reliable brand
 Gurmar,GURMAR-000004,Gurmar|gurmar_prices_2026-10-29.csv|4,,Soğan Kuru – 500 g,not_matchable,no reliable brand
-Gurmar,GURMAR-000005,Gurmar|gurmar_prices_2026-10-29.csv|5,,Roka – Demet,not_matchable,no quantity in name
+Gurmar,GURMAR-000005,Gurmar|gurmar_prices_2026-10-29.csv|5,,Roka Demet,not_matchable,no reliable brand
 Gurmar,GURMAR-000006,Gurmar|gurmar_prices_2026-10-29.csv|6,,Salatalık Silör – 500 g,not_matchable,no reliable brand
 Gurmar,GURMAR-000007,Gurmar|gurmar_prices_2026-10-29.csv|7,,Havuç – 500 g,not_matchable,no reliable brand
 Gurmar,GURMAR-000008,Gurmar|gurmar_prices_2026-10-29.csv|8,,Limon – 500 g,not_matchable,no reliable brand
@@ -35263,7 +35263,7 @@ Hakmar,HAKMAR-000016,Hakmar|hakmar_2026-10-27.csv|16,,Mor Soğan – 500 g,not_m
 Hakmar,HAKMAR-000017,Hakmar|hakmar_2026-10-27.csv|17,,Patates – 500 g,not_matchable,no reliable brand
 Hakmar,HAKMAR-000018,Hakmar|hakmar_2026-10-27.csv|18,,Patlıcan – 500 g,not_matchable,no reliable brand
 Hakmar,HAKMAR-000019,Hakmar|hakmar_2026-10-27.csv|19,,Pırasa – 1 kg,not_matchable,no reliable brand
-Hakmar,HAKMAR-000020,Hakmar|hakmar_2026-10-27.csv|20,,Roka – Demet,not_matchable,no quantity in name
+Hakmar,HAKMAR-000020,Hakmar|hakmar_2026-10-27.csv|20,,Roka Demet,not_matchable,no reliable brand
 Hakmar,HAKMAR-000021,Hakmar|hakmar_2026-10-27.csv|21,,Safkar Mantar Paket – 400 g,not_matchable,no reliable brand
 Hakmar,HAKMAR-000022,Hakmar|hakmar_2026-10-27.csv|22,,Salatalık – 500 g,not_matchable,no reliable brand
 Hakmar,HAKMAR-000023,Hakmar|hakmar_2026-10-27.csv|23,,Semiz – Otu Demet,not_matchable,no quantity in name
@@ -39687,7 +39687,7 @@ Hapeloglu,HAPELOGLU-003261,Hapeloglu|hapeloglu_2026-10-29.csv|3264,,Patates – 
 Hapeloglu,HAPELOGLU-003262,Hapeloglu|hapeloglu_2026-10-29.csv|3265,,Patlıcan – kg,not_matchable,no reliable brand
 Hapeloglu,HAPELOGLU-003263,Hapeloglu|hapeloglu_2026-10-29.csv|3266,,Portakal Finike – kg,not_matchable,no reliable brand
 Hapeloglu,HAPELOGLU-003264,Hapeloglu|hapeloglu_2026-10-29.csv|3267,,Pırasa – kg,not_matchable,no reliable brand
-Hapeloglu,HAPELOGLU-003265,Hapeloglu|hapeloglu_2026-10-29.csv|3268,PRD-039488,Roka – adet,matched,name rule: brand + all name words + quantity equal in 6 store(s)
+Hapeloglu,HAPELOGLU-003265,Hapeloglu|hapeloglu_2026-10-29.csv|3268,,Roka – adet,not_matchable,no reliable brand
 Hapeloglu,HAPELOGLU-003266,Hapeloglu|hapeloglu_2026-10-29.csv|3269,,Salatalık – kg,not_matchable,no reliable brand
 Hapeloglu,HAPELOGLU-003267,Hapeloglu|hapeloglu_2026-10-29.csv|3270,,Sarımsak,not_matchable,no reliable brand
 Hapeloglu,HAPELOGLU-003268,Hapeloglu|hapeloglu_2026-10-29.csv|3271,,Soğan – kg,not_matchable,no reliable brand
@@ -39986,7 +39986,7 @@ Hapeloglu,HAPELOGLU-003560,Hapeloglu|hapeloglu_2026-10-29.csv|3563,PRD-029313,Ma
 Hapeloglu,HAPELOGLU-003561,Hapeloglu|hapeloglu_2026-10-29.csv|3564,PRD-029314,Marmara – Birlik Siyah Ezme Zeytin Sade – 340 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 Hapeloglu,HAPELOGLU-003562,Hapeloglu|hapeloglu_2026-10-29.csv|3565,PRD-029317,Marmara – Birlik Siyah Zeytin Gold Teneke – 800 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 Hapeloglu,HAPELOGLU-003563,Hapeloglu|hapeloglu_2026-10-29.csv|3566,PRD-029291,Marmara – Birlik Yeşil Zeytin Kırmızı Biber Dolgulu (4XL) – 850 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
-Hapeloglu,HAPELOGLU-003564,Hapeloglu|hapeloglu_2026-10-29.csv|3567,PRD-000037,Marmara – Birlik Yeşil Çizik Zeytin Cam 321-380 XS-2XS – 850 g,single_retailer,model rule: brand + model + capacity + quantity equal in 1 store(s)
+Hapeloglu,HAPELOGLU-003564,Hapeloglu|hapeloglu_2026-10-29.csv|3567,PRD-000037,Marmara – Birlik Yeşil Çizik Zeytin Cam 321-380 XS-2XS – 850 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 Hapeloglu,HAPELOGLU-003565,Hapeloglu|hapeloglu_2026-10-29.csv|3568,PRD-029334,Marmara – Birlik Zeytin Mega Salamura – kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 Hapeloglu,HAPELOGLU-003566,Hapeloglu|hapeloglu_2026-10-29.csv|3569,,Marmara – Birlik Zeytin Süper Yağlı Salamura M 261-290 kg,not_matchable,no quantity in name
 Hapeloglu,HAPELOGLU-003567,Hapeloglu|hapeloglu_2026-10-29.csv|3570,PRD-029125,Marmarabirlik – 2XS Lüks Sepet Serisi – 800 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
@@ -46761,7 +46761,7 @@ HappyCenter,HAPPYCENTER-005282,HappyCenter|happycenter_2026-10-27.csv|5300,,Tek 
 HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5301,,Sarımsak Yeni – kg,not_matchable,needs_review: same_name_different_price_no_offer_id
 HappyCenter,HAPPYCENTER-005283,HappyCenter|happycenter_2026-10-27.csv|5302,,Sap Kereviz,not_matchable,no reliable brand
 HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5303,,Salatalık,not_matchable,needs_review: same_name_different_price_no_offer_id
-HappyCenter,HAPPYCENTER-005284,HappyCenter|happycenter_2026-10-27.csv|5304,,Roka – Demet,not_matchable,no quantity in name
+HappyCenter,HAPPYCENTER-005284,HappyCenter|happycenter_2026-10-27.csv|5304,,Roka Demet,not_matchable,no reliable brand
 HappyCenter,HAPPYCENTER-005285,HappyCenter|happycenter_2026-10-27.csv|5305,,Reyhan Demet,not_matchable,no reliable brand
 HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5306,,Portakal Sıkma,not_matchable,needs_review: same_name_different_price_no_offer_id
 HappyCenter,,HappyCenter|happycenter_2026-10-27.csv|5307,,Portakal Sıkma,not_matchable,needs_review: same_name_different_price_no_offer_id
@@ -47908,7 +47908,7 @@ Ideal,IDEAL-000586,Ideal|ideal_prices_2026-10-29.csv|586,,Reyhan Demet,not_match
 Ideal,IDEAL-000587,Ideal|ideal_prices_2026-10-29.csv|587,,Turp – kg,not_matchable,no reliable brand
 Ideal,IDEAL-000588,Ideal|ideal_prices_2026-10-29.csv|588,,Tere Demet,not_matchable,no reliable brand
 Ideal,IDEAL-000589,Ideal|ideal_prices_2026-10-29.csv|589,,Yeşil Soğan – kg,not_matchable,no reliable brand
-Ideal,IDEAL-000590,Ideal|ideal_prices_2026-10-29.csv|590,,Roka – Demet,not_matchable,no quantity in name
+Ideal,IDEAL-000590,Ideal|ideal_prices_2026-10-29.csv|590,,Roka Demet,not_matchable,no reliable brand
 Ideal,IDEAL-000591,Ideal|ideal_prices_2026-10-29.csv|591,,Pırasa,not_matchable,no reliable brand
 Ideal,IDEAL-000592,Ideal|ideal_prices_2026-10-29.csv|592,,Pazı Demet,not_matchable,no reliable brand
 Ideal,IDEAL-000593,Ideal|ideal_prices_2026-10-29.csv|593,,Kıvırcık – adet,not_matchable,no reliable brand
@@ -50085,7 +50085,7 @@ Kale,KALE-000046,Kale|kalemarketleri_prices_2026-10-29.csv|46,,Nar – kg,not_ma
 Kale,KALE-000047,Kale|kalemarketleri_prices_2026-10-29.csv|47,,Marul – adet,not_matchable,no reliable brand
 Kale,KALE-000048,Kale|kalemarketleri_prices_2026-10-29.csv|48,,Soğan Taze Demet,not_matchable,no reliable brand
 Kale,KALE-000049,Kale|kalemarketleri_prices_2026-10-29.csv|49,,Ispanak – kg,not_matchable,no reliable brand
-Kale,KALE-000050,Kale|kalemarketleri_prices_2026-10-29.csv|50,PRD-039488,Roka – adet,matched,name rule: brand + all name words + quantity equal in 6 store(s)
+Kale,KALE-000050,Kale|kalemarketleri_prices_2026-10-29.csv|50,,Roka – adet,not_matchable,no reliable brand
 Kale,KALE-000051,Kale|kalemarketleri_prices_2026-10-29.csv|51,,Nane – adet,not_matchable,no reliable brand
 Kale,KALE-000052,Kale|kalemarketleri_prices_2026-10-29.csv|52,,Patates Çuval – 10 kg,not_matchable,no reliable brand
 Kale,KALE-000053,Kale|kalemarketleri_prices_2026-10-29.csv|53,,Soğan Çuval – 9 kg,not_matchable,no reliable brand
@@ -53404,7 +53404,7 @@ Kim,KIM-000527,Kim|kim_2026-10-29.csv|527,,Patates Taze,not_matchable,no reliabl
 Kim,KIM-000528,Kim|kim_2026-10-29.csv|528,,Patlıcan,not_matchable,no reliable brand
 Kim,KIM-000529,Kim|kim_2026-10-29.csv|529,,Pırasa,not_matchable,no reliable brand
 Kim,KIM-000530,Kim|kim_2026-10-29.csv|530,,Portakal Sıkma,not_matchable,no reliable brand
-Kim,KIM-000531,Kim|kim_2026-10-29.csv|531,,Roka,not_matchable,no quantity in name
+Kim,KIM-000531,Kim|kim_2026-10-29.csv|531,,Roka,not_matchable,no reliable brand
 Kim,KIM-000532,Kim|kim_2026-10-29.csv|532,,Salamura Yaprak PET – 1 kg,not_matchable,no reliable brand
 Kim,KIM-000533,Kim|kim_2026-10-29.csv|533,,Salamura Yaprak PET – 750 g,not_matchable,no reliable brand
 Kim,KIM-000534,Kim|kim_2026-10-29.csv|534,,Salatalık,not_matchable,no reliable brand
@@ -55023,7 +55023,7 @@ Kim,KIM-002146,Kim|kim_2026-10-29.csv|2146,PRD-053412,Yuva – Yaş Maya – 2 x
 Macrocenter,MACROCENTER-000001,Macrocenter|macrocenter_prices_2026-10-29.csv|1,,Muz İthal – kg,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000002,Macrocenter|macrocenter_prices_2026-10-29.csv|2,,Hıyar Badem – kg,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000003,Macrocenter|macrocenter_prices_2026-10-29.csv|3,,Avokado – adet,not_matchable,no reliable brand
-Macrocenter,MACROCENTER-000004,Macrocenter|macrocenter_prices_2026-10-29.csv|4,,Roka – Demet,not_matchable,no quantity in name
+Macrocenter,MACROCENTER-000004,Macrocenter|macrocenter_prices_2026-10-29.csv|4,,Roka Demet,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000005,Macrocenter|macrocenter_prices_2026-10-29.csv|5,,Maydanoz – adet,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000006,Macrocenter|macrocenter_prices_2026-10-29.csv|6,,Havuç – kg,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000007,Macrocenter|macrocenter_prices_2026-10-29.csv|7,,Biber Kırmızı – kg,not_matchable,no reliable brand
@@ -55158,7 +55158,7 @@ Macrocenter,MACROCENTER-000135,Macrocenter|macrocenter_prices_2026-10-29.csv|135
 Macrocenter,MACROCENTER-000136,Macrocenter|macrocenter_prices_2026-10-29.csv|136,PRD-045495,Tazedirekt – Karnabahar – kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 Macrocenter,MACROCENTER-000137,Macrocenter|macrocenter_prices_2026-10-29.csv|137,PRD-000901,Alabaş – kg,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 Macrocenter,MACROCENTER-000138,Macrocenter|macrocenter_prices_2026-10-29.csv|138,,Mini Biber – 50 g,not_matchable,no reliable brand
-Macrocenter,MACROCENTER-000139,Macrocenter|macrocenter_prices_2026-10-29.csv|139,PRD-039486,Roka – Mini Erüst – 125 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
+Macrocenter,MACROCENTER-000139,Macrocenter|macrocenter_prices_2026-10-29.csv|139,,Roka Mini Erüst – 125 g,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-000140,Macrocenter|macrocenter_prices_2026-10-29.csv|140,PRD-014111,Edovital – Nar Ekşili Siyah Sarımsak Püresi – 100 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 Macrocenter,MACROCENTER-000141,Macrocenter|macrocenter_prices_2026-10-29.csv|141,PRD-017174,Excelente – Physalis (altın Çilek) Paket – 100 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 Macrocenter,MACROCENTER-000142,Macrocenter|macrocenter_prices_2026-10-29.csv|142,,Alaşehir Asma Yaprağı (ci) – 455 g,not_matchable,no reliable brand
@@ -58019,7 +58019,7 @@ Macrocenter,MACROCENTER-002994,Macrocenter|macrocenter_prices_2026-10-29.csv|299
 Macrocenter,MACROCENTER-002995,Macrocenter|macrocenter_prices_2026-10-29.csv|2997,PRD-052211,Werthers – Original Soft Caramel Şekerleme – 100 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 Macrocenter,MACROCENTER-002996,Macrocenter|macrocenter_prices_2026-10-29.csv|2998,,Gigi's Ceviz İçi Elma Kurusu Karışık Kuruyemiş – 115 g,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-002997,Macrocenter|macrocenter_prices_2026-10-29.csv|2999,PRD-001526,Allergy Smart – Bitter Çikolata Parçalı Kurabiye – 126 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
-Macrocenter,MACROCENTER-002998,Macrocenter|macrocenter_prices_2026-10-29.csv|3000,PRD-039485,Roka – Deniz Tuzlu ve Karabiberli Kraker – 90 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
+Macrocenter,MACROCENTER-002998,Macrocenter|macrocenter_prices_2026-10-29.csv|3000,,Roka Deniz Tuzlu ve Karabiberli Kraker – 90 g,not_matchable,no reliable brand
 Macrocenter,MACROCENTER-002999,Macrocenter|macrocenter_prices_2026-10-29.csv|3001,PRD-034082,Olips – Zero C Vitamini Limon & Portakal & Greyfurt Aromalı – 28 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 Macrocenter,MACROCENTER-003000,Macrocenter|macrocenter_prices_2026-10-29.csv|3002,PRD-023639,Jelibon – Sourpatch – 160 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
 Macrocenter,MACROCENTER-003001,Macrocenter|macrocenter_prices_2026-10-29.csv|3003,PRD-047929,Ülker – Çikolata Dubaistanbul Antep Fıstıklı & Fındıklı – 93 g,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
@@ -65697,7 +65697,7 @@ Migros,MIGROS-000071,Migros|migros_2026-10-25.csv|71,,Domates – kg,not_matchab
 Migros,MIGROS-000072,Migros|migros_2026-10-25.csv|72,,Maydanoz Demet,not_matchable,no reliable brand
 Migros,MIGROS-000073,Migros|migros_2026-10-25.csv|73,,Havuç Beypazarı Paket – kg,not_matchable,no reliable brand
 Migros,MIGROS-000074,Migros|migros_2026-10-25.csv|74,,Hıyar Badem Paket – kg,not_matchable,no reliable brand
-Migros,MIGROS-000075,Migros|migros_2026-10-25.csv|75,,Roka – Demet,not_matchable,no quantity in name
+Migros,MIGROS-000075,Migros|migros_2026-10-25.csv|75,,Roka Demet,not_matchable,no reliable brand
 Migros,MIGROS-000076,Migros|migros_2026-10-25.csv|76,,Kereviz – kg,not_matchable,no reliable brand
 Migros,MIGROS-000077,Migros|migros_2026-10-25.csv|77,,Biber Kırmızı – kg,not_matchable,no reliable brand
 Migros,MIGROS-000078,Migros|migros_2026-10-25.csv|78,,Patlıcan Kemer – kg,not_matchable,no reliable brand
@@ -68709,7 +68709,7 @@ Mopas,MOPAS-000058,Mopas|mopas_prices_2026-10-29.csv|58,,Fasulye Cino – 500 g,
 Mopas,MOPAS-000059,Mopas|mopas_prices_2026-10-29.csv|59,,Maydanoz – 1 adet,not_matchable,no reliable brand
 Mopas,MOPAS-000060,Mopas|mopas_prices_2026-10-29.csv|60,,Dereotu – 1 adet,not_matchable,no reliable brand
 Mopas,MOPAS-000061,Mopas|mopas_prices_2026-10-29.csv|61,,Nane – 1 adet,not_matchable,no reliable brand
-Mopas,MOPAS-000062,Mopas|mopas_prices_2026-10-29.csv|62,PRD-039487,Roka – 1 adet,single_retailer,name rule: brand + all name words + quantity equal in 1 store(s)
+Mopas,MOPAS-000062,Mopas|mopas_prices_2026-10-29.csv|62,,Roka – 1 adet,not_matchable,no reliable brand
 Mopas,MOPAS-000063,Mopas|mopas_prices_2026-10-29.csv|63,,Havuç – 500 g,not_matchable,no reliable brand
 Mopas,MOPAS-000064,Mopas|mopas_prices_2026-10-29.csv|64,,Göbek Salata – 1 adet,not_matchable,no reliable brand
 Mopas,MOPAS-000065,Mopas|mopas_prices_2026-10-29.csv|65,,Ispanak – 500 g,not_matchable,no reliable brand
@@ -74620,7 +74620,7 @@ Sariyer,SARIYER-000024,Sariyer|sariyermarket_2026-10-29.csv|24,,Kivi Yerli – k
 Sariyer,SARIYER-000025,Sariyer|sariyermarket_2026-10-29.csv|25,,Kıvırcık – adet,not_matchable,no reliable brand
 Sariyer,SARIYER-000026,Sariyer|sariyermarket_2026-10-29.csv|26,,Patates Taze – kg,not_matchable,no reliable brand
 Sariyer,SARIYER-000027,Sariyer|sariyermarket_2026-10-29.csv|27,,Pırasa – kg,not_matchable,no reliable brand
-Sariyer,SARIYER-000028,Sariyer|sariyermarket_2026-10-29.csv|28,PRD-039488,Roka – adet,matched,name rule: brand + all name words + quantity equal in 6 store(s)
+Sariyer,SARIYER-000028,Sariyer|sariyermarket_2026-10-29.csv|28,,Roka – adet,not_matchable,no reliable brand
 Sariyer,SARIYER-000029,Sariyer|sariyermarket_2026-10-29.csv|29,,Badem Çengelköy – kg,not_matchable,no reliable brand
 Sariyer,SARIYER-000030,Sariyer|sariyermarket_2026-10-29.csv|30,,Hurma Trabzon – kg,not_matchable,no reliable brand
 Sariyer,SARIYER-000031,Sariyer|sariyermarket_2026-10-29.csv|31,,Biber Çarliston – kg,not_matchable,no reliable brand

@@ -1,12 +1,12 @@
 product_id,canonical_product_name,brand,model,variant,capacity,size,color,pack_quantity,unit,category,retailer_count,offer_count,retailers,match_rule,match_signature
 PRD-000001,Akel – AF380 Midi Fırın – 38 L,Akel,AF380,,,38 L,,,paket,0531108,1,1,A101,model,M|akel|af380||38l|paket|
 PRD-000002,Akfix – Conta Silikon Kırmızı SA115 – 50 ml,Akfix,SA115,,,50 ml,,,paket,0431108,1,1,Hapeloglu,model,M|akfix|sa115||50ml|paket|
-PRD-000003,Aytaç – Yağlı Siyah Zeytin C 2XS-3XS (351-410) – 1 kg,Aytaç,2XS-3XS,,,1 kg,,,paket,0117476,1,1,BizimMarket,model,M|aytac|2xs3xs||1kg|paket|
-PRD-000004,Aytaç – Kuru Zeytin C 2XS-3XS (351-410) – 500 g,Aytaç,2XS-3XS,,,500 g,,,paket,0117476,1,1,BizimMarket,model,M|aytac|2xs3xs||500g|paket|
-PRD-000005,Aytaç – Yağlı Siyah Zeytin C 3XS-4XS (381-460) – 2 kg,Aytaç,3XS-4XS,,,2 kg,,,paket,0117476,1,1,BizimMarket,model,M|aytac|3xs4xs||2kg|paket|
-PRD-000006,Aytaç – Yağlı Siyah Zeytin C XS-2XS (321-380) – 500 g,Aytaç,XS-2XS,,,500 g,,,paket,0117476,1,1,BizimMarket,model,M|aytac|xs2xs||500g|paket|
+PRD-000003,Aytaç – Yağlı Siyah Zeytin C 2XS-3XS (351-410) – 1 kg,Aytaç,,,,1 kg,,,paket,0117476,1,1,BizimMarket,name,N|aytac|2xs3xs 351410 c siyah yagli zeytin|1kg|paket
+PRD-000004,Aytaç – Kuru Zeytin C 2XS-3XS (351-410) – 500 g,Aytaç,,,,500 g,,,paket,0117476,1,1,BizimMarket,name,N|aytac|2xs3xs 351410 c kuru zeytin|500g|paket
+PRD-000005,Aytaç – Yağlı Siyah Zeytin C 3XS-4XS (381-460) – 2 kg,Aytaç,,,,2 kg,,,paket,0117476,1,1,BizimMarket,name,N|aytac|381460 3xs4xs c siyah yagli zeytin|2kg|paket
+PRD-000006,Aytaç – Yağlı Siyah Zeytin C XS-2XS (321-380) – 500 g,Aytaç,,,,500 g,,,paket,0117476,1,1,BizimMarket,name,N|aytac|321380 c siyah xs2xs yagli zeytin|500g|paket
 PRD-000007,Bağcı – Zeytin Yağlı Siyah (261-290M) – 400 g,Bağcı,261-290M,,,400 g,,,paket,0117476,1,1,HappyCenter,model,M|bagci|261290m||400g|paket|
-PRD-000008,Cem – Siyah Zeytin XS-2XS – 800 g,Cem,XS-2XS,,,800 g,,,paket,0117476,1,1,A101,model,M|cem|xs2xs||800g|paket|
+PRD-000008,Cem – Siyah Zeytin XS-2XS – 800 g,Cem,,,,800 g,,,paket,0117476,1,1,A101,name,N|cem|siyah xs2xs zeytin|800g|paket
 PRD-000009,"Duracell – Özel 2025 Lityum Düğme Pil 3V (CR2025), Paket – 2'li",Duracell,CR2025,,,2'li,,,paket,0932204,1,1,Macrocenter,model,M|duracell|cr2025||2'li|paket|
 PRD-000010,"Duracell – Özel 2032 Lityum Düğme Pil 3V (CR2032), Paket – 2'li",Duracell,CR2032,,,2'li,,,paket,0932204,1,1,Macrocenter,model,M|duracell|cr2032||2'li|paket|
 PRD-000011,Duracell – DL/CR2025 Düğme Pil 3 Volt Paket – 2'li,Duracell,DL/CR2025,,,2'li,,,paket,0552201,1,1,Hapeloglu,model,M|duracell|dlcr2025||2'li|paket|
@@ -18,7 +18,7 @@ PRD-000016,Efor – LED Ampul E27 9W-60 W Beyaz Işık Eko Paket – 3'lü,Efor,
 PRD-000017,Efor – LED Ampul E27 9W-60 W Sarı Isık Eko Paket – 3'lü,Efor,9W-60,,,3'lü,sarı,,paket,0552203,1,1,Cagri,model,M|efor|9w60||3'lu|paket|sari
 PRD-000018,Eti – Gong Kl Stant – 84 x 64 g,Eti,64GX84,,,84 x 64 g,,84,paket,0111393,1,1,Tarım Kredi Kooperatif,model,M|eti|64gx84||84x64g|paket|
 PRD-000019,Gillette – BLUE3 Slalom Kullan At Tıraş Bıçağı – 3'lü,Gillette,BLUE3,,,3'lü,,,paket,1312001,1,1,Sariyer,model,M|gillette|blue3||3'lu|paket|
-PRD-000020,Kaanlar – Akhisar Uslu Siyah Zeytin XS-2XS – 900 g,Kaanlar,XS-2XS,,,900 g,,,paket,0117476,1,1,A101,model,M|kaanlar|xs2xs||900g|paket|
+PRD-000020,Kaanlar – Akhisar Uslu Siyah Zeytin XS-2XS – 900 g,Kaanlar,,,,900 g,,,paket,0117476,1,1,A101,name,N|kaanlar|akhisar siyah uslu xs2xs zeytin|900g|paket
 PRD-000021,"Kiwi – KK-3331 Su Isıtıcı Kettle – 1,8 L",Kiwi,KK-3331,,,"1,8 L",,,paket,0125001,1,1,Cagri,model,"M|kiwi|kk3331||1,8l|paket|"
 PRD-000022,Kiwi – Pets KPPC-10807 Evcil Hayvan Eğitim Pedi – 10'lu,Kiwi,KPPC-10807,,,10'lu,,,paket,1312030,1,1,A101,model,M|kiwi|kppc10807||10'lu|paket|
 PRD-000023,Kiwi – KTB-6506 Diş Fırçası Başlık Seti – 6'lı,Kiwi,KTB-6506,,,6'lı,,,paket,1312002,1,1,A101,model,M|kiwi|ktb6506||6'li|paket|
@@ -31,11 +31,11 @@ PRD-000029,"Kosova – Rose Kahve Fincan Takımı LIA-04 – 6'lı, 90 ml",Kosov
 PRD-000030,"Kosova – Fincan Takımı Ayaklı RSY-169 – 6'lı, 90 ml",Kosova,RSY-169,,,"6'lı, 90 ml",,6,paket,0540104,1,1,Hapeloglu,model,"M|kosova|rsy169||6'li,90ml|paket|"
 PRD-000031,Lets – 4 Renk Oyun Hamuru Normal Renkler L8440 – 460 g,Lets,L8440,,,460 g,,,paket,0921204,1,1,sehzade,model,M|lets|l8440||460g|paket|
 PRD-000032,"Marmarabirlik – Süper Zeytin 261-290KLB – 400 g, 1 adet",Marmarabirlik,261-290KLB,,,"400 g, 1 adet",,,paket,0117476,1,1,Mopas,model,"M|marmarabirlik|261290klb||400g,1adet|paket|"
-PRD-000033,Marmarabirlik – Doğal Yağlı Salamura Siyah Zeytin 3XS-4XS – 700 g,Marmarabirlik,3XS-4XS,,,700 g,,,paket,0117476,1,1,A101,model,M|marmarabirlik|3xs4xs||700g|paket|
-PRD-000034,Marmarabirlik – Doğal Yağlı Salamura Siyah Zeytin 3XS-4XS – 800 g,Marmarabirlik,3XS-4XS,,,800 g,,,paket,0117476,1,1,A101,model,M|marmarabirlik|3xs4xs||800g|paket|
-PRD-000035,Marmarabirlik – Siyah Zeytin 3XS-4XS – 900 g,Marmarabirlik,3XS-4XS,,,900 g,,,paket,0117476,1,1,A101,model,M|marmarabirlik|3xs4xs||900g|paket|
+PRD-000033,Marmarabirlik – Doğal Yağlı Salamura Siyah Zeytin 3XS-4XS – 700 g,Marmarabirlik,,,,700 g,,,paket,0117476,1,1,A101,name,N|marmarabirlik|3xs4xs dogal salamura siyah yagli zeytin|700g|paket
+PRD-000034,Marmarabirlik – Doğal Yağlı Salamura Siyah Zeytin 3XS-4XS – 800 g,Marmarabirlik,,,,800 g,,,paket,0117476,1,1,A101,name,N|marmarabirlik|3xs4xs dogal salamura siyah yagli zeytin|800g|paket
+PRD-000035,Marmarabirlik – Siyah Zeytin 3XS-4XS – 900 g,Marmarabirlik,,,,900 g,,,paket,0117476,1,1,A101,name,N|marmarabirlik|3xs4xs siyah zeytin|900g|paket
 PRD-000036,"Marmara – Birlik Zeytin Kuru Sele (321-350KB) XS – 800 g, 1 adet",Marmara,321-350KB,,,"800 g, 1 adet",,,paket,0117476,1,1,Mopas,model,"M|marmara|321350kb||800g,1adet|paket|"
-PRD-000037,Marmara – Birlik Yeşil Çizik Zeytin Cam 321-380 XS-2XS – 850 g,Marmara,XS-2XS,,,850 g,,,paket,0117476,1,1,Hapeloglu,model,M|marmara|xs2xs||850g|paket|
+PRD-000037,Marmara – Birlik Yeşil Çizik Zeytin Cam 321-380 XS-2XS – 850 g,Marmara,,,,850 g,,,paket,0117476,1,1,Hapeloglu,name,N|marmara|321380 birlik cam cizik xs2xs yesil zeytin|850g|paket
 PRD-000038,Nascita – El Tırnak Makası Seti NASXMKSSET01 – 2'li,Nascita,NASXMKSSET01,,,2'li,,,paket,1312022,1,1,Arden,model,M|nascita|nasxmksset01||2'li|paket|
 PRD-000039,Orbus – CR2032 Düğme Pil – 4'lü,Orbus,CR2032,,,4'lü,,,paket,0552201,1,1,A101,model,M|orbus|cr2032||4'lu|paket|
 PRD-000040,Orcamp – CX500 Çakmaklı Kartuş Pürmüz Seti – 227 g,Orcamp,CX500,,,227 g,,,paket,,1,1,A101,model,M|orcamp|cx500||227g|paket|
@@ -47,14 +47,14 @@ PRD-000045,"Qlux – Panda Çöp Kovası L00988 – 1,5 L",Qlux,L00988,,,"1,5 L"
 PRD-000046,Sinoz – Günlük Kullanım SPF50+ Fluid Güneş Kremi – 50 ml,Sinoz,SPF50,,,50 ml,,,paket,1312023,1,1,Macrocenter,model,M|sinoz|spf50||50ml|paket|
 PRD-000047,Snow Angels – Yılbaşı Topları 8 Cm GH001328 – 4 adet,Snow Angels,GH001328,,,4 adet,,,paket,0932204,1,1,Macrocenter,model,M|snowangels|gh001328||4adet|paket|
 PRD-000048,Triathlon – T-109 Masa Tenisi Raketi – 2'li,Triathlon,T-109,,,2'li,,,paket,0922103,1,1,A101,model,M|triathlon|t109||2'li|paket|
-PRD-000049,Tukaş – Kalamata Kırma Yeşil Zeytin 5XL-6XL – 1 kg,Tukaş,5XL-6XL,,,1 kg,,,paket,0117476,1,1,A101,model,M|tukas|5xl6xl||1kg|paket|
-PRD-000050,Tukaş – Kırma Yeşil Zeytin 9XL-8XL – 900 g,Tukaş,9XL-8XL,,,900 g,,,paket,0117476,1,1,A101,model,M|tukas|9xl8xl||900g|paket|
-PRD-000051,Tukaş – Siyah Zeytin XS-2XS – 800 g,Tukaş,XS-2XS,,,800 g,,,paket,0117476,1,1,A101,model,M|tukas|xs2xs||800g|paket|
-PRD-000052,ZEO – Siyah Zeytin 2XS-3XS – 2 kg,ZEO,2XS-3XS,,,2 kg,,,paket,0117476,1,1,A101,model,M|zeo|2xs3xs||2kg|paket|
-PRD-000053,ZEO – Biber Dolgulu Yeşil Zeytin 3XL-2XL – 400 g,ZEO,3XL-2XL,,,400 g,,,paket,0117476,1,1,A101,model,M|zeo|3xl2xl||400g|paket|
-PRD-000054,ZEO – Siyah Zeytin XS-2XS – 250 g,ZEO,XS-2XS,,,250 g,,,paket,0117476,1,1,A101,model,M|zeo|xs2xs||250g|paket|
-PRD-000055,ZEO – Baharatlı Yeşil Zeytin XS-2XS – 400 g,ZEO,XS-2XS,,,400 g,,,paket,0117476,1,1,A101,model,M|zeo|xs2xs||400g|paket|
-PRD-000056,ZEO – Siyah Zeytin XS-2XS – 500 g,ZEO,XS-2XS,,,500 g,,,paket,0117476,1,1,A101,model,M|zeo|xs2xs||500g|paket|
+PRD-000049,Tukaş – Kalamata Kırma Yeşil Zeytin 5XL-6XL – 1 kg,Tukaş,,,,1 kg,,,paket,0117476,1,1,A101,name,N|tukas|5xl6xl kalamata kirma yesil zeytin|1kg|paket
+PRD-000050,Tukaş – Kırma Yeşil Zeytin 9XL-8XL – 900 g,Tukaş,,,,900 g,,,paket,0117476,1,1,A101,name,N|tukas|9xl8xl kirma yesil zeytin|900g|paket
+PRD-000051,Tukaş – Siyah Zeytin XS-2XS – 800 g,Tukaş,,,,800 g,,,paket,0117476,1,1,A101,name,N|tukas|siyah xs2xs zeytin|800g|paket
+PRD-000052,ZEO – Siyah Zeytin 2XS-3XS – 2 kg,ZEO,,,,2 kg,,,paket,0117476,1,1,A101,name,N|zeo|2xs3xs siyah zeytin|2kg|paket
+PRD-000053,ZEO – Biber Dolgulu Yeşil Zeytin 3XL-2XL – 400 g,ZEO,,,,400 g,,,paket,0117476,1,1,A101,name,N|zeo|3xl2xl biber dolgulu yesil zeytin|400g|paket
+PRD-000054,ZEO – Siyah Zeytin XS-2XS – 250 g,ZEO,,,,250 g,,,paket,0117476,1,1,A101,name,N|zeo|siyah xs2xs zeytin|250g|paket
+PRD-000055,ZEO – Baharatlı Yeşil Zeytin XS-2XS – 400 g,ZEO,,,,400 g,,,paket,0117476,1,1,A101,name,N|zeo|baharatli xs2xs yesil zeytin|400g|paket
+PRD-000056,ZEO – Siyah Zeytin XS-2XS – 500 g,ZEO,,,,500 g,,,paket,0117476,1,1,A101,name,N|zeo|siyah xs2xs zeytin|500g|paket
 PRD-000057,7Bahar – Çiçek Balı – 850 g,7Bahar,,,,850 g,,,paket,0118313,1,1,A101,name,N|7bahar|bali cicek|850g|paket
 PRD-000058,7Days – Kruvasan Kakao Kremalı Aile Boy – 185 g,7Days,,,,185 g,,,paket,,1,1,CarrefourSA,name,N|7days|aile boy kakao kremali kruvasan|185g|paket
 PRD-000059,7Days – Çikolata Dolgulu Kruvasan – 60 g,7Days,,,,60 g,,,paket,0111392,1,1,A101,name,N|7days|cikolata dolgulu kruvasan|60g|paket
@@ -245,7 +245,7 @@ PRD-000243,"Abc – Matik Renkliler – 1,5 kg",Abc,,,,"1,5 kg",,,paket,0561101,
 PRD-000244,Abc – Matik Renkliler – 10 kg,Abc,,,,10 kg,,,paket,0561101,1,1,sehzade,name,N|abc|matik renkliler|10kg|paket
 PRD-000245,Abc – Matik Renkliler – 6 kg,Abc,,,,6 kg,,,paket,0561101,1,1,sehzade,name,N|abc|matik renkliler|6kg|paket
 PRD-000246,Abc – Matik Sık Yıkananlar – 10 kg,Abc,,,,10 kg,,,paket,0561101,1,1,sehzade,name,N|abc|matik sik yikananlar|10kg|paket
-PRD-000247,"Abc – Yumuşatıcı Yasemin MAVI*** – 1,44 L",Abc,,,,"1,44 L",mavı***,,paket,0561101,1,1,sehzade,name,"N|abc|mavi yasemin yumusatici|1,44l|paket"
+PRD-000247,"Abc – Yumuşatıcı Yasemin MAVI*** – 1,44 L",Abc,,,,"1,44 L",mavi,,paket,0561101,1,1,sehzade,name,"N|abc|mavi yasemin yumusatici|1,44l|paket"
 PRD-000248,Abc – Yumuşatıcı SENSITIVE – 5 L,Abc,,,,5 L,,,paket,,1,1,SozSanal,name,N|abc|sensitive yumusatici|5l|paket
 PRD-000249,Abc – Sodamatik – 500 g,Abc,,,,500 g,,,paket,0561101,2,2,Cagri; sehzade,name,N|abc|sodamatik|500g|paket
 PRD-000250,"Abc – Yüzey Temizleyici – 2,5 L",Abc,,,,"2,5 L",,,paket,0561103,1,1,A101,name,"N|abc|temizleyici yuzey|2,5l|paket"
@@ -11074,7 +11074,7 @@ PRD-011072,Derby – Samurai 3 Poşet – 10'lu,Derby,,,,10'lu,,,paket,,1,1,Kim,
 PRD-011073,Derby – Samurai 3 Poşet – 5'li,Derby,,,,5'li,,,paket,,1,1,Marketzade,name,N|derby|3 poset samurai|5'li|paket
 PRD-011074,Derby – Lady 3BICAK Blister PLATINIUM – 4'lü,Derby,,,,4'lü,,,paket,,1,1,sehzade,name,N|derby|3bicak blister lady platinium|4'lu|paket
 PRD-011075,Derby – Lady Tras Jeli Aloe Vera – 200 ml,Derby,,,,200 ml,,,paket,,1,1,SozSanal,name,N|derby|aloe jeli lady tras vera|200ml|paket
-PRD-011076,Derby – D28 Genel Amaçlı Silikon Şeffaf( – 280 g,Derby,,,,280 g,şeffaf(,,paket,0561103,1,1,sehzade,name,N|derby|amacli d28 genel seffaf silikon|280g|paket
+PRD-011076,Derby – D28 Genel Amaçlı Silikon Şeffaf( – 280 g,Derby,,,,280 g,şeffaf,,paket,0561103,1,1,sehzade,name,N|derby|amacli d28 genel seffaf silikon|280g|paket
 PRD-011077,Derby – Tıraş Kolonyası Amber Kokusu – 250 ml,Derby,,,,250 ml,,,paket,1312021,1,1,Arden,name,N|derby|amber kokusu kolonyasi tiras|250ml|paket
 PRD-011078,Derby – Tıraş Köpüğü Amber Kokusu – 200 ml,Derby,,,,200 ml,,,paket,1312022,2,2,Marketzade; SozSanal,name,N|derby|amber kokusu kopugu tiras|200ml|paket
 PRD-011079,Derby – Tıraş Köpüğü Limon Amber – 200 ml,Derby,,,,200 ml,,,paket,1312022,1,1,sehzade,name,N|derby|amber kopugu limon tiras|200ml|paket
@@ -32384,7 +32384,7 @@ PRD-032382,Nesquik – Toz Plus – 420 g,Nesquik,,,,420 g,,,paket,,1,1,Cagri,na
 PRD-032383,"Nesquik – Toz Stick – 14,3 g",Nesquik,,,,"14,3 g",,,paket,,1,1,Arden,name,"N|nesquik|stick toz|14,3g|paket"
 PRD-032384,"Nesquik – Stick – 13,5 g",Nesquik,,,,"13,5 g",,,paket,,1,1,Cagri,name,"N|nesquik|stick|13,5g|paket"
 PRD-032385,Nesquik – Stick – 14 g,Nesquik,,,,14 g,,,paket,,1,1,sehzade,name,N|nesquik|stick|14g|paket
-PRD-032386,Nestle – 2'si 1 Arada +kırmızı Kupa – 20'li,Nestle,,,,20'li,+kırmızı,,paket,0540104,1,1,A101,name,N|nestle|1 2si arada kirmizi kupa|20'li|paket
+PRD-032386,Nestle – 2'si 1 Arada +kırmızı Kupa – 20'li,Nestle,,,,20'li,kırmızı,,paket,0540104,1,1,A101,name,N|nestle|1 2si arada kirmizi kupa|20'li|paket
 PRD-032387,Nestle – 2'si 1 Arada Sütlü Köpüklü Nescafe – 10'lu,Nestle,,,,10'lu,,,paket,,1,1,Gurmar,name,N|nestle|1 2si arada kopuklu nescafe sutlu|10'lu|paket
 PRD-032388,Nestle – Kit Kat Formula 1 – 66 g,Nestle,,,,66 g,,,paket,0111396,1,1,Cagri,name,N|nestle|1 formula kat kit|66g|paket
 PRD-032389,Nestle – Çikolata Kare 1927 Bitter %60 Kakao – 60 g,Nestle,,bitter,,60 g,,,paket,0118512,1,1,Ideal,name,N|nestle|1927 60 bitter cikolata kakao kare|60g|paket
@@ -39483,10 +39483,6 @@ PRD-039481,Roda – Farm Soğuk Sıkım Natürel Sızma Zeytinyağı Ayvalık �
 PRD-039482,Roda – Farm Fesleğen Çeşnili Naturel Sızma Zeytinyağı – 175 ml,Roda,,,,175 ml,,,paket,0119401,1,1,Macrocenter,name,N|roda|cesnili farm feslegen naturel sizma zeytinyagi|175ml|paket
 PRD-039483,Roda – Farm Soğuk Sıkım Natürel Sızma Zeytinyağı Gemlik – 500 ml,Roda,,,,500 ml,,,paket,0115131,1,1,Macrocenter,name,N|roda|farm gemlik naturel sikim sizma soguk zeytinyagi|500ml|paket
 PRD-039484,Roda – Farm Soğuk Sıkım Natürel Sızma Zeytinyağı Memecik – 500 ml,Roda,,,,500 ml,,,paket,0115131,1,1,Macrocenter,name,N|roda|farm memecik naturel sikim sizma soguk zeytinyagi|500ml|paket
-PRD-039485,Roka – Deniz Tuzlu ve Karabiberli Kraker – 90 g,Roka,,,,90 g,,,paket,0111394,1,1,Macrocenter,name,N|roka|deniz karabiberli kraker tuzlu|90g|paket
-PRD-039486,Roka – Mini Erüst – 125 g,Roka,,,,125 g,,,paket,,1,1,Macrocenter,name,N|roka|erust mini|125g|paket
-PRD-039487,Roka – 1 adet,Roka,,,,1 adet,,,paket,0119401,1,1,Mopas,name,N|roka||1adet|paket
-PRD-039488,Roka – adet,Roka,,,,,,,adet,0119401,6,6,A101; Cagri; CarrefourSA; Hapeloglu; Kale; Sariyer,name,N|roka|||adet
 PRD-039489,Rolling Pops – Kajun Baharat Nohut Cipsi – 56 g,Rolling Pops,,,,56 g,,,paket,0117998,1,1,A101,name,N|rollingpops|baharat cipsi kajun nohut|56g|paket
 PRD-039490,Rolling Pops – Cheddar Çeşnili Nohut Cipsi – 56 g,Rolling Pops,,,,56 g,,,paket,0117998,1,1,Macrocenter,name,N|rollingpops|cesnili cheddar cipsi nohut|56g|paket
 PRD-039491,Rolling Pops – Thai Sweet Chili Çeşnili Nohut Cipsi – 56 g,Rolling Pops,,,,56 g,,,paket,0117998,1,1,Macrocenter,name,N|rollingpops|cesnili chili cipsi nohut sweet thai|56g|paket
@@ -40338,10 +40334,10 @@ PRD-040336,"Scotch Brite – Ultra Konfor Sünger Klasik – 2'li, 1 adet",Scotc
 PRD-040337,"Scotch Brite – Klasık Tırnak Koruyucu Sünger Yeşil – 8'li, 1 adet",Scotch Brite,,,,"8'li, 1 adet",yeşil,8,paket,0561106,1,1,Mopas,name,"N|scotchbrite|klasik koruyucu sunger tirnak yesil|8'li,1adet|paket"
 PRD-040338,Scotch Brite – Yeşil Klasik Oluklu Sünger – 8'li,Scotch Brite,,,,8'li,yeşil,,paket,0561106,1,1,Marketzade,name,N|scotchbrite|klasik oluklu sunger yesil|8'li|paket
 PRD-040339,Scotch Brite – Sünger Yeşil Klasik – 2'li,Scotch Brite,,,,2'li,yeşil,,paket,0561106,1,1,Marketzade,name,N|scotchbrite|klasik sunger yesil|2'li|paket
-PRD-040340,"Scotch Brite – Yesıl Sünger Klasik – 4'lü, 1 adet",Scotch Brite,,,,"4'lü, 1 adet",yesıl,4,paket,0561106,1,1,Mopas,name,"N|scotchbrite|klasik sunger yesil|4'lu,1adet|paket"
+PRD-040340,"Scotch Brite – Yesıl Sünger Klasik – 4'lü, 1 adet",Scotch Brite,,,,"4'lü, 1 adet",yeşil,4,paket,0561106,1,1,Mopas,name,"N|scotchbrite|klasik sunger yesil|4'lu,1adet|paket"
 PRD-040341,"Scotch Brite – Klasık Yeşil Sünger – 8'li, 1 adet",Scotch Brite,,,,"8'li, 1 adet",yeşil,8,paket,0561106,1,1,Mopas,name,"N|scotchbrite|klasik sunger yesil|8'li,1adet|paket"
-PRD-040342,"Scotch Brite – Yesıl Sünger Tırnak Koruyucu – 4'lü, 1 adet",Scotch Brite,,,,"4'lü, 1 adet",yesıl,4,paket,0561106,1,1,Mopas,name,"N|scotchbrite|koruyucu sunger tirnak yesil|4'lu,1adet|paket"
-PRD-040343,"Scotch Brite – Yesıl Sünger Tırnak Koruyuculu – 2'li, 1 adet",Scotch Brite,,,,"2'li, 1 adet",yesıl,2,paket,0561106,1,1,Mopas,name,"N|scotchbrite|koruyuculu sunger tirnak yesil|2'li,1adet|paket"
+PRD-040342,"Scotch Brite – Yesıl Sünger Tırnak Koruyucu – 4'lü, 1 adet",Scotch Brite,,,,"4'lü, 1 adet",yeşil,4,paket,0561106,1,1,Mopas,name,"N|scotchbrite|koruyucu sunger tirnak yesil|4'lu,1adet|paket"
+PRD-040343,"Scotch Brite – Yesıl Sünger Tırnak Koruyuculu – 2'li, 1 adet",Scotch Brite,,,,"2'li, 1 adet",yeşil,2,paket,0561106,1,1,Mopas,name,"N|scotchbrite|koruyuculu sunger tirnak yesil|2'li,1adet|paket"
 PRD-040344,Scotch Brite – Sünger Yeşil Oluklu – 2'li,Scotch Brite,,,,2'li,yeşil,,paket,0561106,1,1,Hapeloglu,name,N|scotchbrite|oluklu sunger yesil|2'li|paket
 PRD-040345,Scotch Brite – Oluklu Sünger – 4'lü,Scotch Brite,,,,4'lü,,,paket,0561106,1,1,Marketzade,name,N|scotchbrite|oluklu sunger|4'lu|paket
 PRD-040346,"Scotch Brite – Tüy Toplayıcı Rulo – 30'lu, 1 adet",Scotch Brite,,,,"30'lu, 1 adet",,30,paket,0431101,1,1,Mopas,name,"N|scotchbrite|rulo toplayici tuy|30'lu,1adet|paket"
@@ -41799,11 +41795,11 @@ PRD-041797,Sleepy – Bebek Bakım Örtüsü 60*90Cm – 10 adet,Sleepy,,,,10 ad
 PRD-041798,Sleepy – Natural Double Soft 7 Numara XXL Bebek Bezi – 48'li,Sleepy,,,,48'li,,,paket,1329129,1,1,Arden,name,N|sleepy|7 bebek bezi double natural numara soft xxl|48'li|paket
 PRD-041799,Sleepy – Çocuk Bezi Gross Paket 7 Xxlarge – 100'lü,Sleepy,,,,100'lü,,,paket,1329129,1,1,Arden,name,N|sleepy|7 bezi cocuk gross paket xxlarge|100'lu|paket
 PRD-041800,Sleepy – Natural Maxi Çocuk Bezi 7-14 kg – 27'li,Sleepy,,,,27'li,,,paket,1329129,1,1,A101,name,N|sleepy|714 bezi cocuk kg maxi natural|27'li|paket
-PRD-041801,Sleepy – Yüzey Temizlik Havlusu Beyaz Sabun (yeşil) Adet – 12 x 100 yaprak,Sleepy,,,,12 x 100 yaprak,(yeşil); beyaz,12,paket,0561103,1,1,Onur,name,N|sleepy|adet beyaz havlusu sabun temizlik yesil yuzey|12x100yaprak|paket
-PRD-041802,Sleepy – Yüzey Temizlik Havlusu Beyaz Sabun (yeşil) Adet – 3 x 100 yaprak,Sleepy,,,,3 x 100 yaprak,(yeşil); beyaz,3,paket,0561103,1,1,Onur,name,N|sleepy|adet beyaz havlusu sabun temizlik yesil yuzey|3x100yaprak|paket
-PRD-041803,Sleepy – Yüzey Temizlik Havlusu Beyaz Sabun (yeşil) Adet – 6 x 100 yaprak,Sleepy,,,,6 x 100 yaprak,(yeşil); beyaz,6,paket,0561103,1,1,Onur,name,N|sleepy|adet beyaz havlusu sabun temizlik yesil yuzey|6x100yaprak|paket
-PRD-041804,Sleepy – Yüzey Temizlik Havlusu Çamaşır Suyu (mavi) Adet – 4 x 100 yaprak,Sleepy,,,,4 x 100 yaprak,(mavi),4,paket,0561101,1,1,Onur,name,N|sleepy|adet camasir havlusu mavi suyu temizlik yuzey|4x100yaprak|paket
-PRD-041805,Sleepy – Yüzey Temizlik Havlusu Çamaşır Suyu (mavi) Adet – 5 x 100 yaprak,Sleepy,,,,5 x 100 yaprak,(mavi),5,paket,0561101,1,1,Onur,name,N|sleepy|adet camasir havlusu mavi suyu temizlik yuzey|5x100yaprak|paket
+PRD-041801,Sleepy – Yüzey Temizlik Havlusu Beyaz Sabun (yeşil) Adet – 12 x 100 yaprak,Sleepy,,,,12 x 100 yaprak,beyaz; yeşil,12,paket,0561103,1,1,Onur,name,N|sleepy|adet beyaz havlusu sabun temizlik yesil yuzey|12x100yaprak|paket
+PRD-041802,Sleepy – Yüzey Temizlik Havlusu Beyaz Sabun (yeşil) Adet – 3 x 100 yaprak,Sleepy,,,,3 x 100 yaprak,beyaz; yeşil,3,paket,0561103,1,1,Onur,name,N|sleepy|adet beyaz havlusu sabun temizlik yesil yuzey|3x100yaprak|paket
+PRD-041803,Sleepy – Yüzey Temizlik Havlusu Beyaz Sabun (yeşil) Adet – 6 x 100 yaprak,Sleepy,,,,6 x 100 yaprak,beyaz; yeşil,6,paket,0561103,1,1,Onur,name,N|sleepy|adet beyaz havlusu sabun temizlik yesil yuzey|6x100yaprak|paket
+PRD-041804,Sleepy – Yüzey Temizlik Havlusu Çamaşır Suyu (mavi) Adet – 4 x 100 yaprak,Sleepy,,,,4 x 100 yaprak,mavi,4,paket,0561101,1,1,Onur,name,N|sleepy|adet camasir havlusu mavi suyu temizlik yuzey|4x100yaprak|paket
+PRD-041805,Sleepy – Yüzey Temizlik Havlusu Çamaşır Suyu (mavi) Adet – 5 x 100 yaprak,Sleepy,,,,5 x 100 yaprak,mavi,5,paket,0561101,1,1,Onur,name,N|sleepy|adet camasir havlusu mavi suyu temizlik yuzey|5x100yaprak|paket
 PRD-041806,Sleepy – Bio Airbag Süper Junior – 40'lı,Sleepy,,,,40'lı,,,paket,1329129,1,1,Cagri,name,N|sleepy|airbag bio junior super|40'li|paket
 PRD-041807,Sleepy – Bio Airbag Süper Maxi – 52'li,Sleepy,,,,52'li,,,paket,1329129,1,1,Cagri,name,N|sleepy|airbag bio maxi super|52'li|paket
 PRD-041808,Sleepy – Bio Airbag Süper XL – 32'li,Sleepy,,,,32'li,,,paket,1329129,1,1,Cagri,name,N|sleepy|airbag bio super xl|32'li|paket
@@ -52203,7 +52199,7 @@ PRD-052204,Wellnax – Cam Par Yum PINK Velvet – 210 g,Wellnax,,,,210 g,,,pake
 PRD-052205,Wellnax – Cam Par Yum Sun RISING – 210 g,Wellnax,,,,210 g,,,paket,,1,1,SozSanal,name,N|wellnax|cam par rising sun yum|210g|paket
 PRD-052206,Wellnax – Çamaşır Parfümü Yum. Moonligt – 210 g,Wellnax,,,,210 g,,,paket,0561101,1,1,sehzade,name,N|wellnax|camasir moonligt parfumu yum|210g|paket
 PRD-052207,Wellnax – Çamaşır Parfümü Yum. Urban Nights – 210 g,Wellnax,,,,210 g,,,paket,0561101,1,1,sehzade,name,N|wellnax|camasir nights parfumu urban yum|210g|paket
-PRD-052208,Wellnax – Çamaşır Parfümü Yum. Pınk Velvet – 210 g,Wellnax,,,,210 g,pınk,,paket,0561101,1,1,sehzade,name,N|wellnax|camasir parfumu pink velvet yum|210g|paket
+PRD-052208,Wellnax – Çamaşır Parfümü Yum. Pınk Velvet – 210 g,Wellnax,,,,210 g,pink,,paket,0561101,1,1,sehzade,name,N|wellnax|camasir parfumu pink velvet yum|210g|paket
 PRD-052209,Wellnax – Çamaşır Parfümü Yum. Sun Rising – 210 g,Wellnax,,,,210 g,,,paket,0561101,1,1,sehzade,name,N|wellnax|camasir parfumu rising sun yum|210g|paket
 PRD-052210,Werthers – Original Caramel Popcorn – 170 g,Werthers,,,,170 g,,,paket,0117998,1,1,CarrefourSA,name,N|werthers|caramel original popcorn|170g|paket
 PRD-052211,Werthers – Original Soft Caramel Şekerleme – 100 g,Werthers,,,,100 g,,,paket,0118995,1,1,Macrocenter,name,N|werthers|caramel original sekerleme soft|100g|paket

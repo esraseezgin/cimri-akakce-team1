@@ -73,7 +73,7 @@ Migros,MIGROS-000071,Migros|migros_2026-10-25.csv|71,,Domates Kg,Domates – kg,
 Migros,MIGROS-000072,Migros|migros_2026-10-25.csv|72,,Maydanoz Demet,Maydanoz Demet,Maydanoz Demet,,,,,,,,,,,,36.95,clean,not_matchable,no_quantity_in_name,,2026-10-25,migros_2026-10-25.csv,72
 Migros,MIGROS-000073,Migros|migros_2026-10-25.csv|73,,Havuç Beypazarı Paket Kg,Havuç Beypazarı Paket – kg,Havuç Beypazarı Paket – kg,,,,,,,,,,,kg,62.95,clean,not_matchable,,,2026-10-25,migros_2026-10-25.csv,73
 Migros,MIGROS-000074,Migros|migros_2026-10-25.csv|74,,Hıyar Badem Paket Kg,Hıyar Badem Paket – kg,Hıyar Badem Paket – kg,,,,,,,,,,,kg,79.95,clean,not_matchable,,,2026-10-25,migros_2026-10-25.csv,74
-Migros,MIGROS-000075,Migros|migros_2026-10-25.csv|75,,Roka Demet,Roka – Demet,Roka – Demet,Roka,,,,,,,,,,,36.95,clean,not_matchable,no_quantity_in_name,,2026-10-25,migros_2026-10-25.csv,75
+Migros,MIGROS-000075,Migros|migros_2026-10-25.csv|75,,Roka Demet,Roka Demet,Roka Demet,,,,,,,,,,,,36.95,clean,not_matchable,ambiguous_brand_word_not_used; no_quantity_in_name,,2026-10-25,migros_2026-10-25.csv,75
 Migros,MIGROS-000076,Migros|migros_2026-10-25.csv|76,,Kereviz Kg,Kereviz – kg,Kereviz – kg,,,,,,,,,,,kg,104.95,clean,not_matchable,,,2026-10-25,migros_2026-10-25.csv,76
 Migros,MIGROS-000077,Migros|migros_2026-10-25.csv|77,,Biber Kırmızı Kg,Biber Kırmızı – kg,Biber Kırmızı – kg,,,,,,,,,,,kg,146.95,clean,not_matchable,,,2026-10-25,migros_2026-10-25.csv,77
 Migros,MIGROS-000078,Migros|migros_2026-10-25.csv|78,,Patlıcan Kemer Kg,Patlıcan Kemer – kg,Patlıcan Kemer – kg,,,,,,,,,,,kg,73.50,clean,not_matchable,,,2026-10-25,migros_2026-10-25.csv,78

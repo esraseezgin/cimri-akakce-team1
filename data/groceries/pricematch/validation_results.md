@@ -1,6 +1,6 @@
 # Validation results
 
-18 of 18 checks passed.
+20 of 20 checks passed.
 
 | Check | Result | Detail |
 |---|---|---|
@@ -12,12 +12,14 @@
 | original names and prices kept exactly | PASS | 0 differences |
 | no word, number, promotion or model code lost in standard names | PASS | 0 rows |
 | all 24 store files have the same columns | PASS | 26 columns |
-| records under one product_id agree on brand, size, unit, pack, variant, model, capacity and colour, one record per store | PASS | 53,753 product_ids |
+| pricematch_cleaned_all_markets.csv holds exactly the 24 store files' rows | PASS | 99,375 rows |
+| no clothing size in `model` and no stray signs in `color` | PASS | 0 values |
+| records under one product_id agree on brand, size, unit, pack, variant, model, capacity and colour, one record per store | PASS | 53,749 product_ids |
 | no product_id joins prices more than 3x apart (false-merge guard) | PASS | 0 groups |
-| every product_id shows one canonical_product_name in all stores | PASS | 8,626 multi-store groups checked |
+| every product_id shows one canonical_product_name in all stores | PASS | 8,625 multi-store groups checked |
 | no clean record keeps glued sizes, repeated size letters or a stray lower-case letter | PASS | 0 rows |
-| products_master has each product_id once and matches the store files | PASS | 53,753 rows |
-| product_matches lists every record once; unmatched_products holds every record without product_id | PASS | 99,375 matches, 28,153 unmatched |
+| products_master has each product_id once and matches the store files | PASS | 53,749 rows |
+| product_matches lists every record once; unmatched_products holds every record without product_id | PASS | 99,375 matches, 28,162 unmatched |
 | every rejected row and removed exact duplicate is reported | PASS | 56 rows |
 | no record with a blocking problem is marked clean | PASS | 0 records |
 | product_ids are the same on every rerun (with the saved registry, and from scratch) | PASS |  |
