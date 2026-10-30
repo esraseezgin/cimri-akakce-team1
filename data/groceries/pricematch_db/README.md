@@ -6,14 +6,19 @@ schema order, ids already set so every foreign key lines up.
 
 ## Load it
 
-On an empty database with migrations 000 and 001 applied:
+Use a new, empty test database first, never a database that already holds data.
 
-1. Add `002_pricematch_grocery_import.sql` to `database/migrations/` and run the migration runner (or `psql -f`).
-2. From this folder: `psql -d pricematch_db -v ON_ERROR_STOP=1 -f load_pricematch.sql`
+1. Apply migrations `000_migration_tracking.sql` and `001_initial_schema.sql` with the official migration runner.
+2. Add `002_pricematch_grocery_import.sql` to `database/migrations/` and apply it. It is required; see below.
+3. Optionally add `003_grocery_import_safety.sql` after 002. It also rejects a blank `source_offer_key`. Our data has none, so the load does not depend on it.
+4. From this folder, load the data:
+   `psql -d pricematch_db -v ON_ERROR_STOP=1 -f load_pricematch.sql`
+5. Check the load:
+   `psql -d pricematch_db -v ON_ERROR_STOP=1 -f verify_pricematch_import.sql`
 
-`load_pricematch.sql` runs in one transaction: it loads all six tables through staging tables
-(`INSERT … OVERRIDING SYSTEM VALUE`, because the ids are identity columns) and moves every identity past the
-loaded ids, so rows added later get new ids.
+   It stops with an error if any of these is wrong: row counts (24 retailers, 81,181 products, 98,645 offers and initial history rows, 419 categories, 2,114 brands), a duplicated `source_offer_key`, an offer without its product or retailer, or an offer whose first history price differs from `current_price`. The counts belong to this export: update them if the files are rebuilt from newer data.
+
+`load_pricematch.sql` runs in one transaction, so on any error nothing is loaded. It loads all six tables through staging tables (`INSERT … OVERRIDING SYSTEM VALUE`, because the ids are identity columns). At the end it moves every identity past the loaded ids, so rows added later get new ids. Migrations 001 and 002 should not be edited after they are applied; later changes go in new numbered migrations, like 003.
 
 ## Why migration 002
 
@@ -65,4 +70,20 @@ The matching team can re-link offers with `UPDATE offers SET product_id = …`. 
 
 ## Checked
 
-`db_validation.md` lists the checks (12 of 12 passed). PostgreSQL was not available on the build machine, so the schema was translated to SQLite and every row was inserted with foreign keys on. That enforced NOT NULL, CHECK, UNIQUE and FOREIGN KEY. Lengths, NUMERIC(12,2), timestamps and ids were checked separately. The PostgreSQL-only parts of `load_pricematch.sql` (`\copy`, `OVERRIDING SYSTEM VALUE`, `setval`) were not run.
+`db_validation.md` lists the checks (12 of 12 passed). PostgreSQL was not available on the build machine, so the schema was translated to SQLite and every row was inserted with foreign keys on. That enforced NOT NULL, CHECK, UNIQUE and FOREIGN KEY. Lengths, NUMERIC(12,2), timestamps and ids were checked separately.
+
+The numbers `verify_pricematch_import.sql` expects were recomputed from these files and all match. The PostgreSQL-only parts (`\copy`, `OVERRIDING SYSTEM VALUE`, `setval`, the verify script itself) still need their first run on PostgreSQL 17 (steps 1–5 above). Passing them shows the data loaded completely and consistently. It does not prove that every cross-store product grouping is right: that review belongs to the matching team.
+
+## Files
+
+| File | Purpose |
+|---|---|
+| `categories.csv`, `brands.csv`, `products.csv`, `retailers.csv`, `offers.csv`, `price_history.csv` | the six tables |
+| `002_pricematch_grocery_import.sql` | required migration |
+| `003_grocery_import_safety.sql` | optional migration |
+| `load_pricematch.sql` | loads the six tables |
+| `verify_pricematch_import.sql` | checks the load on PostgreSQL |
+| `id_map_offers.csv`, `id_map_products.csv` | Team 1 ids ↔ database ids |
+| `excluded_records.csv` | the 730 records not loaded, with reasons |
+| `retailer_sources.csv` | where each retailer's web address was taken from |
+| `db_validation.md` | test results |
