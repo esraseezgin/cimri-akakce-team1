@@ -1,0 +1,57 @@
+retailer,source_file,source_row,original_value,reason
+A101,a101_kapida_2026-10-29.csv,1573,Banetti Mac&Cheese 206 G | 59.00,exact_duplicate_of_row_1539
+A101,a101_kapida_2026-10-29.csv,1942,Kent Karbonat 1 KG | 59.50,exact_duplicate_of_row_1937
+A101,a101_kapida_2026-10-29.csv,6205,Clean & Fun Cam Bezi 2'li 30x40 | 45.00,exact_duplicate_of_row_6166
+A101,a101_kapida_2026-10-29.csv,7341,Pierre Cardin Multi Blender Seti | 1999.00,exact_duplicate_of_row_7313
+CarrefourSA,carrefourSA_2026-10-29.csv,136,Mantar 300 g | 49.95,exact_duplicate_of_row_61
+CarrefourSA,carrefourSA_2026-10-29.csv,671,Karagöl Füme Çerkez Peyniri kg | 1389.00,exact_duplicate_of_row_662
+CarrefourSA,carrefourSA_2026-10-29.csv,1354,Fora Edremit Doğal Çizik Yeşil Zeytin kg | 399.95,exact_duplicate_of_row_1338
+CarrefourSA,carrefourSA_2026-10-29.csv,3030,First 60 Dakika Yeşil Nane Şekersiz 27 g | 49.95,exact_duplicate_of_row_3011
+Gurmar,gurmar_prices_2026-10-29.csv,1919,Ülker Pötibör Kakaolu Bisküvi 450 Gr | 70.00,exact_duplicate_of_row_1883
+Gurmar,gurmar_prices_2026-10-29.csv,2371,Ülker Petibör Bisküvi 175 Gr | 30.00,exact_duplicate_of_row_2171
+Hapeloglu,hapeloglu_2026-10-29.csv,2944,Nivea Men Roll-On Invısıble Black&White 50 ml | 89.50,exact_duplicate_of_row_2943
+HappyCenter,happycenter_2026-10-27.csv,743,Dr. Oetker Trileçe 315gr | 121.55,exact_duplicate_of_row_742
+HappyCenter,happycenter_2026-10-27.csv,3199,Numil 350 gr Bebelac Gold 3 | 610.35,exact_duplicate_of_row_3198
+HappyCenter,happycenter_2026-10-27.csv,3200,Numil 350 gr Bebelac Gold 3 | 610.35,exact_duplicate_of_row_3198
+HappyCenter,happycenter_2026-10-27.csv,4042,Seyidoğlu Boool Kakaolu Fındık Kreması 350 Gr | 66.45,exact_duplicate_of_row_4040
+HappyCenter,happycenter_2026-10-27.csv,5297,Şeftali Kg | 87.45,exact_duplicate_of_row_5233
+HappyCenter,happycenter_2026-10-27.csv,5348,Domates Çeri Kg | 193.15,exact_duplicate_of_row_5346
+Macrocenter,macrocenter_prices_2026-10-29.csv,6549,L'Oreal Paris Telescopic Lift Extra Black Maskara | 900.00,exact_duplicate_of_row_6415
+SozSanal,soz_2026-03-31.csv,19,"LUX KURDAN 400 ADET | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,20,"LUX PAMUK ZIGZAG 50 GR | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,80,"DALIN BEBE SABUNU 100GR | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,110,"LUX CEP MENDIL 15 LI | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,111,"LUX CLEUP ISLAK MENDIL 90 LI GUN FERAHLIGI | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,112,"LUX MAXI BEBE TEM. PAMUGU 60 LI | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,494,"GLISS SIVI SAC KREMI SUPREME LENGTH 200 ML | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,548,"LUX DISK MAKYAJ WATERJET 70 LI | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,549,"LUX KULAK CUBUGU BEBE 60 ADET | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,550,"LUX PAMUK ZIGZAG 100 GR | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,551,"LUX PAMUKLU KULAK CUBUGU 100 LU | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,552,"LUX PAMUKLU KULAK CUBUGU 200 LU | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,555,"LUX TOP MAKYAJ PAMUK 50 LI | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,663,"EMOTION KOFRE SET AQUA KISS | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,664,"EMOTION KOFRE SET OCEAN FRESH | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,665,"EMOTION KOFRE SET ROMANCE | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,666,"PRIVACY KOFRE BAYAN KLASIK | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,667,"PRIVACY KOFRE MAN KLASIK | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,874,"TAHSILDAROGLU EN HOS KLASIK PEYNIR KG | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,1438,SENSODYNE DIS MAC.TAM KORUMA BEYAZLATICI 50ML | 80.00,exact_duplicate_of_row_650
+SozSanal,soz_2026-03-31.csv,2185,"CAPPY MEYVE SUYU 200ML SEFTALI 6 LI | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,2334,"DANA KIYMA KG | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,2556,"SUPERFRESH PIZZA TAS FIRIN GURME 355 GR | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,2687,"BANVIT KANAT KG | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,2700,"GOO.N MB BANTLI FIRSAT PAKETI JUNIOR 100 LU | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,2701,"GOO.N MB BANTLI FIRSAT PAKETI MAXI 100 LU | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,2702,"GOO.N MB BANTLI FIRSAT PAKETI MIDI 100 LU | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,2703,"GOO.N MB BANTLI JUNIOR PAKETI 26 LI | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,2704,"GOO.N MB BANTLI MAXI PAKETI 32 LI | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,2705,"GOO.N MB BANTLI MIDI PAKETI 36 LI | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,2721,"BLADE KOFRE SET COOLER | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,2722,"BLADE KOFRE SET FASTER | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,2723,"BELLISSIMA KOFRE SET WOMEN | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,2724,"FIRST CLASS KOFRE SET MEN | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,4130,"DANET KAVURMA DILIMLI 100 GR | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,4491,"LUX MAKYAJ DUZELTME CUBUGU 80 LI | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,4492,"LUX VUCUT TEMIZLEME HAVLUSU 50 LI | 0,00",rejected_invalid_price
+SozSanal,soz_2026-03-31.csv,4706,"REDBULL ENERGY DRINK 250ML KARPUZ | 0,00",rejected_invalid_price
