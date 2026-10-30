@@ -73,9 +73,10 @@ python scrapers/specs/happycenter_specs.py         # ~same requests as a daily r
 python scrapers/specs/ideal_specs.py               # ~70 requests, ~7 min
 ```
 
-`beymen_specs.py` looks for the inflation study's `Datas` folder at
-`Desktop/InflationResearchStudy/InflationItems/Datas` (next to `jkjk/`). If yours is
-elsewhere, pass `--datas <path>` or set `INFLATION_DATAS`.
+`beymen_specs.py` and the grocery scripts' `--check` read the inflation study's `Datas`
+folder. By default they look two folders above this repo
+(`<that folder>/InflationResearchStudy/InflationItems/Datas`). If yours is elsewhere, set
+`INFLATION_DATAS` (or pass `--datas <path>` to `beymen_specs.py`).
 
 A run **merges** into the existing CSV. New products are added, and known
 products are updated with `first_seen` kept. Products that are no longer listed
