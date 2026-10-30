@@ -64,6 +64,11 @@ Spec files in `data/specs/`, one per store, all with the same columns:
 | Pozitif (pt.com.tr) | Store's public product API | 1,334 | 99% | Best structured data: colour, storage, RAM, screen, condition |
 | Samsung (samsung.com/tr) | Store's public product API | 1,389 | 99% | Colour, storage, screen size, capacity; no RAM |
 | Beymen (beymen.com) | **No requests**: read from the names in the daily files | 13,144 | 100% | Good for phones, computers, TVs; weak for accessories |
+| Marketzade (marketzade.com), groceries | Store's public product API (WooCommerce, like Pozitif) | 2,817 | 99.7% by name | Daily file has no id, so linked by name; barcode for 76%, image and link for all |
+| Hakmar (hakmarexpress.com.tr), groceries | Store's JSON API | 1,170 | 97.5% by name | Food only, like the daily scraper; barcode for 95%, brand, image and link for all |
+| Sariyer (sariyermarket.com), groceries | Site's product list (code copied from the inflation study) | 6,227 | 99.1% by name | Image and link for all; brand from the name (76%); no barcodes |
+| HappyCenter (happycenter.com.tr), groceries | Category pages (code copied from the inflation study) | 5,872 | 99.4% by name | Food aisles only; image and link for all; brand from the name (79%); barcode from image names (25%) |
+| Ideal (ideal.com.tr), groceries | Category pages | 2,723 | 100% by name | Image and link for all; brand from the name (86%); no barcodes |
 
 Model codes that appear at two stores (= products we can already compare):
 Beymen–Pozitif 203, Beymen–Samsung 117.
@@ -88,11 +93,23 @@ scrapers/
     pozitif_specs.py
     samsung_specs.py
     beymen_specs.py
+    marketzade_specs.py
+    hakmar_specs.py
+    sariyer_specs.py
+    happycenter_specs.py
+    ideal_specs.py
+    sariyer/           fetching code copied from the inflation study's Sariyer scraper
+    happycenter/       crawling code copied from the inflation study's HappyCenter scraper
 data/
   specs/
     pozitif_specs.csv
     samsung_specs.csv
     beymen_specs.csv
+    marketzade_specs.csv
+    hakmar_specs.csv
+    sariyer_specs.csv
+    happycenter_specs.csv
+    ideal_specs.csv
 ```
 
 ## Running it
@@ -104,6 +121,11 @@ pip install -r scrapers/requirements.txt
 python scrapers/specs/pozitif_specs.py   # ~20 s
 python scrapers/specs/samsung_specs.py   # ~35 s
 python scrapers/specs/beymen_specs.py    # needs the inflation study's daily CSVs (below)
+python scrapers/specs/marketzade_specs.py  # ~4 min
+python scrapers/specs/hakmar_specs.py      # ~2 min
+python scrapers/specs/sariyer_specs.py     # ~9 min
+python scrapers/specs/happycenter_specs.py # ~8 min
+python scrapers/specs/ideal_specs.py       # ~7 min
 ```
 
 Running a script again **updates** its CSV instead of replacing it. New products are
@@ -135,6 +157,10 @@ python scrapers/specs/beymen_specs.py --datas "D:/path/to/InflationItems/Datas"
 | `url`, `image_url` | | "Go to store" link, product picture |
 | `first_seen`, `last_seen` | `2026-09-28` | When the store listed it |
 
+Grocery stores use a shorter set: `retailer, retailer_product_id, barcode, name, brand, category, size,
+url, image_url, attributes, first_seen, last_seen`. `name` is the join key to their daily prices
+(their daily files have no id), and `barcode` is the matching key across stores.
+
 Full list: [`scrapers/specs/README.md`](scrapers/specs/README.md).
 
 ## For the other teams
@@ -145,6 +171,10 @@ Full list: [`scrapers/specs/README.md`](scrapers/specs/README.md).
 - **Team 02 (matching):** match on `model_code` first. That alone links hundreds
   of products. Use `storage_gb` + `color` + `family` for the rest, and keep
   `condition` separate.
+  For groceries, match on `barcode` first (Hakmar 95%, Marketzade 76%, HappyCenter 25%;
+  194 barcodes are already at two or more stores), then `brand` + `size` + name. Barcodes read
+  from image file names (Marketzade, HappyCenter) can be wrong when a store reuses a picture, so
+  confirm them with brand and size.
 - **Team 03 (database):** a store listing is identified by
   `(retailer, retailer_product_id)`, **not by URL**: Beymen and Vatan have no URL in
   the daily data, so `offers.product_url` must be allowed to be empty. Daily prices go
