@@ -30,10 +30,10 @@ Marketzade 99.7%, Hakmar 97.5%, Sariyer 99.1%, HappyCenter 99.4%, Ideal 100%
 
 Groceries use a shorter column list than electronics, because colour, storage or RAM would always be empty:
 
-retailer, retailer_product_id, barcode, name, brand, category, size, url, image_url, attributes, first_seen, last_seen
+retailer, retailer_product_id, catalog_offer_id, barcode, name, brand, category, tuik_code, size, unit, pack_quantity, variant, data_quality_status, url, image_url, attributes, first_seen, last_seen
 
 - **barcode** is the key for matching the same product across stores (see [[common.py_notes]] for how it is checked).
 - **brand** comes from the store when it gives one, otherwise from the name (see [[brands.py_notes]]).
-- **size** is the pack size written in the name: `30 Gr`, `1 L`, `6x200 ml`.
+- **size**, **unit**, **pack_quantity**, **variant**, **tuik_code**, **data_quality_status** and **catalog_offer_id** come from Esra's cleaned catalog (see [[catalog.py_notes]]).
 
 Each store: [[marketzade_scraper_notes]], [[hakmar_scraper_notes]], [[sariyer_scraper_notes]], [[happycenter_scraper_notes]], [[ideal_scraper_notes]]

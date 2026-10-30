@@ -179,9 +179,12 @@ file link to exactly one product.
 | `url`, `image_url` | | "Go to store" link, product picture |
 | `first_seen`, `last_seen` | `2026-09-28` | When the store listed it |
 
-Grocery stores use a shorter set: `retailer, retailer_product_id, barcode, name, brand, category, size,
-url, image_url, attributes, first_seen, last_seen`. `name` is the join key to their daily prices
-(their daily files have no id), and `barcode` is the matching key across stores.
+Grocery stores use their own set: `retailer, retailer_product_id, catalog_offer_id, barcode, name,
+brand, category, tuik_code, size, unit, pack_quantity, variant, data_quality_status, url, image_url,
+attributes, first_seen, last_seen`. `name` is the join key to their daily prices (their daily files
+have no id), and `barcode` is the matching key across stores. `catalog_offer_id`, `tuik_code`, the
+standardized size fields and `data_quality_status` come from Esra's cleaned catalog
+(`data/groceries/pricematch/`), so our spec files and her catalog are linked row by row.
 
 Full list: [`scrapers/specs/README.md`](scrapers/specs/README.md).
 

@@ -31,4 +31,10 @@ This way "ÜLKER", "Ülker" and "ulker" are all the same.
 
 To check it, we ran it on Hakmar and Marketzade, where the store's own brand is known: it gave the same brand for 90–96% of products. The products without a brand are mostly ones that have none ("Patates Kg", "Köy Biberi") or small local brands missing from the list.
 
+**One spelling per brand**
+
+The same brand is often written differently by different stores: `PAKMAYA` and `Pakmaya`, `Frıskıes` and `Friskies`, `Mehmet efendi` and `Mehmet Efendi`. To a database these are different words, so it would create the brand twice and a "Pakmaya" filter would miss half its products.
+
+`canonical()` gives every brand one spelling. It first looks in brands/brand_spelling.json, a short list for abbreviations (`HP`, `JBL`) and brands Esra's catalog does not have, then in Esra's catalog, which already uses one spelling per brand. It also removes an invisible dot that some sites leave after an upper-case İ (`Sabri̇` → `Sabri`). Every spec file, electronics too, is saved through it.
+
 See [[groceries_overview_notes]].
