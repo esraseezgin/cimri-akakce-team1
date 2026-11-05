@@ -4,9 +4,7 @@ This package holds Esra's Week 1 work for Team 01 (Data Collection & Processing)
 
 ## Where it goes
 
-In the handoff ZIP, every file sits under `Data Collection & Processing Team/`.
-
-That path was read from `isah-ismail/PriceMatch` at commit `f53cb3cd75e3ae3ce2abca7d265080b2ac592103`. The repository has one folder per team, and its history includes commits by Isah, Umut and Fatima. At that commit, no file in this package has the same path as an existing file. Nothing has been uploaded.
+These files belong in `Data Collection & Processing Team/` in `isah-ismail/PriceMatch`. At commit `f53cb3cd75e3ae3ce2abca7d265080b2ac592103`, no file in this package has the same path as an existing file.
 
 ## Week 1 tasks and evidence
 
