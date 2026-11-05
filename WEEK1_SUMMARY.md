@@ -16,12 +16,15 @@ Umut (scraping), Esra (cleaning). This page lists where each Week 1 task from th
 
 ## Esra — Cleaning
 
-| Task | Where |
-|---|---|
-| Load sample files, list columns and types | [data/groceries/pricematch/data_dictionary.md](data/groceries/pricematch/data_dictionary.md) |
-| Missing values, duplicates, formats | [data/groceries/pricematch/data_quality_report.md](data/groceries/pricematch/data_quality_report.md), [data_quality_stats.csv](data/groceries/pricematch/data_quality_stats.csv) |
-| Compare the stores' formats | [data/groceries/pricematch/data_quality_report.md](data/groceries/pricematch/data_quality_report.md) |
-| Data dictionary | Groceries: [data_dictionary.md](data/groceries/pricematch/data_dictionary.md). Electronics: [scrapers/specs/README.md](scrapers/specs/README.md), [data/specs_clean/README.md](data/specs_clean/README.md) |
+| Task | Evidence | Status |
+|---|---|---|
+| Load and inspect sample files | [schema_summary.csv](data/audit/schema_summary.csv): 27 stores and 8 spec files. [store_inventory.csv](data/audit/store_inventory.csv): 373 folders, inventory only | Done |
+| List fields and types | [field_inventory.csv](data/audit/field_inventory.csv): inferred and recommended types | Done for the 27 stores and 8 spec files |
+| Find missing values, duplicates and inconsistent formats | [week1_audit_report.md](data/audit/week1_audit_report.md) sections 3–6, [electronics_quality_stats.csv](data/audit/electronics_quality_stats.csv), [grocery report](data/groceries/pricematch/data_quality_report.md) | Done; links checked for syntax only |
+| Compare store schemas | [week1_audit_report.md](data/audit/week1_audit_report.md) section 3: 7 schemas | Done for the 27 stores and 8 spec files |
+| Draft the data dictionary | [DATA_DICTIONARY.md](DATA_DICTIONARY.md) | Draft done; column names need Team 02 and 03 confirmation |
+
+Supporting draft: [REQUIRED_FIELD_CHECKLIST.md](REQUIRED_FIELD_CHECKLIST.md), also waiting for Teams 02 and 03.
 
 ## Dataset audit for the MVP stores
 

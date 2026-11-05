@@ -2,6 +2,8 @@
 
 Source: the daily price files of the inflation study (`InflationResearchStudy/InflationItems/Datas/01_Food/<Store>/`), newest file per store; 24 supermarkets. All files are UTF-8, comma-separated, with a header row. Empty means "not known": no value is ever guessed.
 
+`products_master.csv`, `product_matches.csv` and `unmatched_products.csv` are now in `archive_esra_old_work/matching_groundwork/`.
+
 ## pricematch_cleaned_all_markets.csv and stores/<Store>.csv
 
 `pricematch_cleaned_all_markets.csv` is the **product catalog** of all 24 stores in one file (99,375 rows, 19 columns). Product facts (name, brand, size, IDs) are collected once; prices are scraped daily and joined to this catalog on `offer_id`; cross-store matching is another team's task. So this file has the columns below **except** `price`, `scrape_date`, `source_file`, `source_row`, `product_id`, `canonical_product_name` and `match_status`. For rows without an `offer_id` (same name with two prices in one store), `record_key` is the key.
